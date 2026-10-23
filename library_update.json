@@ -1,1696 +1,523 @@
 {
- "id": "2026-10-23-burma-archives-and-new-2026",
- "title": "Burma Archives and New Rohingya Books 2026",
- "categories": [
+ "id": "2026-10-23-store-compliance",
+ "title": "Store compliance: hide copyrighted and policy-risk books",
+ "categories": [],
+ "add": {},
+ "move": [],
+ "relink": [],
+ "hide": [
   {
-   "key": "RohingyaBooks",
-   "title": "Rohingya Books",
-   "hanifiTitle": "𐴌𐴟𐴇𐴥𐴝𐴚𐴒𐴙𐴝 𐴑𐴞𐴃𐴝𐴁𐴢",
-   "subtitle": "Language, culture & Rohingya Hanifi script literature",
-   "icon": "menu_book",
-   "color": "#3A7D7E",
-   "color2": "#122D42",
-   "order": 10,
-   "hidden": false
+   "driveId": "1zPJtb514JUu2rnnEmoujCfUN9Oez47BR",
+   "title": "The Rohingyas : inside Myanmar's hidden genocide",
+   "reason": "copyright",
+   "note": "Commercially published or copyrighted; no permission on record to share it."
   },
   {
-   "key": "HistoricalBooks",
-   "title": "Historical Books",
-   "hanifiTitle": "𐴃𐴝𐴌𐴞𐴑𐴞 𐴑𐴞𐴃𐴝𐴁𐴢",
-   "subtitle": "Chronicles, heritage and ancestral Arakan accounts",
-   "icon": "account_balance",
-   "color": "#8A5A2B",
-   "color2": "#A8743F",
-   "order": 20,
-   "hidden": false
+   "driveId": "1AQaE2xK4ORHlUh9IZA0ehtI90ersKEDf",
+   "title": "The Rohingya Crisis",
+   "reason": "copyright",
+   "note": "Commercially published or copyrighted; no permission on record to share it."
   },
   {
-   "key": "ReportsResearch",
-   "title": "Reports & Research",
-   "hanifiTitle": "",
-   "subtitle": "Human-rights reports, investigations and academic research",
-   "icon": "description",
-   "color": "#2E5E73",
-   "color2": "#3F7A91",
-   "order": 30,
-   "hidden": false
+   "driveId": "1J0cYmOaYIglkd7LRLDeYhOrzwuIuAilB",
+   "title": "Vaishali-and-the-indianization-of-arakan",
+   "reason": "copyright",
+   "note": "Commercially published or copyrighted; no permission on record to share it."
   },
   {
-   "key": "BurmaArchives",
-   "title": "Burma Archives",
-   "hanifiTitle": "",
-   "subtitle": "Colonial records, gazetteers, census and the history of Burma",
-   "icon": "history_edu",
-   "color": "#6B6234",
-   "color2": "#857B45",
-   "order": 40,
-   "hidden": false
+   "driveId": "16RY40tlKZHbyHRBCw6uswweYFwh57AW_",
+   "title": "Arkan rule in Chittagong (1550--1666 A.D)",
+   "reason": "copyright",
+   "note": "Commercially published or copyrighted; no permission on record to share it."
   },
   {
-   "key": "AntiRohingyaBooks",
-   "title": "Anti Rohingya Books",
-   "hanifiTitle": "𐴌𐴡𐴊𐴧𐴞 𐴑𐴞𐴃𐴝𐴁𐴢",
-   "subtitle": "Scholarly counter-narratives & factual refutations",
-   "icon": "fact_check",
-   "color": "#A2412F",
-   "color2": "#BF5A44",
-   "order": 50,
-   "hidden": false
+   "driveId": "165ojYdGsrt-oDzWzVg8WOi1QL2CK7T-B",
+   "title": "Buddhist Kings with Muslim names",
+   "reason": "copyright",
+   "note": "Commercially published or copyrighted; no permission on record to share it."
   },
   {
-   "key": "ReligiousBooks",
-   "title": "Religious Books",
-   "hanifiTitle": "𐴊𐴞𐴕𐴞 𐴑𐴞𐴃𐴝𐴁𐴢",
-   "subtitle": "Islamic theology, Quranic studies & jurisprudence",
-   "icon": "mosque",
-   "color": "#2F6B4F",
-   "color2": "#3F8A66",
-   "order": 60,
-   "hidden": false
+   "driveId": "1lupwFXY83soAMJzlnCD78Tfc3aNkVq3I",
+   "title": "Rohingya refugees in world press 1978",
+   "reason": "copyright",
+   "note": "Commercially published or copyrighted; no permission on record to share it."
   },
   {
-   "key": "MyanmarTextBooks",
-   "title": "Myanmar Textbooks",
-   "hanifiTitle": "𐴁𐴡𐴌𐴔𐴝 𐴑𐴠𐴃𐴝𐴁𐴢",
-   "subtitle": "School curricula, textbooks & grammar readers",
-   "icon": "school",
-   "color": "#2F4F8A",
-   "color2": "#4766A8",
-   "order": 70,
-   "hidden": false
+   "driveId": "1wy8SCXhfnmajvrsrxXmpYeg0P0CLgkYb",
+   "title": "The Plight of Rohingyas in the World Media",
+   "reason": "copyright",
+   "note": "Commercially published or copyrighted; no permission on record to share it."
   },
   {
-   "key": "OtherBooks",
-   "title": "Other Books",
-   "hanifiTitle": "𐴔𐴠𐴒𐴠𐴎𐴞𐴕 𐴀𐴝𐴌 𐴀𐴡𐴕𐴧𐴡",
-   "subtitle": "General literature, poetry and multilingual editions",
-   "icon": "local_library",
-   "color": "#6A3E6E",
-   "color2": "#85558A",
-   "order": 80,
-   "hidden": false
+   "driveId": "1cIEAGoRNXoYwlZkNtGE09xBPW-6-g3Dg",
+   "title": "Myanmar's Rohingya Genocide: Identity, History and Hate Speech",
+   "reason": "copyright",
+   "note": "Commercially published or copyrighted; no permission on record to share it."
+  },
+  {
+   "driveId": "1XX4eYNqf4ye2sWuWQEdNHRMrQ4D-gOLt",
+   "title": "أراكان والمنظمات الروهنجية (Arakan and Rohingya Organizations)",
+   "reason": "copyright",
+   "note": "Commercially published or copyrighted; no permission on record to share it."
+  },
+  {
+   "driveId": "1Vd7oz5VuQETKpfUKGpyqCIpu9ErXXq0p",
+   "title": "Burma's Lost Kingdoms: Splendours of Arakan",
+   "reason": "copyright",
+   "note": "Commercially published or copyrighted; no permission on record to share it."
+  },
+  {
+   "driveId": "1A87qe0pQ_XI8PGwmcBfCYVNaUcsnkgGz",
+   "title": "The Buddhist Art of Ancient Arakan",
+   "reason": "copyright",
+   "note": "Commercially published or copyrighted; no permission on record to share it."
+  },
+  {
+   "driveId": "1IMLn_kwrVqaiyn75--NZTbdsoxtF49Rr",
+   "title": "The Burmese Labyrinth: A History of the Rohingya Tragedy",
+   "reason": "copyright",
+   "note": "Commercially published or copyrighted; no permission on record to share it."
+  },
+  {
+   "driveId": "1i0Z6Kfc4UyJtq17o185z6ZTxlxFwqgr6",
+   "title": "The Hidden History of Burma: Race, Capitalism, and the Crisis of Democracy in the 21st Century",
+   "reason": "copyright",
+   "note": "Commercially published or copyrighted; no permission on record to share it."
+  },
+  {
+   "driveId": "1-zhzXzMx3GBXvdPcrj-EVtM2MYeG5fmZ",
+   "title": "The Muslims of Burma: A Study of a Minority Group",
+   "reason": "copyright",
+   "note": "Commercially published or copyrighted; no permission on record to share it."
+  },
+  {
+   "driveId": "1KN-dTpkoWCnBghfYSzcpHlCUbkGQSjEa",
+   "title": "ကိုယ်တွေ့ မေယုမြေ",
+   "reason": "copyright",
+   "note": "Commercially published or copyrighted; no permission on record to share it."
+  },
+  {
+   "driveId": "1FD8ke_r8FuynreE1Hf_AuXMMRkQYeEjT",
+   "title": "ကိုလိုနီဘဝ ရွှေပြည်ရခိုင်",
+   "reason": "copyright",
+   "note": "Commercially published or copyrighted; no permission on record to share it."
+  },
+  {
+   "driveId": "1UPqmnaCb6lpZlBMkU_EgG_n2BCnvCIpE",
+   "title": "အေဒီခြောက်ရာစုနှင့် ယင်းမတိုင်မီ ရခိုင်ပြည်သုံးအက္ခရာ",
+   "reason": "copyright",
+   "note": "Commercially published or copyrighted; no permission on record to share it."
+  },
+  {
+   "driveId": "1NdHdB9y3oEXXiadZW2nCiVZZBRgtAAn6",
+   "title": "Defence and security alert magazine",
+   "reason": "copyright",
+   "note": "Commercially published or copyrighted; no permission on record to share it."
+  },
+  {
+   "driveId": "1KVUNvOBEhXtXnhL_LA6I0EwAITfSg9up",
+   "title": "I Am a Rohingya: Poetry from the Camps and Beyond",
+   "reason": "copyright",
+   "note": "Commercially published or copyrighted; no permission on record to share it."
+  },
+  {
+   "driveId": "16OFd2DgZspGeWcZLYw0oHmhmW8vYTIfA",
+   "title": "The Latest Massacre in violance field",
+   "reason": "copyright",
+   "note": "Commercially published or copyrighted; no permission on record to share it."
+  },
+  {
+   "driveId": "1iQ0ZYDWkQ13tz5_ZaWPqj-eltEbnd4ki",
+   "title": "The Rohingya Muslims in Myanmar Past, Present, and Future",
+   "reason": "copyright",
+   "note": "Commercially published or copyrighted; no permission on record to share it."
+  },
+  {
+   "driveId": "1t0QsQDHeVKDSPrHWuk2JLs2oEZR1SaWu",
+   "title": "The Rohingya Origin Story Two Narratives, One Conflict",
+   "reason": "copyright",
+   "note": "Commercially published or copyrighted; no permission on record to share it."
+  },
+  {
+   "driveId": "1JgOjR1twNoOcMRwS9JzN1XDHa0-hirdW",
+   "title": "Rohingya nescent to neighbour",
+   "reason": "copyright",
+   "note": "Commercially published or copyrighted; no permission on record to share it."
+  },
+  {
+   "driveId": "19ym1_St968WKSbJj6sC07wcYix7VBRtF",
+   "title": "Rohingya: Stateless People and Nowhere to Go",
+   "reason": "copyright",
+   "note": "Commercially published or copyrighted; no permission on record to share it."
+  },
+  {
+   "driveId": "1WRuZH5owAQu1SGWxcaYyCEgAgBp3Fo1O",
+   "title": "Genocide and Geopolitics of the Rohingya Crisis",
+   "reason": "copyright",
+   "note": "Commercially published or copyrighted; no permission on record to share it."
+  },
+  {
+   "driveId": "1zU2SNDqGmHb5uNy5DmHyah9Sk4w4a3QY",
+   "title": "Genocide and Mass Violence: Politics of Singularity",
+   "reason": "copyright",
+   "note": "Commercially published or copyrighted; no permission on record to share it."
+  },
+  {
+   "driveId": "14vmXJQA_cgnH0qvMTzvsB76QohE7nyk7",
+   "title": "Rohingya Crisis",
+   "reason": "copyright",
+   "note": "Commercially published or copyrighted; no permission on record to share it."
+  },
+  {
+   "driveId": "1s4o4vzsqv7virkUOvmbbQyFfQuN9lajB",
+   "title": "Rohingya: Nascent Neighbourhoods in Displaced Landscapes",
+   "reason": "copyright",
+   "note": "Commercially published or copyrighted; no permission on record to share it."
+  },
+  {
+   "driveId": "1B3eJrRQLu9jc76k5oDvlwH1e6dBjSpxj",
+   "title": "Rethinking Community in Myanmar: Practices of We-Formation among Muslims and Hindus in Urban Yangon",
+   "reason": "copyright",
+   "note": "Commercially published or copyrighted; no permission on record to share it."
+  },
+  {
+   "driveId": "1TBjGHi6z-vQNbhb07RDMOQr1gnEaHmKL",
+   "title": "The Dalhousie–Phayre Correspondence, 1852–1856",
+   "reason": "copyright",
+   "note": "Commercially published or copyrighted; no permission on record to share it."
+  },
+  {
+   "driveId": "17UtuBbgfd86q1qjQNHU_R7Cc7GbEVWt6",
+   "title": "The Mists of Rāmañña: The Legend That Was Lower Burma",
+   "reason": "copyright",
+   "note": "Commercially published or copyrighted; no permission on record to share it."
+  },
+  {
+   "driveId": "1pQSR8Y4ion2wgxYangOA_RPeQ_dg8nIr",
+   "title": "Puisi(Poetry) Rohingya(in Malay Language) 08 2017",
+   "reason": "unverified",
+   "note": "Source and rights could not be confirmed."
+  },
+  {
+   "driveId": "1lHA2HceEYR0rFBv8sWyt3EGz6VGBzhUD",
+   "title": "BREVISSIMA NON-STORIA DELLA POPOLAZIONE ROHINGYA(Italian Language)",
+   "reason": "unverified",
+   "note": "Source and rights could not be confirmed."
+  },
+  {
+   "driveId": "1hsRSMGV0A8uu8_8-Kijp7shQj1kV-a3k",
+   "title": "Rohingya refugees and contemporary issues in Malaysia",
+   "reason": "unverified",
+   "note": "Source and rights could not be confirmed."
+  },
+  {
+   "driveId": "1Ws5wk2c0f_xM8wdwOYLNNPYe2-Dwjlmd",
+   "title": "The persecution of the Rohingya by the Burmese (Myanmar) Government",
+   "reason": "unverified",
+   "note": "Source and rights could not be confirmed."
+  },
+  {
+   "driveId": "1hPIawVsqUJSrc5jeUCzHnmJ8UVGY-KLw",
+   "title": "The persecution of the Rohingya by the Burmese (Myanmar) Government",
+   "reason": "unverified",
+   "note": "Source and rights could not be confirmed."
+  },
+  {
+   "driveId": "1jTMBRhSFfAKcu9UYCMGtSQq_ElF7DPhM",
+   "title": "Citizenship Challenges in Myanmar’s Democratic Transition",
+   "reason": "unverified",
+   "note": "Source and rights could not be confirmed."
+  },
+  {
+   "driveId": "1T2-RcJPsckMdQhWS5eTVllUEYJMo-Rqe",
+   "title": "Pahari Gorkhali Rohingya",
+   "reason": "unverified",
+   "note": "Source and rights could not be confirmed."
+  },
+  {
+   "driveId": "1a87C6hjYiA23PJrtpgCZ0ynUVZS8Sxpn",
+   "title": "Rohingya in France language",
+   "reason": "unverified",
+   "note": "Source and rights could not be confirmed."
+  },
+  {
+   "driveId": "1mtGHTZB-5zUtvZMJ5aSAAkyBSa3jNYrD",
+   "title": "Rohingya The forgotten People",
+   "reason": "unverified",
+   "note": "Source and rights could not be confirmed."
+  },
+  {
+   "driveId": "1PPn_M2i74P6y3bHsHz-WK2Adh4w-5YdZ",
+   "title": "Ancient Arakan",
+   "reason": "thesis",
+   "note": "University thesis: the author or university holds the rights; check its licence before showing it."
+  },
+  {
+   "driveId": "12tN2LM-blLDAR_qbxECVYxNFmXgf4lOw",
+   "title": "Arakan, Min Yazagyi, and the Portuguese",
+   "reason": "thesis",
+   "note": "University thesis: the author or university holds the rights; check its licence before showing it."
+  },
+  {
+   "driveId": "1iAwen69t968SsuWmtBXNkZbf8ndb0HyO",
+   "title": "Where Jambudipa and Islamdom Converged",
+   "reason": "thesis",
+   "note": "University thesis: the author or university holds the rights; check its licence before showing it."
+  },
+  {
+   "driveId": "1fTHUi4HvQ8wZvyj7rFTZCnPW1-5NU6Oo",
+   "title": "မြောက်ဦးခေတ်နှောင်း ရခိုင်သမိုင်း (အေဒီ ၁၆၃၈–၁၇၈၄)",
+   "reason": "thesis",
+   "note": "University thesis: the author or university holds the rights; check its licence before showing it."
+  },
+  {
+   "driveId": "1_7h2oiMU6FcdGYbYkACU0e8SPmr_ByNU",
+   "title": "The Rohingya Conflict: An Analysis through the Lens of the Geopolitical Economy of Resources",
+   "reason": "thesis",
+   "note": "University thesis: the author or university holds the rights; check its licence before showing it."
+  },
+  {
+   "driveId": "1FedSA-3gaMSjCr1W16JrIzMg-pHuIapB",
+   "title": "Political Buddhism and the Exclusion of Rohingya in Myanmar",
+   "reason": "thesis",
+   "note": "University thesis: the author or university holds the rights; check its licence before showing it."
+  },
+  {
+   "driveId": "1xGBJvbdq94WmgDsy9LlSi1TWgvJJe1Df",
+   "title": "'Imagining' the Rohingya: Navigating Identity, Memory, and Visibility",
+   "reason": "thesis",
+   "note": "University thesis: the author or university holds the rights; check its licence before showing it."
+  },
+  {
+   "driveId": "12ADWth9jLdsvc34-zzuDFR0NUxeQOzye",
+   "title": "(Re)Imagining Justice: Documentation of Sexual Violence against Rohingya Women and Girls",
+   "reason": "thesis",
+   "note": "University thesis: the author or university holds the rights; check its licence before showing it."
+  },
+  {
+   "driveId": "1JcekDKnhDyi6U7QU6OrOi42I05w4H9XY",
+   "title": "An Analysis of Identity and Citizenship Crisis of the Rohingya of Myanmar",
+   "reason": "thesis",
+   "note": "University thesis: the author or university holds the rights; check its licence before showing it."
+  },
+  {
+   "driveId": "1-FKt7-aH8gh_pah0HCispLhHFS7bOZ_5",
+   "title": "Barriers to Providing Basic Education among Rohingya Refugee Children",
+   "reason": "thesis",
+   "note": "University thesis: the author or university holds the rights; check its licence before showing it."
+  },
+  {
+   "driveId": "1rPS0EQvvcoVqdN3v3ClVLV2zdjOF-0NZ",
+   "title": "Citizenship and Genocide Cards: IDs, Statelessness and Rohingya Resistance in Myanmar",
+   "reason": "thesis",
+   "note": "University thesis: the author or university holds the rights; check its licence before showing it."
+  },
+  {
+   "driveId": "1lyH-oHiabF4DfJJwt_k3L5vCf3M8Gwnq",
+   "title": "Complex Survivors: Adolescent Boys and the Humanitarian Response to the Rohingya Refugee Crisis",
+   "reason": "thesis",
+   "note": "University thesis: the author or university holds the rights; check its licence before showing it."
+  },
+  {
+   "driveId": "1xNnoBjGnEagmiZpyQ8ROwYBLL7HsnJfw",
+   "title": "Construction of Health among the Rohingya Refugees in Bangladesh",
+   "reason": "thesis",
+   "note": "University thesis: the author or university holds the rights; check its licence before showing it."
+  },
+  {
+   "driveId": "1Dk9My3ayHz0NjUFfcS8cUXUo-EwIt5fp",
+   "title": "Examining the ASEAN Intergovernmental Commission on Human Rights: The Rohingya Crisis",
+   "reason": "thesis",
+   "note": "University thesis: the author or university holds the rights; check its licence before showing it."
+  },
+  {
+   "driveId": "13H2VuSMj9UydccMJpnCG3ua5zIncsdKa",
+   "title": "Experiences of Statelessness and Refugee Protection: Rohingya Life in Sydney",
+   "reason": "thesis",
+   "note": "University thesis: the author or university holds the rights; check its licence before showing it."
+  },
+  {
+   "driveId": "1Wg5kyi00XFlgoZjOWZX4QyJtdo2YdqKi",
+   "title": "Gendered Access to Space and Infrastructural Challenges: Rohingya Women in Refugee Camps",
+   "reason": "thesis",
+   "note": "University thesis: the author or university holds the rights; check its licence before showing it."
+  },
+  {
+   "driveId": "1KPBy9Ms7le61bINIO_ULXi-AX2-5f2uw",
+   "title": "Intimations of an 'Us': Imagining and Encountering the 'Refugee Other' in Indonesia",
+   "reason": "thesis",
+   "note": "University thesis: the author or university holds the rights; check its licence before showing it."
+  },
+  {
+   "driveId": "1laeMYxpof_7Hq621UpWx6PbhPcA3bsXb",
+   "title": "Migrant Agency in the Global South: The Movements of Rohingya in Myanmar, Bangladesh and Malaysia",
+   "reason": "thesis",
+   "note": "University thesis: the author or university holds the rights; check its licence before showing it."
+  },
+  {
+   "driveId": "1ljr8VFxbj0Q-XUafFrAXCz3Rx2veizav",
+   "title": "Physical Environment of Child Friendly Spaces for Forcibly Displaced Rohingya Children",
+   "reason": "thesis",
+   "note": "University thesis: the author or university holds the rights; check its licence before showing it."
+  },
+  {
+   "driveId": "1qxeh-ttowNzdy2y_KZnxQZ3Y5UcmebS6",
+   "title": "Refugee Protection in ASEAN: The Case of the Rohingya Refugee Crisis",
+   "reason": "thesis",
+   "note": "University thesis: the author or university holds the rights; check its licence before showing it."
+  },
+  {
+   "driveId": "1MgemzVu7NQrc2DBPGS_6ukzSR1owJlqK",
+   "title": "Rohingyas in Bangladesh: Owning Rohingya Identity in Disowning Spaces",
+   "reason": "thesis",
+   "note": "University thesis: the author or university holds the rights; check its licence before showing it."
+  },
+  {
+   "driveId": "19lG5gHLB0gmo6C74GAe8ighCrVkJxeTJ",
+   "title": "The Impact of Indonesia's Refugee Policy 2016–2023: The Rohingya Refugees",
+   "reason": "thesis",
+   "note": "University thesis: the author or university holds the rights; check its licence before showing it."
+  },
+  {
+   "driveId": "1kkJ35LE18k8Hw1pX8O_nxvJTRFILtUCW",
+   "title": "The Impact of Refugees on Host Countries: Bangladesh under the Rohingya Influx",
+   "reason": "thesis",
+   "note": "University thesis: the author or university holds the rights; check its licence before showing it."
+  },
+  {
+   "driveId": "1WqCO-RT6AVzc1ApPdT1r02UZofwIjeN2",
+   "title": "The Rohingya Refugees: In Exile with the Hope to Return",
+   "reason": "thesis",
+   "note": "University thesis: the author or university holds the rights; check its licence before showing it."
+  },
+  {
+   "driveId": "1fU-uuI5poxqR6yBiG9JtdhtkSNLnwOib",
+   "title": "The Role of ASEAN in Response to the Problems of the Rohingya Refugees",
+   "reason": "thesis",
+   "note": "University thesis: the author or university holds the rights; check its licence before showing it."
+  },
+  {
+   "driveId": "1TufyxfUnv_4TjZkOZyN_-_y28MxSs5RE",
+   "title": "Understanding Bangladesh's Historical Perspectives through the 2017 Rohingya Crisis",
+   "reason": "thesis",
+   "note": "University thesis: the author or university holds the rights; check its licence before showing it."
+  },
+  {
+   "driveId": "1jsfn67lCyk9xiRjFxHuhlu2ymEO1D09H",
+   "title": "United Nations Humanitarian Response to the Rohingya Crisis, 2001–2018",
+   "reason": "thesis",
+   "note": "University thesis: the author or university holds the rights; check its licence before showing it."
+  },
+  {
+   "driveId": "1-xvLG-UGkym5xded9hFLCqg0VxFsd_R6",
+   "title": "Zimmadari and Gendered Belonging: The Lived Experiences of Rohingya Men in Refugee Camps",
+   "reason": "thesis",
+   "note": "University thesis: the author or university holds the rights; check its licence before showing it."
+  },
+  {
+   "driveId": "1-mOLAkyFAYynhMaSW7a3mBEShkMiOy25",
+   "title": "အကြမ်းဖက်မှုတို့မြစ်ဖျားခံရာ",
+   "reason": "hate",
+   "note": "Anti-Rohingya material (hate speech or genocide denial) and copyrighted; against store content policies."
+  },
+  {
+   "driveId": "1LiqiDmp_Xr522DRTEt7VYsW-56F94nDS",
+   "title": "အမျိူးပျောက်မှာစိုးကြောက်စရာ",
+   "reason": "hate",
+   "note": "Anti-Rohingya material (hate speech or genocide denial) and copyrighted; against store content policies."
+  },
+  {
+   "driveId": "1f6dCdD2VsD6An8YA58dutUN4vlSiKVTE",
+   "title": "ပါလီမန်ဒီမိုကရေစီခေတ်ရခိုင်နိုင်ငံရေးနှင့်မျက်မှောက်ခေတ်ဘူးသီးတောင်မောင်တောအခြေအနေ",
+   "reason": "hate",
+   "note": "Anti-Rohingya material (hate speech or genocide denial) and copyrighted; against store content policies."
+  },
+  {
+   "driveId": "1PCHx66rbMhzBEokSkgQ1DHOQsfK125-f",
+   "title": "Influx Virus Rohingya",
+   "reason": "hate",
+   "note": "Anti-Rohingya material (hate speech or genocide denial) and copyrighted; against store content policies."
+  },
+  {
+   "driveId": "1725Az3kmlsd0TmvtyO0nVMy1VPLAYiqG",
+   "title": "Rohingya Islamic terrorist attacked",
+   "reason": "hate",
+   "note": "Anti-Rohingya material (hate speech or genocide denial) and copyrighted; against store content policies."
+  },
+  {
+   "driveId": "1iraofF3Me7L6WTAz6WNTQIRRgMFOI4G4",
+   "title": "Rohingya terrorist movement",
+   "reason": "hate",
+   "note": "Anti-Rohingya material (hate speech or genocide denial) and copyrighted; against store content policies."
+  },
+  {
+   "driveId": "1iCVfuapcBreE1zhCaWhqA3BLmzSHABfx",
+   "title": "Rohingya terrorist network",
+   "reason": "hate",
+   "note": "Anti-Rohingya material (hate speech or genocide denial) and copyrighted; against store content policies."
+  },
+  {
+   "driveId": "1GKanLSPdHEIKSO9bcKtbcqyugBLsayi5",
+   "title": "ရိုဟင်ဂျာသမိုင်းလိမ်ကိုဝေဖန်ခြင်း",
+   "reason": "hate",
+   "note": "Anti-Rohingya material (hate speech or genocide denial) and copyrighted; against store content policies."
+  },
+  {
+   "driveId": "17vd0ow2lCII1IX6vBBGd4qge41U_NRe4",
+   "title": "Rohingya Hoax",
+   "reason": "hate",
+   "note": "Anti-Rohingya material (hate speech or genocide denial) and copyrighted; against store content policies."
+  },
+  {
+   "driveId": "1FUjmV-bQYgSizF5NGvxP5dzV8FOUK6K-",
+   "title": "Exposing the False Incrimination of Genocide",
+   "reason": "hate",
+   "note": "Anti-Rohingya material (hate speech or genocide denial) and copyrighted; against store content policies."
+  },
+  {
+   "driveId": "1G9sJC8xS2b_SvjLgbfQSD3ohypE-JYf-",
+   "title": "ဘင်္ဂါလီတို့၏ နယ်မြေလုပွဲ",
+   "reason": "hate",
+   "note": "Anti-Rohingya material (hate speech or genocide denial) and copyrighted; against store content policies."
+  },
+  {
+   "driveId": "1xg4WzvYRq47SL3JmGiwbiF9z9fzQovKR",
+   "title": "Review of Zaw Min Htut's Union of Burma and Ethnic Rohingyas",
+   "reason": "hate",
+   "note": "Anti-Rohingya material (hate speech or genocide denial) and copyrighted; against store content policies."
+  },
+  {
+   "driveId": "1iFTV8tJkTeG6LM-aloBzwPG9BguOy-Ei",
+   "title": "မြောက်ဦးပထမခေတ်သမိုင်း (၁၄၃၀–၁၅၃၁)",
+   "reason": "hate",
+   "note": "Anti-Rohingya material (hate speech or genocide denial) and copyrighted; against store content policies."
+  },
+  {
+   "driveId": "1CEhIG2WtvkcKqjty7qZjDFpJIlrulpfJ",
+   "title": "ARSA Reviving the courageous heart",
+   "reason": "extremist",
+   "note": "Material from an armed group; against store policies on violent extremism."
+  },
+  {
+   "driveId": "146bE0Xtdg3gjVYG_BmGF4_93Je-YTpAX",
+   "title": "The atrocites of Burmese Government and Rohingya Movement(In Urdu)",
+   "reason": "content",
+   "note": "Content not yet verified; may be propaganda from an armed group or the military."
+  },
+  {
+   "driveId": "1BW2C3TtoiIuWVFT5UPilezqLzJz4dL3T",
+   "title": "တပ်မတော်ခေတ်ရေးစာစောင်",
+   "reason": "content",
+   "note": "Content not yet verified; may be propaganda from an armed group or the military."
+  },
+  {
+   "driveId": "1uqEf4SpJ5d60K6uKHQLEOCNPblmbbE3o",
+   "title": "နိုင်ငံခြားသားဝင်ရောက်မှုနှင့်ရခိုင်ပြည်နယ်မှဖြစ်ရပ်အခြေအနေအချိူ့",
+   "reason": "content",
+   "note": "Content not yet verified; may be propaganda from an armed group or the military."
   }
  ],
- "add": {
-  "BurmaArchives": [
-   {
-    "id": "5c53fd44-4794-494e-96f7-1dca8ec9d310",
-    "mNames": "A Bachelor Girl in Burma",
-    "mImageUrls": "https://lh3.googleusercontent.com/d/1iW3VAp7ApN1xR-eqMO7ghweb7w1zNfF6",
-    "mDescription": "An Englishwoman's illustrated travelogue of Burma.\nAuthor : G. E. Mitton\nYear : 1907\nPages : 403\nFile Size : 10.0 MB",
-    "mdwnurl": "https://drive.google.com/uc?export=download&id=1MnOHziHkrBSK5qLJtIMgPb7G6oE8Lo59",
-    "views": 0
-   },
-   {
-    "id": "e364dad7-86fd-404a-9256-0f67f550ba6d",
-    "mNames": "A Burmese Loneliness: A Tale of Travel in Burma, the Southern Shan States and Keng Tung",
-    "mImageUrls": "https://lh3.googleusercontent.com/d/1VzrUTYvUaLkYyVGVJZovyfgkjRqtl2Wt",
-    "mDescription": "A police officer's travels through the Southern Shan States.\nAuthor : C. M. Enriquez\nYear : 1918\nPages : 384\nFile Size : 13.6 MB",
-    "mdwnurl": "https://drive.google.com/uc?export=download&id=1JFGFrskn_g-6C2lsA2fUJZWIQ2JZ7EOY",
-    "views": 0
-   },
-   {
-    "id": "1c5b08f6-6ada-41f3-a451-af72aa40bb94",
-    "mNames": "A Burmese Wonderland: A Tale of Travel in Lower and Upper Burma",
-    "mImageUrls": "https://lh3.googleusercontent.com/d/1LIl9i1Nog5Nwys4rNv-C0ghELn9_wI7H",
-    "mDescription": "Travel, history and folklore of Lower and Upper Burma.\nAuthor : C. M. Enriquez\nYear : 1922\nPages : 324\nFile Size : 13.8 MB",
-    "mdwnurl": "https://drive.google.com/uc?export=download&id=1oRXgB3JsMBmt463X1pT8GTgZgMGb1qeq",
-    "views": 0
-   },
-   {
-    "id": "416ae870-8003-4b05-baa7-59c3cd91f453",
-    "mNames": "A Civil Servant in Burma",
-    "mImageUrls": "https://lh3.googleusercontent.com/d/1ncYJk80D-hlRQVQoWxU1VEOCwa6hN63Y",
-    "mDescription": "Memoir of a Lieutenant-Governor of Burma on 32 years of British administration.\nAuthor : Sir Herbert Thirkell White\nYear : 1913\nPages : 368\nFile Size : 15.3 MB",
-    "mdwnurl": "https://drive.google.com/uc?export=download&id=14n-2pZyBaJWobO_728ap_aObbLXAOsYd",
-    "views": 0
-   },
-   {
-    "id": "617dbd25-6195-4c04-8773-435a57113f21",
-    "mNames": "A Concise Account of the Kingdom of Pegu",
-    "mImageUrls": "https://lh3.googleusercontent.com/d/1h5ANeAIjPEybekIBWcryRHXEfgQBrCqX",
-    "mDescription": "An East India Company surgeon's 1785 account of the Burmese kingdom of Pegu: climate, trade, government and customs.\nAuthor : William Hunter\nYear : 1785\nPages : 153\nFile Size : 133.3 MB",
-    "mdwnurl": "https://drive.google.com/uc?export=download&id=124pTITCTR95DB2L6wTAEoyzhvCvKd0Wl",
-    "views": 0
-   },
-   {
-    "id": "de8bb3be-6dc9-4c13-9bf4-88b0f75c721e",
-    "mNames": "A Description of the Burmese Empire",
-    "mImageUrls": "https://lh3.googleusercontent.com/d/1GDJnS-55E3ADXXa45aTAjonCmaL3RFit",
-    "mDescription": "An Italian missionary's account of Burma, 1783–1808, compiled from Burmese documents.\nAuthor : Vincenzo Sangermano; trans. William Tandy\nYear : 1833\nPages : 242\nFile Size : 7.8 MB",
-    "mdwnurl": "https://drive.google.com/uc?export=download&id=1fOIAVCEna9o7to9LpDxwnNZaKfDQOjAD",
-    "views": 0
-   },
-   {
-    "id": "d861d20f-8f45-4bcf-b98f-b3e8e6f0c165",
-    "mNames": "A Narrative of the First Burmese War, 1824–26",
-    "mImageUrls": "https://lh3.googleusercontent.com/d/1K5kGx66DK4hikElDLWKLlHsUvsbUJtDs",
-    "mDescription": "Official narrative of the First Anglo-Burmese War, the war that brought Arakan under British rule.\nAuthor : G. W. De Rhé-Philipe\nYear : 1905\nPages : 462\nFile Size : 205.6 MB",
-    "mdwnurl": "https://drive.google.com/uc?export=download&id=1jckkBIl_IUrw7kvzp-M-8zzFvnF4TRUW",
-    "views": 0
-   },
-   {
-    "id": "ede1b3a8-af02-4f82-bcd6-24583ed6edf6",
-    "mNames": "A Narrative of the Mission to the Court of Ava in 1855",
-    "mImageUrls": "https://lh3.googleusercontent.com/d/1v5S_9bTxi7Kw8ZlsRS4ZWApNW-s2Sl5x",
-    "mDescription": "Illustrated account of the 1855 British mission to the Burmese king, with notes on the country and people.\nAuthor : Henry Yule\nYear : 1858\nPages : 474\nFile Size : 28.3 MB",
-    "mdwnurl": "https://drive.google.com/uc?export=download&id=194fBQ_f9TxTbBs1HRkiCegVDmNHyIqrk",
-    "views": 0
-   },
-   {
-    "id": "bd22c18e-e18c-4937-99c3-19c289e77ba5",
-    "mNames": "A Parson's Holiday: A Tour in India, Burma and Ceylon",
-    "mImageUrls": "https://lh3.googleusercontent.com/d/1ircLgEVTIK4WGjeNc7IRBBfcdSioyLyP",
-    "mDescription": "A clergyman's winter tour of India, Burma and Ceylon in 1882–83.\nAuthor : William Osborne Bird Allen\nYear : 1885\nPages : 246\nFile Size : 12.3 MB",
-    "mdwnurl": "https://drive.google.com/uc?export=download&id=1DAIVXTP_MyXmpyVYRcWKSo4B-C1XQ8fU",
-    "views": 0
-   },
-   {
-    "id": "0218877b-6900-40d6-b487-910eb80c8dcb",
-    "mNames": "A Personal Narrative of Two Years' Imprisonment in Burmah, 1824–26",
-    "mImageUrls": "https://lh3.googleusercontent.com/d/1fpmv50MWnZOdh7A5Go8lGXdGeM0ZTl5K",
-    "mDescription": "A British merchant's account of imprisonment in Ava during the First Anglo-Burmese War.\nAuthor : Henry Gouger\nYear : 1860\nPages : 366\nFile Size : 14.3 MB",
-    "mdwnurl": "https://drive.google.com/uc?export=download&id=15abX0krv9FEBqgFwRIbFnhHSzGV9coOv",
-    "views": 0
-   },
-   {
-    "id": "2c543896-7959-4f41-8d28-9d05bc466755",
-    "mNames": "A Political History of the Extraordinary Events Which Led to the Burmese War",
-    "mImageUrls": "https://lh3.googleusercontent.com/d/1roVdv3fCi5T9nlp-K8_7koHxcIPn28a7",
-    "mDescription": "A contemporary critique of the causes of the First Anglo-Burmese War.\nAuthor : William White\nYear : 1827\nPages : 201\nFile Size : 10.8 MB",
-    "mdwnurl": "https://drive.google.com/uc?export=download&id=1qpAdshp1XBeZE2fayW7skBI0P5A8GRnI",
-    "views": 0
-   },
-   {
-    "id": "7746d178-022f-40f1-9a87-edcfec50caa8",
-    "mNames": "A Short History of Burma",
-    "mImageUrls": "https://lh3.googleusercontent.com/d/1jCJIIT_xJ25i6stqxu3HatZZyhrgf8LC",
-    "mDescription": "A concise early survey of Burmese history, including Arakan.\nAuthor : S. W. Cocks\nYear : 1919\nPages : 199\nFile Size : 5.5 MB",
-    "mdwnurl": "https://drive.google.com/uc?export=download&id=1n_fgyOODz0hJduFTGTocgh_v_hWOmwhX",
-    "views": 0
-   },
-   {
-    "id": "e3edb344-5c69-41f0-b016-6262fbb4ff0d",
-    "mNames": "A Year on the Irrawaddy",
-    "mImageUrls": "https://lh3.googleusercontent.com/d/1SaGbkHFqRcLdCG3UV6aISy7TW2CERN22",
-    "mDescription": "A year aboard an Irrawaddy Flotilla steamer, from a captain's wife.\nAuthor : E. M. Powell-Brown\nYear : 1911\nPages : 274\nFile Size : 44.4 MB",
-    "mdwnurl": "https://drive.google.com/uc?export=download&id=1BcGOSYJictQYxOPx71_RPS0e75xYX8hJ",
-    "views": 0
-   },
-   {
-    "id": "ee02f481-fe48-477f-abea-eae26c34d6c8",
-    "mNames": "Across Chrysê, Vol. I",
-    "mImageUrls": "https://lh3.googleusercontent.com/d/1gozqEySj6Lkti8bLEPJjoGo-xwwS-MAW",
-    "mDescription": "An 1881–82 exploration from Canton to Mandalay through southern China.\nAuthor : Archibald R. Colquhoun\nYear : 1883\nPages : 483\nFile Size : 21.6 MB",
-    "mdwnurl": "https://drive.google.com/uc?export=download&id=1PFNeAlmtmnDyLS9-4q6fG1rxBYTjEXFz",
-    "views": 0
-   },
-   {
-    "id": "a9c28a5e-29e0-4a7d-931a-3793b543c00a",
-    "mNames": "Across Chrysê, Vol. II",
-    "mImageUrls": "https://lh3.googleusercontent.com/d/1UHTrm1Qlge-np8lDlux7VrVJRlQ1f19i",
-    "mDescription": "An 1881–82 exploration from Canton to Mandalay through southern China.\nAuthor : Archibald R. Colquhoun\nYear : 1883\nPages : 494\nFile Size : 27.6 MB",
-    "mdwnurl": "https://drive.google.com/uc?export=download&id=1WindpMamidpmMS7gErH43ErS58xLLlDB",
-    "views": 0
-   },
-   {
-    "id": "0598e8a2-2313-40a6-93d8-a837ceb35d9d",
-    "mNames": "Amongst the Shans",
-    "mImageUrls": "https://lh3.googleusercontent.com/d/1nAZ0Qjl9j5gc9zTpKb56c4aolRXDA78K",
-    "mDescription": "Exploration of the Shan States, with a historical sketch of the Shan peoples.\nAuthor : Archibald R. Colquhoun\nYear : 1885\nPages : 462\nFile Size : 29.7 MB",
-    "mdwnurl": "https://drive.google.com/uc?export=download&id=1l_JfdVxHc95ETI6cbuSUWwjzUOtoKWXq",
-    "views": 0
-   },
-   {
-    "id": "c988f2bc-165d-409f-a4b5-77fd82d10e19",
-    "mNames": "An Account of an Embassy to the Kingdom of Ava in 1795",
-    "mImageUrls": "https://lh3.googleusercontent.com/d/1YLzhm2wxKCHxyc6LCbjPjlmu2NW58f7h",
-    "mDescription": "The 1795 British embassy to Ava, with an account of Arakan after the Burmese conquest.\nAuthor : Michael Symes\nYear : 1800\nPages : 536\nFile Size : 20.0 MB",
-    "mdwnurl": "https://drive.google.com/uc?export=download&id=1eLrZQpZqRKwdtR37qBrzg6_VQr50RWtX",
-    "views": 0
-   },
-   {
-    "id": "c524da3c-d77d-4428-bab2-9cd960d63a1a",
-    "mNames": "An Account of the Burman Empire",
-    "mImageUrls": "https://lh3.googleusercontent.com/d/10o36gPqOwiPAZl0Iw7tZX8Q2qBFwo2Pa",
-    "mDescription": "Geography, government, peoples and towns of the Burman empire, with a narrative of the First Anglo-Burmese War. Calcutta, 1852.\nAuthor : Compiled from Symes, Canning, Cox, Leyden and Buchanan; narrative by Henry G. Bell\nYear : 1852\nPages : 221\nFile Size : 11.0 MB",
-    "mdwnurl": "https://drive.google.com/uc?export=download&id=1TWMzv4d9RdXb-Y84bPDcscwT7zJHBbu2",
-    "views": 0
-   },
-   {
-    "id": "1ef85221-aebe-479a-8151-cc870d6594d4",
-    "mNames": "An English Girl's First Impressions of Burmah",
-    "mImageUrls": "https://lh3.googleusercontent.com/d/1a_pP2EpzQgGUolQH65XiRLMDVJ259y_M",
-    "mDescription": "A young Englishwoman's journal of a visit to Burma.\nAuthor : Beth Ellis\nYear : 1899\nPages : 92\nFile Size : 1.0 MB",
-    "mdwnurl": "https://drive.google.com/uc?export=download&id=1xrUyyA6Rbd0CeMBImzo252xWxH-mXfBW",
-    "views": 0
-   },
-   {
-    "id": "1165c98a-254d-46ac-8a46-470e5331cec8",
-    "mNames": "An Old Soldier's Memories",
-    "mImageUrls": "https://lh3.googleusercontent.com/d/1Z7RICEwYIeuUqK0MPPmm-MG388RJmCLk",
-    "mDescription": "An officer's memoir of the Second Burmese War and the Indian Mutiny.\nAuthor : S. H. Jones-Parry\nYear : 1897\nPages : 314\nFile Size : 16.3 MB",
-    "mdwnurl": "https://drive.google.com/uc?export=download&id=1xe0TZbkn-g4eMmxH5OyLHiWNqr1VgABB",
-    "views": 0
-   },
-   {
-    "id": "7c31845b-e40d-431e-a323-812d1691ba6d",
-    "mNames": "Big Game Shooting in Upper Burma",
-    "mImageUrls": "https://lh3.googleusercontent.com/d/1VG4YMA-lqY5OiYKDvyb3gFERYw0QZfb0",
-    "mDescription": "Hunting in Upper Burma, district by district, with a glossary of Burmese words.\nAuthor : G. P. Evans\nYear : 1911\nPages : 264\nFile Size : 11.5 MB",
-    "mdwnurl": "https://drive.google.com/uc?export=download&id=1A7tFY1L9hb3s_66usdvurUV-XgQ3DQLm",
-    "views": 0
-   },
-   {
-    "id": "3fa8ff64-d228-43e2-a0f9-b2519fc29b06",
-    "mNames": "British Burma and Its People",
-    "mImageUrls": "https://lh3.googleusercontent.com/d/1gsqK6rimGDLIPhWukx-hqHS_Rpniu2zh",
-    "mDescription": "Sketches of the customs and religions of the peoples of British Burma.\nAuthor : C. J. F. S. Forbes\nYear : 1878\nPages : 419\nFile Size : 7.9 MB",
-    "mdwnurl": "https://drive.google.com/uc?export=download&id=1LclOoIfIr_pGw4XDmh65cOyq7J5N92ky",
-    "views": 0
-   },
-   {
-    "id": "7dec7a7a-7133-443e-a3da-0856a3592d42",
-    "mNames": "Burma (Provincial Geographies of India)",
-    "mImageUrls": "https://lh3.googleusercontent.com/d/1K5tb5r1Eu4n3JrVz53YOoF5HlficWuVz",
-    "mDescription": "Physical geography, peoples, history and administration of Burma.\nAuthor : Sir Herbert Thirkell White\nYear : 1923\nPages : 244\nFile Size : 102.3 MB",
-    "mdwnurl": "https://drive.google.com/uc?export=download&id=1-FzqmybHCKgFJLuYcbxRSoRtYO7sgqdC",
-    "views": 0
-   },
-   {
-    "id": "56356a06-7bbd-4818-948e-8734b1b4665d",
-    "mNames": "Burma Gazetteer: Amherst District, Vol. A",
-    "mImageUrls": "https://lh3.googleusercontent.com/d/1CdpDC2SpLNEFY3P8P5mWX1mnfv4VFR2N",
-    "mDescription": "District gazetteer of Amherst in Tenasserim.\nAuthor : B. O. Binns\nYear : 1935\nPages : 138\nFile Size : 1.0 MB",
-    "mdwnurl": "https://drive.google.com/uc?export=download&id=1g-YOnnyEZ2T5Ihn8GSvhzOR7ObGLFmxO",
-    "views": 0
-   },
-   {
-    "id": "251f27c3-6302-4710-9ea7-ad6dca6040f5",
-    "mNames": "Burma Gazetteer: Bhamo District, Vol. A",
-    "mImageUrls": "https://lh3.googleusercontent.com/d/11pzixKs9s3qquDNRSY1KTx-JehSaTPJI",
-    "mDescription": "District gazetteer of Bhamo on the China frontier.\nAuthor : G. W. Dawson\nYear : 1912\nPages : 2\nFile Size : 0.0 MB",
-    "mdwnurl": "https://drive.google.com/uc?export=download&id=1U9BKlm0mvhkpSiaj539JYAhwCI5LyX0t",
-    "views": 0
-   },
-   {
-    "id": "da0d67e0-7eba-4b64-8897-661d7afea912",
-    "mNames": "Burma Gazetteer: Bhamo District, Vol. B",
-    "mImageUrls": "https://lh3.googleusercontent.com/d/11nfayEczpTBi3NiRf8Ia-gs1jgMkUuM3",
-    "mDescription": "Statistical tables for Bhamo District.\nAuthor : Government of Burma\nYear : 1916\nPages : 66\nFile Size : 1.3 MB",
-    "mdwnurl": "https://drive.google.com/uc?export=download&id=12PuQGc7hO7xwrTvwNK5k1QMAdx3UmX4J",
-    "views": 0
-   },
-   {
-    "id": "c7004209-6805-4486-8f14-8d9f99e68e7b",
-    "mNames": "Burma Gazetteer: Hanthawaddy District, Vol. B",
-    "mImageUrls": "https://lh3.googleusercontent.com/d/1MJ4tg6yIU-3aNXBEOrI7B7wkFxha7yji",
-    "mDescription": "Statistical tables for Hanthawaddy District.\nAuthor : Government of Burma\nYear : 1924\nPages : 68\nFile Size : 1.5 MB",
-    "mdwnurl": "https://drive.google.com/uc?export=download&id=1SHTbBwP7ZgECQDGqQ8l9LOivA2gLPC37",
-    "views": 0
-   },
-   {
-    "id": "2ad2a3e9-982f-48ae-8470-937a4bba724c",
-    "mNames": "Burma Gazetteer: Henzada District, Vol. A",
-    "mImageUrls": "https://lh3.googleusercontent.com/d/1GW8USA7LiZL5WZqxJuTmy4CLSa0R3-QD",
-    "mDescription": "District gazetteer of Henzada in the Irrawaddy Division.\nAuthor : W. S. Morrison\nYear : 1915\nPages : 268\nFile Size : 1.0 MB",
-    "mdwnurl": "https://drive.google.com/uc?export=download&id=1nYkYvcuscYSTcEkLdSOoQImJ4949RGFt",
-    "views": 0
-   },
-   {
-    "id": "779d3e0c-1b0d-443c-a477-c1797d507441",
-    "mNames": "Burma Gazetteer: Insein District, Vol. B",
-    "mImageUrls": "https://lh3.googleusercontent.com/d/1U9pxOalA4eKMWBi6v9RDmaZuXv7Ik_MG",
-    "mDescription": "Statistical tables for Insein District.\nAuthor : Government of Burma\nYear : 1913\nPages : 66\nFile Size : 1.4 MB",
-    "mdwnurl": "https://drive.google.com/uc?export=download&id=1YaO-ijAAUwmMI65HUqIsmlz_Bmt1V5oy",
-    "views": 0
-   },
-   {
-    "id": "c49803e5-8030-4987-89d6-f32568f8ce42",
-    "mNames": "Burma Gazetteer: Kyaukse District, Vol. A",
-    "mImageUrls": "https://lh3.googleusercontent.com/d/14ttaUYEa5gUwsm313W5St0fPZJzeiFKk",
-    "mDescription": "District gazetteer of Kyaukse in the Mandalay Division.\nAuthor : J. A. Stewart\nYear : 1925\nPages : 190\nFile Size : 6.7 MB",
-    "mdwnurl": "https://drive.google.com/uc?export=download&id=1gzC0wYc5e1niVzlthNWnfLKdlTIi-xJU",
-    "views": 0
-   },
-   {
-    "id": "da514206-89b6-4755-8727-a41582c1f1ef",
-    "mNames": "Burma Gazetteer: Lower Chindwin District, Vol. A",
-    "mImageUrls": "https://lh3.googleusercontent.com/d/1f3g3NQXq0GmBoNjTA-VlHdejwa2F3liv",
-    "mDescription": "District gazetteer of Lower Chindwin in Upper Burma.\nAuthor : Government of Burma\nPages : 152\nFile Size : 10.2 MB",
-    "mdwnurl": "https://drive.google.com/uc?export=download&id=1WTV-9raeemI-tMbL1psBIAUE95q_8LTb",
-    "views": 0
-   },
-   {
-    "id": "ff2bac64-d65f-4c61-b5ea-055615999060",
-    "mNames": "Burma Gazetteer: Mandalay District, Vol. A",
-    "mImageUrls": "https://lh3.googleusercontent.com/d/17sDpU4yPBe2YDRMks5EWxQeTb8Zp3eKZ",
-    "mDescription": "District gazetteer of Mandalay, the old royal capital.\nAuthor : H. F. Searle\nYear : 1928\nPages : 273\nFile Size : 0.9 MB",
-    "mdwnurl": "https://drive.google.com/uc?export=download&id=1QsJZzUuOk4LCVLO8WnGc9UrPVmA2HdDb",
-    "views": 0
-   },
-   {
-    "id": "eb186cc9-aacc-4bec-9b83-1adb1163e5e5",
-    "mNames": "Burma Gazetteer: Mandalay District, Vol. B",
-    "mImageUrls": "https://lh3.googleusercontent.com/d/1e80sc9KPq3MPzDfnVU_0LMOHvUfdT4ml",
-    "mDescription": "Statistical tables for Mandalay District.\nAuthor : Government of Burma\nYear : 1913\nPages : 56\nFile Size : 1.3 MB",
-    "mdwnurl": "https://drive.google.com/uc?export=download&id=1nRxNOcoAyEihe1wyb1XVsqQeZ1TB_AW1",
-    "views": 0
-   },
-   {
-    "id": "daddf8e7-a549-4469-8106-5fc63124e63c",
-    "mNames": "Burma Gazetteer: Myingyan District, Vol. B",
-    "mImageUrls": "https://lh3.googleusercontent.com/d/1U7RsDuYTqtJ63A4POUDzJiQLSMAIqyAC",
-    "mDescription": "Statistical tables for Myingyan District.\nAuthor : Government of Burma\nYear : 1924\nPages : 70\nFile Size : 1.3 MB",
-    "mdwnurl": "https://drive.google.com/uc?export=download&id=1dFLvbJxUv0H7L29uP6I3eJF6pwMKJtK2",
-    "views": 0
-   },
-   {
-    "id": "197a1824-b21a-464e-8869-1ca6915af6be",
-    "mNames": "Burma Gazetteer: Myitkyina District, Vol. B",
-    "mImageUrls": "https://lh3.googleusercontent.com/d/198aJteMflhY_V6eH1wTcFQTRxwrx4msr",
-    "mDescription": "Statistical tables for Myitkyina District.\nAuthor : Government of Burma\nYear : 1913\nPages : 56\nFile Size : 1.2 MB",
-    "mdwnurl": "https://drive.google.com/uc?export=download&id=1dT4nuAFyEV_Htc53nUVBsfy5hDf5q098",
-    "views": 0
-   },
-   {
-    "id": "121e24df-b2ff-4b8c-9a45-af2758e75b4f",
-    "mNames": "Burma Gazetteer: Prome District",
-    "mImageUrls": "https://lh3.googleusercontent.com/d/1mhGsOW1lnm_4TSWGaQMWENx_sypkygzk",
-    "mDescription": "District gazetteer of Prome.\nAuthor : Government of Burma\nPages : 22\nFile Size : 0.5 MB",
-    "mdwnurl": "https://drive.google.com/uc?export=download&id=1kKw_mNz-RlP7F1Vy4Pp3-g35YFBYCF-q",
-    "views": 0
-   },
-   {
-    "id": "8051e953-cd3b-4ee3-bf99-9064287ffceb",
-    "mNames": "Burma Gazetteer: Prome District, Vol. B",
-    "mImageUrls": "https://lh3.googleusercontent.com/d/1e4Kn_l4cxbxQQgxlWwUGx2nk8NoaFUjV",
-    "mDescription": "Statistical tables for Prome District.\nAuthor : Government of Burma\nYear : 1913\nPages : 58\nFile Size : 1.3 MB",
-    "mdwnurl": "https://drive.google.com/uc?export=download&id=1AfodfIs7GA8GVh-kmO701Ub4UbnoFP4U",
-    "views": 0
-   },
-   {
-    "id": "bf10d2b8-96a9-46a6-97b7-452b0b23cee7",
-    "mNames": "Burma Gazetteer: Syriam District, Vol. A",
-    "mImageUrls": "https://lh3.googleusercontent.com/d/1OlbXGDv-d0D1u_pjDbXo7m9Mqzi4N0wR",
-    "mDescription": "District gazetteer of Syriam in the Pegu Division.\nAuthor : Government of Burma\nYear : 1914\nPages : 238\nFile Size : 20.2 MB",
-    "mdwnurl": "https://drive.google.com/uc?export=download&id=17VX846rGq2N2eWifigszBd6oxGUwMqpE",
-    "views": 0
-   },
-   {
-    "id": "41117d72-a4d3-46ce-a19d-ee40251258f7",
-    "mNames": "Burma Gazetteer: Tavoy District, Vol. B",
-    "mImageUrls": "https://lh3.googleusercontent.com/d/1Oeeew2dnQ1IxzYR_d_P7aQhqAWtRFcgw",
-    "mDescription": "Statistical tables for Tavoy District.\nAuthor : Government of Burma\nYear : 1924\nPages : 56\nFile Size : 1.1 MB",
-    "mdwnurl": "https://drive.google.com/uc?export=download&id=1o2Twnae9KtlcfqqfVlZ7y-VW12uoD0wJ",
-    "views": 0
-   },
-   {
-    "id": "7feb67ba-9573-4c8d-a2cd-85127961e7b3",
-    "mNames": "Burma Gazetteer: Tharrawaddy District, Vol. A",
-    "mImageUrls": "https://lh3.googleusercontent.com/d/11hvQECgtNuKeMN8T90faGPDelJnoqRZm",
-    "mDescription": "District gazetteer of Tharrawaddy in the Pegu Division.\nAuthor : Government of Burma\nYear : 1920\nPages : 164\nFile Size : 0.5 MB",
-    "mdwnurl": "https://drive.google.com/uc?export=download&id=1bIGWLWD4JxQ-6FVO39l8egdVIH0OhUXl",
-    "views": 0
-   },
-   {
-    "id": "61db4fbb-f741-4274-981e-50cff5edfcf9",
-    "mNames": "Burma Gazetteer: Toungoo District, Vol. A",
-    "mImageUrls": "https://lh3.googleusercontent.com/d/1JKZY9j8dBZAyiaWKCDLbdTdPxQFEcZao",
-    "mDescription": "District gazetteer of Toungoo: history, Karen population, forestry and farming.\nAuthor : Government of Burma\nYear : 1914\nPages : 134\nFile Size : 10.1 MB",
-    "mdwnurl": "https://drive.google.com/uc?export=download&id=1tC9o-Pab-oM7nDRsMcWlnsHR6i0S7lww",
-    "views": 0
-   },
-   {
-    "id": "dbcd518f-95db-46d3-9446-7e9be9c06d5b",
-    "mNames": "Burma Gazetteer: Upper Chindwin District, Vol. B",
-    "mImageUrls": "https://lh3.googleusercontent.com/d/1TvRg9Thx4IC3IBjhsUJa_Y4D-XTPLzAb",
-    "mDescription": "Statistical tables for Upper Chindwin District.\nAuthor : Government of Burma\nYear : 1925\nPages : 60\nFile Size : 1.2 MB",
-    "mdwnurl": "https://drive.google.com/uc?export=download&id=10P-LryhzzfsqeLcPFOG5VIhwOvOZHtj7",
-    "views": 0
-   },
-   {
-    "id": "15f4a998-68db-4882-99d2-8a02b8293d4f",
-    "mNames": "Burma Past and Present, Vol. I",
-    "mImageUrls": "https://lh3.googleusercontent.com/d/1306fh_qZ0zJm87i4QG4Aes8rTCpXjrKB",
-    "mDescription": "History and memoir by a former Chief Commissioner of British Burma.\nAuthor : Albert Fytche\nYear : 1878\nPages : 395\nFile Size : 5.8 MB",
-    "mdwnurl": "https://drive.google.com/uc?export=download&id=1PSqZ1suzbdM8eLkAjV4F17qRFcDE_nTf",
-    "views": 0
-   },
-   {
-    "id": "ae4e1a44-870e-4b8d-bac3-ece8b7a4fd81",
-    "mNames": "Burma Past and Present, Vol. II",
-    "mImageUrls": "https://lh3.googleusercontent.com/d/1PL435mCwXPl16N1XEpRHal26MpmPlRSx",
-    "mDescription": "History and memoir by a former Chief Commissioner of British Burma.\nAuthor : Albert Fytche\nYear : 1878\nPages : 404\nFile Size : 21.4 MB",
-    "mdwnurl": "https://drive.google.com/uc?export=download&id=11RZfhN2QgvVAgGK7yXW3DAy2TMKPjpYj",
-    "views": 0
-   },
-   {
-    "id": "b421d1c8-b091-4351-ac01-f79edd32af7b",
-    "mNames": "Burma under British Rule",
-    "mImageUrls": "https://lh3.googleusercontent.com/d/1UoO5GgH3XlbW5dsN7JiJsRsAGbBatDb2",
-    "mDescription": "A French consul's study of Burma's history, peoples, geography and economy.\nAuthor : Joseph Dautremer; trans. Sir George Scott\nYear : 1913\nPages : 452\nFile Size : 17.7 MB",
-    "mdwnurl": "https://drive.google.com/uc?export=download&id=1Hn4bfHdsfpEbxZrDqfMxRHEq3NzUEyhm",
-    "views": 0
-   },
-   {
-    "id": "d2d4454f-ceac-4c22-950e-fac3ae0ab5ff",
-    "mNames": "Burma under British Rule — and Before, Vol. 2",
-    "mImageUrls": "https://lh3.googleusercontent.com/d/1L7Rkj2mBiWlGnlJYfqQIZUexLl4rx6-l",
-    "mDescription": "Administration, land revenue and forestry in colonial Burma.\nAuthor : John Nisbet\nYear : 1901\nPages : 474\nFile Size : 23.8 MB",
-    "mdwnurl": "https://drive.google.com/uc?export=download&id=1j7yy9Swq99DYQtU2KDkCabFpwtm4C7PY",
-    "views": 0
-   },
-   {
-    "id": "79199cb1-269c-44dc-8dbe-ec7dda504ec7",
-    "mNames": "Burma, After the Conquest",
-    "mImageUrls": "https://lh3.googleusercontent.com/d/1uSwnQiGnNXHHGoFhAPola1uaTE_V1bca",
-    "mDescription": "A journalist's account of Upper Burma just after the 1885 annexation.\nAuthor : Grattan Geary\nYear : 1886\nPages : 402\nFile Size : 8.3 MB",
-    "mdwnurl": "https://drive.google.com/uc?export=download&id=14n-FKAqKWEKUIQNTEry8R4H-zpiYVwEZ",
-    "views": 0
-   },
-   {
-    "id": "00253004-c92d-4baa-b461-cfacd5420fe6",
-    "mNames": "Burma, Painted and Described",
-    "mImageUrls": "https://lh3.googleusercontent.com/d/1HX63Vx8apv8MEQCE8EKq_FcF7LuQgb2n",
-    "mDescription": "An artist's account of Burma with 75 colour plates.\nAuthor : R. Talbot Kelly\nYear : 1905\nPages : 580\nFile Size : 13.0 MB",
-    "mdwnurl": "https://drive.google.com/uc?export=download&id=1PvDJPDzmJZiYPFLs5jKiEj0OsHM26cwG",
-    "views": 0
-   },
-   {
-    "id": "1fb65df5-1576-450d-8ad4-299483c5ddad",
-    "mNames": "Burma: A Handbook of Practical Information",
-    "mImageUrls": "https://lh3.googleusercontent.com/d/1cflRhTS1kGmyZA0q8XJ3BLfID8hVee9J",
-    "mDescription": "Burma's government, industries, religion, languages, plants and animals.\nAuthor : J. G. Scott\nYear : 1921\nPages : 672\nFile Size : 22.4 MB",
-    "mdwnurl": "https://drive.google.com/uc?export=download&id=1lwsQ4GOPd2EttJ6IqMp7FXdosue72mwW",
-    "views": 0
-   },
-   {
-    "id": "5eb13cd3-577d-41b8-9408-4e0495d816c0",
-    "mNames": "Burma: From the Earliest Times to the Present Day",
-    "mImageUrls": "https://lh3.googleusercontent.com/d/1YEdev6M3zUfM6j2aBOjavPwCFjoanSHK",
-    "mDescription": "A popular history of Burma by the colonial administrator and author of The Burman.\nAuthor : J. G. Scott\nYear : 1924\nPages : 458\nFile Size : 104.2 MB",
-    "mdwnurl": "https://drive.google.com/uc?export=download&id=1-vGWgxazvAr8GjwufbNELNfG_nDIOCxn",
-    "views": 0
-   },
-   {
-    "id": "0ef0eafb-0bc7-4330-9d8d-8282dcd5825a",
-    "mNames": "Burmah and the Burmese",
-    "mImageUrls": "https://lh3.googleusercontent.com/d/1ZaJC0os72CS5JX5bQrTD9xwbUhNllR1-",
-    "mDescription": "Burmese civilisation and history, written during the Second Burmese War.\nAuthor : Kenneth R. H. Mackenzie\nYear : 1853\nPages : 236\nFile Size : 13.4 MB",
-    "mdwnurl": "https://drive.google.com/uc?export=download&id=11KJCHDdCWPFsHDf-En9QheKweOeAp6FG",
-    "views": 0
-   },
-   {
-    "id": "abd76508-d292-4a21-97c2-86bd412b1df8",
-    "mNames": "Census of India, 1891: Burma Imperial Tables",
-    "mImageUrls": "https://lh3.googleusercontent.com/d/1zZIDoo2PMCIPGnLXTzz0G9BpCC0gFNAN",
-    "mDescription": "District figures for Burma, including Arakan, by religion, caste, race and occupation.\nAuthor : Government of India\nYear : 1892\nPages : 678\nFile Size : 26.6 MB",
-    "mdwnurl": "https://drive.google.com/uc?export=download&id=16mUf5CnsKZAHuDqL2QY28kcFJFsDwoBL",
-    "views": 0
-   },
-   {
-    "id": "1e473403-25d2-494c-a77a-89557074b115",
-    "mNames": "Census of India, 1901, Vol. XII: Burma",
-    "mImageUrls": "https://lh3.googleusercontent.com/d/1PzOcrFud6O528hWk4A2GAJj2ygchbxsN",
-    "mDescription": "The 1901 Burma census, with district data on population, race, religion and occupation.\nAuthor : C. C. Lowis\nYear : 1902\nPages : 276\nFile Size : 12.0 MB",
-    "mdwnurl": "https://drive.google.com/uc?export=download&id=1-LerYUVujdcXsLTWnPhwwo7Kl6Mlnuq5",
-    "views": 0
-   },
-   {
-    "id": "72055cfd-a2c5-4afc-b8df-44ce2980a62d",
-    "mNames": "Census of India, 1911, Vol. IX: Burma, Part I Report",
-    "mImageUrls": "https://lh3.googleusercontent.com/d/10KWgATNvj9ziflhdwtoqNbZh_mYTQvSl",
-    "mDescription": "The 1911 Burma census report on population, religion, language and race.\nAuthor : C. Morgan Webb\nYear : 1912\nPages : 447\nFile Size : 22.8 MB",
-    "mdwnurl": "https://drive.google.com/uc?export=download&id=1eTnvu5gGFMGAEpmRcztyo9dghUkSvJX0",
-    "views": 0
-   },
-   {
-    "id": "b07f03e1-57ec-482e-a1b2-79a56c6ecdc5",
-    "mNames": "Census of India, 1911, Vol. IX: Burma, Part II Tables",
-    "mImageUrls": "https://lh3.googleusercontent.com/d/1il08L1S_gz2_R9N56e6YRD_qPowfQgPH",
-    "mDescription": "Statistical tables of the 1911 Burma census by district.\nAuthor : C. Morgan Webb\nYear : 1912\nPages : 293\nFile Size : 11.9 MB",
-    "mdwnurl": "https://drive.google.com/uc?export=download&id=1Fpw37Lw-8zYg9wcu84hSZya9f3Pkwucq",
-    "views": 0
-   },
-   {
-    "id": "b26b7158-5b23-4a37-8a3d-5c16a8c225e7",
-    "mNames": "Census of India, 1911, Vol. IX: Burma, Part III Administrative",
-    "mImageUrls": "https://lh3.googleusercontent.com/d/1m3esSins_eeKk4k71KYHTOs6qvrkHoxt",
-    "mDescription": "How the 1911 Burma census was organised and taken.\nAuthor : C. Morgan Webb\nYear : 1912\nPages : 93\nFile Size : 4.1 MB",
-    "mdwnurl": "https://drive.google.com/uc?export=download&id=14A8YcQQbwR8C1CHlV041JpJVnugmgw5p",
-    "views": 0
-   },
-   {
-    "id": "dc02facc-28c5-4427-855d-d1f005a1dc23",
-    "mNames": "Census of India, 1921, Vol. X: Burma, Part I Report",
-    "mImageUrls": "https://lh3.googleusercontent.com/d/1HFhYl-DFeatwTEO2ZHsbp66-0Xz6i5bn",
-    "mDescription": "The 1921 Burma census report on population, religion, race and language.\nAuthor : S. G. Grantham\nYear : 1923\nPages : 334\nFile Size : 44.9 MB",
-    "mdwnurl": "https://drive.google.com/uc?export=download&id=1QZV5tJzykXa_9obWzFo3SB0oeK_wxjVa",
-    "views": 0
-   },
-   {
-    "id": "9de051a5-90b4-46eb-82ad-47c1804d069e",
-    "mNames": "Census of India, 1921, Vol. X: Burma, Part III Administrative",
-    "mImageUrls": "https://lh3.googleusercontent.com/d/1rpLlk9fMjqQySGgt2x3Stj33ekysdiq_",
-    "mDescription": "How the 1921 Burma census was organised and taken.\nAuthor : S. G. Grantham\nYear : 1923\nPages : 31\nFile Size : 1.7 MB",
-    "mdwnurl": "https://drive.google.com/uc?export=download&id=1xLGbYLsg-gV8FMg881Wnu7F2qjjB7AXb",
-    "views": 0
-   },
-   {
-    "id": "9b6b3783-1444-423c-b187-89bfb2555f00",
-    "mNames": "Census of India, 1931, Vol. XI: Burma, Part I Report",
-    "mImageUrls": "https://lh3.googleusercontent.com/d/1s1zNEiqFrWA3dmMrJ1pPNTNGQSenCBiW",
-    "mDescription": "The 1931 Burma census report, including figures on Arakan's Muslims.\nAuthor : J. J. Bennison\nYear : 1933\nPages : 372\nFile Size : 47.4 MB",
-    "mdwnurl": "https://drive.google.com/uc?export=download&id=1AN420DyhBN_CIKvw2tfWUCv3TnCT54nL",
-    "views": 0
-   },
-   {
-    "id": "7ddb281e-0efa-42a4-8b64-fb5d5b37e635",
-    "mNames": "Census of India, 1931, Vol. XI: Burma, Part II Tables",
-    "mImageUrls": "https://lh3.googleusercontent.com/d/1H3sB1f5wHoghFssIWXfSYH2j5OGVuumN",
-    "mDescription": "Statistical tables of the 1931 Burma census, including Akyab, Kyaukpyu and Sandoway.\nAuthor : J. J. Bennison\nYear : 1933\nPages : 318\nFile Size : 19.9 MB",
-    "mdwnurl": "https://drive.google.com/uc?export=download&id=1YI9COznFNdXA6mFE5Hagelsbzbuwj9ns",
-    "views": 0
-   },
-   {
-    "id": "03049419-81a4-448e-9374-41221844ca13",
-    "mNames": "Christian Missions in Burma",
-    "mImageUrls": "https://lh3.googleusercontent.com/d/1xGhDaRoLzbv_nzidxOet-Co2F60Hd4cn",
-    "mDescription": "A history of Anglican missions in Burma.\nAuthor : W. C. B. Purser\nYear : 1911\nPages : 332\nFile Size : 12.2 MB",
-    "mdwnurl": "https://drive.google.com/uc?export=download&id=1P9R1cPSHCUkqiD_I8kHpQ6RXYDr8VMSA",
-    "views": 0
-   },
-   {
-    "id": "345f4ad7-424e-4036-bba9-68502413de7b",
-    "mNames": "Correspondence Respecting the Ruby Mines of Upper Burmah",
-    "mImageUrls": "https://lh3.googleusercontent.com/d/1lFf4CGS6k0pCfXlvMy8Ux1uoJg109sNH",
-    "mDescription": "Parliamentary papers on the Mogok ruby mines after the annexation.\nAuthor : Great Britain, Colonial Office\nYear : 1887\nPages : 58\nFile Size : 2.3 MB",
-    "mdwnurl": "https://drive.google.com/uc?export=download&id=1SEdH3OSH2EatmTsWWyZwCpehu7Sy2EWL",
-    "views": 0
-   },
-   {
-    "id": "0ba3f438-b180-476e-8b5c-72acfb01c51f",
-    "mNames": "Documents Illustrative of the Burmese War",
-    "mImageUrls": "https://lh3.googleusercontent.com/d/1DkQ_7bJ2XyoYgNPHXmB4KWu3cfsiDe9V",
-    "mDescription": "Official documents of the First Anglo-Burmese War, with an introductory history.\nAuthor : H. H. Wilson\nYear : 1827\nPages : 462\nFile Size : 34.8 MB",
-    "mdwnurl": "https://drive.google.com/uc?export=download&id=1u1Kfq56rHRKVsNq-Qjtv3etcyYa3l2fe",
-    "views": 0
-   },
-   {
-    "id": "f4ea74e6-80c1-4409-ba88-d1892d64e9b6",
-    "mNames": "Forty Years in Burma",
-    "mImageUrls": "https://lh3.googleusercontent.com/d/1ud6wjqb4OFrbDX91wbiL5k2tj3-D3Ukp",
-    "mDescription": "Memoir of a missionary educator in Burma, 1859–1900.\nAuthor : John Ebenezer Marks\nYear : 1917\nPages : 364\nFile Size : 18.4 MB",
-    "mdwnurl": "https://drive.google.com/uc?export=download&id=15xXRSbRkrXPj-1YvbHw1nizSf_d6zN48",
-    "views": 0
-   },
-   {
-    "id": "63761d70-64dc-476f-be2b-45b759e08584",
-    "mNames": "From Peking to Mandalay",
-    "mImageUrls": "https://lh3.googleusercontent.com/d/1MH3_r6-NXsqzG7-9wawqLk1B8A-NuHwj",
-    "mDescription": "A 1906 journey from northern China through Sichuan and Yunnan to Burma.\nAuthor : Reginald F. Johnston\nYear : 1908\nPages : 556\nFile Size : 12.5 MB",
-    "mdwnurl": "https://drive.google.com/uc?export=download&id=1UZXFM-l8c_BepfYoPjbTVF9d25vW6rLw",
-    "views": 0
-   },
-   {
-    "id": "b99c3748-9ae8-44c9-b5ea-4679385e710c",
-    "mNames": "Gazetteer of Upper Burma and the Shan States (Volume 4)",
-    "mImageUrls": "https://lh3.googleusercontent.com/d/1G5wg4RhXjuXWvpNRIVKJc6yioC0r4CPL",
-    "mDescription": "District and state entries from the gazetteer of Upper Burma and the Shan States.\nAuthor : J. G. Scott and J. P. Hardiman\nYear : 1901\nPages : 573\nFile Size : 22.0 MB",
-    "mdwnurl": "https://drive.google.com/uc?export=download&id=1V3JWaIqeoKdgDye5JNceDESSlPZIdKh6",
-    "views": 0
-   },
-   {
-    "id": "fa1d3d68-b23d-4b71-8130-ba935a5569b5",
-    "mNames": "Gazetteer of Upper Burma and the Shan States (Volume 5)",
-    "mImageUrls": "https://lh3.googleusercontent.com/d/1OM4bLHuTqowdik-WEF2H1W2XmVQxKCMm",
-    "mDescription": "District and state entries from the gazetteer of Upper Burma and the Shan States.\nAuthor : J. G. Scott and J. P. Hardiman\nYear : 1901\nPages : 467\nFile Size : 17.1 MB",
-    "mdwnurl": "https://drive.google.com/uc?export=download&id=1CB-JHkh8nk7xYinoIMxHnsf6o7MySVZr",
-    "views": 0
-   },
-   {
-    "id": "f951e2ab-5107-4655-a6b8-81f666175ba1",
-    "mNames": "Gazetteer of Upper Burma and the Shan States, Part I, Vol. I",
-    "mImageUrls": "https://lh3.googleusercontent.com/d/1LIvQ7TpM78LPto-28vR6K4yF3P0D6Q-0",
-    "mDescription": "The general volume of the great gazetteer of Upper Burma and the Shan States.\nAuthor : J. G. Scott and J. P. Hardiman\nYear : 1901\nPages : 760\nFile Size : 7.7 MB",
-    "mdwnurl": "https://drive.google.com/uc?export=download&id=17xJkegSayHPpOzPD_dPFKV9XWyJmEa9-",
-    "views": 0
-   },
-   {
-    "id": "7ca7f980-4ed6-4b5e-a1f2-753a61d23646",
-    "mNames": "Hand-book for British Burma",
-    "mImageUrls": "https://lh3.googleusercontent.com/d/1buM5uNihFTFanAMsK1a4ZilDcgoCnP82",
-    "mDescription": "An 1867 legal and administrative handbook for British Burma.\nAuthor : G. E. Fryer (comp.)\nYear : 1867\nPages : 655\nFile Size : 24.2 MB",
-    "mdwnurl": "https://drive.google.com/uc?export=download&id=1qEyYNwYaSXRrhxIQE73oivCPFo1UZxcU",
-    "views": 0
-   },
-   {
-    "id": "54a0c949-2de2-4681-9eb7-793ad3f53663",
-    "mNames": "History of Burma",
-    "mImageUrls": "https://lh3.googleusercontent.com/d/1sng9M2BSHeabiFsxJWACcpW9ZjKgUyXu",
-    "mDescription": "The first Western history of Burma, covering Burma proper, Pegu, Taungu, Tenasserim and Arakan.\nAuthor : Sir Arthur P. Phayre\nYear : 1883\nPages : 325\nFile Size : 7.9 MB",
-    "mdwnurl": "https://drive.google.com/uc?export=download&id=1XUcMvGbvmMPpDPx4MnPLRFUoucXTjByq",
-    "views": 0
-   },
-   {
-    "id": "6c70c17d-5bd9-46e5-aa13-d650f1a6b71b",
-    "mNames": "History of Burma: From the Earliest Times to 1824",
-    "mImageUrls": "https://lh3.googleusercontent.com/d/18NuGzO3VX1vZXorOcnVfjSgJv03_-LwW",
-    "mDescription": "The classic history of Burma to 1824, with chapters on Arakan and the 1784 Burmese conquest.\nAuthor : G. E. Harvey\nYear : 1925\nPages : 476\nFile Size : 14.1 MB",
-    "mdwnurl": "https://drive.google.com/uc?export=download&id=1RLDJG8_pU_hEafbqNXqTqj4pnXfFxdDG",
-    "views": 0
-   },
-   {
-    "id": "bc4c4496-05d8-4005-adc5-578f1ea1788f",
-    "mNames": "History of the Third Burmese War, 1885–87: Period I",
-    "mImageUrls": "https://lh3.googleusercontent.com/d/14_HDZlgj1v7fnklrZj5CjShVXjCyWClz",
-    "mDescription": "Official history of the 1885 campaign up to the annexation of Upper Burma.\nAuthor : Intelligence Branch, Quarter Master General's Department, India\nYear : 1887\nPages : 111\nFile Size : 107.7 MB",
-    "mdwnurl": "https://drive.google.com/uc?export=download&id=1ZQI6Q6afWwB3lD2agjy_qU3QNAkZ3mpn",
-    "views": 0
-   },
-   {
-    "id": "6cb333a4-8967-49ed-9c67-85317928e87a",
-    "mNames": "History of Upper Assam, Upper Burmah and the North-Eastern Frontier",
-    "mImageUrls": "https://lh3.googleusercontent.com/d/1CrV-H2y_8FUk7CUm-rZ4uUr23gHdLNJ8",
-    "mDescription": "A history of Upper Burma, Assam and the north-eastern frontier.\nAuthor : L. W. Shakespear\nYear : 1914\nPages : 308\nFile Size : 18.4 MB",
-    "mdwnurl": "https://drive.google.com/uc?export=download&id=1SUUPS6hK84eikxOE9LNF0r_qN1cmKj0w",
-    "views": 0
-   },
-   {
-    "id": "b0d21e15-9628-45b6-813c-37689c103993",
-    "mNames": "How Wars Are Got Up in India: The Origin of the Burmese War",
-    "mImageUrls": "https://lh3.googleusercontent.com/d/1As-v9-qM76U3bALX1kpm1iGFZZH_p2r5",
-    "mDescription": "Cobden's pamphlet on how the Second Anglo-Burmese War was manufactured.\nAuthor : Richard Cobden\nYear : 1853\nPages : 64\nFile Size : 2.1 MB",
-    "mdwnurl": "https://drive.google.com/uc?export=download&id=17M35MYCXfHh4LNYurGnBMGpNHweUmoBw",
-    "views": 0
-   },
-   {
-    "id": "9bacabbb-d7c0-462c-86f5-ad69e4ae8ecf",
-    "mNames": "In Farthest Burma",
-    "mImageUrls": "https://lh3.googleusercontent.com/d/1xCHQoy9A0XQ-k6waaE3cJO0O3KMH5MzI",
-    "mDescription": "A plant hunter's 1914 expedition through the Burma–Tibet frontier.\nAuthor : F. Kingdon-Ward\nYear : 1921\nPages : 360\nFile Size : 22.2 MB",
-    "mdwnurl": "https://drive.google.com/uc?export=download&id=1LQ1vuhSZmn8B0hnRlat9Wh9lxhZ6eXA6",
-    "views": 0
-   },
-   {
-    "id": "df765752-3dc9-45d6-a75e-deffe9216c3a",
-    "mNames": "Josiah Nelson Cushing: Missionary and Scholar",
-    "mImageUrls": "https://lh3.googleusercontent.com/d/1PUsBmaYxubxShqizJZetpgrTJULrf2m-",
-    "mDescription": "Biography of the American Baptist missionary and Burmese lexicographer.\nAuthor : Wallace St. John\nYear : 1912\nPages : 230\nFile Size : 10.9 MB",
-    "mdwnurl": "https://drive.google.com/uc?export=download&id=1vBShXiJahHlOAfJJpjwUan4s0dCcZkgt",
-    "views": 0
-   },
-   {
-    "id": "ebc6eac8-d075-4d9f-9458-f77e2242658d",
-    "mNames": "Journal of an Embassy to the Court of Ava in 1827, Vol. I",
-    "mImageUrls": "https://lh3.googleusercontent.com/d/1WROZffjyyZ73C5cCPcrUH_Vxpygi1OmB",
-    "mDescription": "The 1827 British embassy to the Burmese court.\nAuthor : John Crawfurd\nYear : 1834\nPages : 513\nFile Size : 9.3 MB",
-    "mdwnurl": "https://drive.google.com/uc?export=download&id=1Dv6lovc5PMdRIvSxQZ9-gLjZF_PMexcg",
-    "views": 0
-   },
-   {
-    "id": "85fd77e6-4e61-4e61-b6ba-351cfa53d349",
-    "mNames": "Journal of an Embassy to the Court of Ava in 1827, Vol. II",
-    "mImageUrls": "https://lh3.googleusercontent.com/d/1fHBrw14lyyAvjKoksznYSJ0f13frU8zJ",
-    "mDescription": "The 1827 British embassy to the Burmese court.\nAuthor : John Crawfurd\nYear : 1834\nPages : 497\nFile Size : 21.3 MB",
-    "mdwnurl": "https://drive.google.com/uc?export=download&id=1fYX6eayKZLcrvf4iUnUw0RqjXIxvrHju",
-    "views": 0
-   },
-   {
-    "id": "822ddacc-54b8-4ab2-80a6-f506811743b8",
-    "mNames": "Journal of the Burma Research Society, Vol. I",
-    "mImageUrls": "https://lh3.googleusercontent.com/d/1Lo2VTv9xXnZ6XVCukLus5hffBZg3lH5r",
-    "mDescription": "The first volume of the society's journal: Pagan, Burmese folklore and linguistics.\nAuthor : Burma Research Society\nYear : 1911\nPages : 293\nFile Size : 64.4 MB",
-    "mdwnurl": "https://drive.google.com/uc?export=download&id=1xRbC0hMXFlfixH5fUo-xBJ3eODmO5CZH",
-    "views": 0
-   },
-   {
-    "id": "9b685117-fe04-4353-97cd-e07ea5cad15e",
-    "mNames": "Journal of the Burma Research Society, Vol. I, Part II",
-    "mImageUrls": "https://lh3.googleusercontent.com/d/1ZLVRw66F3tYnaiPxSdLaoyM6xDtC_58N",
-    "mDescription": "The December 1911 number of the society's journal.\nAuthor : Burma Research Society\nYear : 1911\nPages : 302\nFile Size : 50.2 MB",
-    "mdwnurl": "https://drive.google.com/uc?export=download&id=1od5Ox7aWMfYzGqaLqcKH1KCkumbcsxIA",
-    "views": 0
-   },
-   {
-    "id": "0a509b8d-8fbb-4cc5-9f93-b4dd8f48a462",
-    "mNames": "Journal of the Burma Research Society, Vol. V",
-    "mImageUrls": "https://lh3.googleusercontent.com/d/1Hv6QDKt2M6zOiMRvyfWey7OIHGxn5d4W",
-    "mDescription": "Includes Pyu and Chinese words in Burmese and a history of Syriam.\nAuthor : Burma Research Society\nYear : 1915\nPages : 206\nFile Size : 19.9 MB",
-    "mdwnurl": "https://drive.google.com/uc?export=download&id=1aZib_F9uzmZoKlyOcpZz8Fw5gMFim2S1",
-    "views": 0
-   },
-   {
-    "id": "b6443479-249a-455b-b1d2-190d180e8df8",
-    "mNames": "Journal of the Burma Research Society, Vol. XIII",
-    "mImageUrls": "https://lh3.googleusercontent.com/d/1GZoBYiB7iWaZKXR_TbGxI3f4lXFPDEne",
-    "mDescription": "Includes a history of the kings of Pegu and studies of the Shwedagon.\nAuthor : Burma Research Society\nYear : 1923\nPages : 322\nFile Size : 28.0 MB",
-    "mdwnurl": "https://drive.google.com/uc?export=download&id=1jPSENiCdrTqq_o0AV5OvNjD-yf79s8I3",
-    "views": 0
-   },
-   {
-    "id": "d07c9795-81ec-4fcb-bd4b-8c4b13a4b4d1",
-    "mNames": "Journal of the Burma Research Society, Vol. XIV, Part I",
-    "mImageUrls": "https://lh3.googleusercontent.com/d/1UYrZWLYQzVRWIJqHeNKrNIJE843zHp3c",
-    "mDescription": "Includes 1870s Rangoon and the development of the Burmese language.\nAuthor : Burma Research Society\nYear : 1924\nPages : 138\nFile Size : 36.3 MB",
-    "mdwnurl": "https://drive.google.com/uc?export=download&id=1cuGrrpM-yyZrKw3oTqkV2D6iBQE3E5ri",
-    "views": 0
-   },
-   {
-    "id": "ad3d7044-0957-4beb-bc8f-350228635c9b",
-    "mNames": "List of Ancient Monuments in Burma",
-    "mImageUrls": "https://lh3.googleusercontent.com/d/157H8VzLhF9tJSkQaL2886CU641TJ_A2-",
-    "mDescription": "The official list of protected monuments, including the Mrauk-U pagodas.\nAuthor : Archaeological Survey of India, Burma Circle\nYear : 1909\nPages : 198\nFile Size : 8.5 MB",
-    "mdwnurl": "https://drive.google.com/uc?export=download&id=1K8kEtxw-auhX_4dSPHDXpi1EFgVXVypu",
-    "views": 0
-   },
-   {
-    "id": "3a68b2e0-4deb-48c8-87cc-f5dfda4899ea",
-    "mNames": "List of Objects of Antiquarian and Archaeological Interest in British Burma",
-    "mImageUrls": "https://lh3.googleusercontent.com/d/1FfQzbkXMT3JGkNs_OLXrHZZz83ZzYxPk",
-    "mDescription": "An 1884 inventory of pagodas, inscriptions and sites, with a section on Arakan.\nAuthor : Government of British Burma\nYear : 1884\nPages : 44\nFile Size : 19.7 MB",
-    "mdwnurl": "https://drive.google.com/uc?export=download&id=1TX7ep_rDtKLjXO6VNTQ0U9o7BWrflnBf",
-    "views": 0
-   },
-   {
-    "id": "eb7f3ff2-15bb-4fa5-a2ea-13f4136d8eb2",
-    "mNames": "Lord Amherst and the British Advance Eastwards to Burma",
-    "mImageUrls": "https://lh3.googleusercontent.com/d/146MV-hF9wep-RlghS9qpjK_G0h0QwvXi",
-    "mDescription": "Biography of the Governor-General during the First Anglo-Burmese War.\nAuthor : Anne Thackeray Ritchie and Richardson Evans\nYear : 1894\nPages : 218\nFile Size : 6.6 MB",
-    "mdwnurl": "https://drive.google.com/uc?export=download&id=1u5QSJgQTeBl9g-cWhvvROsc92qIpbtHU",
-    "views": 0
-   },
-   {
-    "id": "ecaba625-ef14-449f-bffb-48551da3914d",
-    "mNames": "Mandalay and Other Cities of the Past in Burma",
-    "mImageUrls": "https://lh3.googleusercontent.com/d/1wRYSwL8vRYKzAxut62C0T130pXJKOHXp",
-    "mDescription": "Burma's historic capitals — Mandalay, Ava, Amarapura, Sagaing and Pagan.\nAuthor : V. C. Scott O'Connor\nYear : 1907\nPages : 489\nFile Size : 11.6 MB",
-    "mdwnurl": "https://drive.google.com/uc?export=download&id=1h6arY4sBbRLaKeYLIpqxcUaK-Z-doufN",
-    "views": 0
-   },
-   {
-    "id": "905a9f9d-0967-4ee3-a99b-91239e92be33",
-    "mNames": "Mandalay to Momien",
-    "mImageUrls": "https://lh3.googleusercontent.com/d/1MmEQhqzgtlhzJKteGbugLIV7Soa2Q34r",
-    "mDescription": "The 1868 and 1875 expeditions from Mandalay to Yunnan via Bhamo.\nAuthor : John Anderson\nYear : 1876\nPages : 540\nFile Size : 27.3 MB",
-    "mdwnurl": "https://drive.google.com/uc?export=download&id=1K094U9YJILNLo6DEeUzu1G4hExaQG4fX",
-    "views": 0
-   },
-   {
-    "id": "e7a4e492-8cf5-4c46-a560-d74f9b6c8d0d",
-    "mNames": "Memoir of the Three Campaigns of Major-General Sir Archibald Campbell's Army in Ava",
-    "mImageUrls": "https://lh3.googleusercontent.com/d/1foGv-ZkB8WhnMDO7-geVlnX_2hHG1EOo",
-    "mDescription": "The three campaigns of the First Anglo-Burmese War.\nAuthor : Henry Havelock\nYear : 1828\nPages : 401\nFile Size : 16.3 MB",
-    "mdwnurl": "https://drive.google.com/uc?export=download&id=1X6zouENCJMxHCytH_CZ_Y-r2ym19ZRiM",
-    "views": 0
-   },
-   {
-    "id": "290601de-47bf-4aa3-bcbf-7658fe4563ac",
-    "mNames": "My Child-Life in Burmah",
-    "mImageUrls": "https://lh3.googleusercontent.com/d/1vcjVqDKCuP3LqsnTMszdjywGpZI_A9NK",
-    "mDescription": "A missionary family's memoir of childhood in 19th-century Burma.\nAuthor : Olive Jennie Bixby\nYear : 1880\nPages : 184\nFile Size : 7.4 MB",
-    "mdwnurl": "https://drive.google.com/uc?export=download&id=1PkDIQwNpEMBLXaeUd553_45FeFlDiadK",
-    "views": 0
-   },
-   {
-    "id": "f8f2bfd1-7fba-4d69-832c-c2434442635e",
-    "mNames": "Narrative of the Burmese War, 1824–1826",
-    "mImageUrls": "https://lh3.googleusercontent.com/d/1HWEXSkegEE7MUXznQzDWv5ayvJXU36S6",
-    "mDescription": "The First Anglo-Burmese War by General Campbell's military secretary.\nAuthor : John James Snodgrass\nYear : 1827\nPages : 341\nFile Size : 12.7 MB",
-    "mdwnurl": "https://drive.google.com/uc?export=download&id=1Z-ryAGk4GIl8QoMvZRU-FjVqF0xyebW_",
-    "views": 0
-   },
-   {
-    "id": "b59be37a-8879-48da-a9f5-d5807e065ccc",
-    "mNames": "Narrative of the Captivity of an Officer Who Fell into the Hands of the Burmahs",
-    "mImageUrls": "https://lh3.googleusercontent.com/d/12wXo3AAiBOhRRPXw-8fpPD-VQbQVFDiR",
-    "mDescription": "An officer's capture and imprisonment at Ava during the First Burmese War.\nAuthor : Richard Bennett\nYear : 1827\nPages : 164\nFile Size : 49.1 MB",
-    "mdwnurl": "https://drive.google.com/uc?export=download&id=1zxac8OQET_7vFx1nwcU1tSwAEXHCa09I",
-    "views": 0
-   },
-   {
-    "id": "fa82094a-d32b-4b78-a571-84bc480d58fc",
-    "mNames": "Notes on Buddhist Law, Part II: Marriage",
-    "mImageUrls": "https://lh3.googleusercontent.com/d/1LX7RE0wwk8peirrC20PQAS6XEUiR9YP4",
-    "mDescription": "Burmese Buddhist law on marriage, divorce and property.\nAuthor : John Jardine\nYear : 1903\nPages : 58\nFile Size : 1.8 MB",
-    "mdwnurl": "https://drive.google.com/uc?export=download&id=1MU0kpa1ksbZQk10W1tD83aRvolsB3TkJ",
-    "views": 0
-   },
-   {
-    "id": "84027c33-fa01-46e5-92da-7e290d430fa3",
-    "mNames": "On the Irrawaddy: A Story of the First Burmese War",
-    "mImageUrls": "https://lh3.googleusercontent.com/d/12OUlUKEcWwk1MyTmsvqYUXJdDDG9ItJG",
-    "mDescription": "A historical adventure novel set in the First Anglo-Burmese War.\nAuthor : G. A. Henty\nYear : 1897\nPages : 408\nFile Size : 21.1 MB",
-    "mdwnurl": "https://drive.google.com/uc?export=download&id=1mwbgeaoE1GAVeGl-ewmBk-XpksYzMMTL",
-    "views": 0
-   },
-   {
-    "id": "c85b5ac0-0c49-4789-a2e1-385dedb6b360",
-    "mNames": "Our Burmese Wars and Relations with Burma",
-    "mImageUrls": "https://lh3.googleusercontent.com/d/1MrJgvEp1iok5q6swCAQEn-xmr11tdLcN",
-    "mDescription": "The First and Second Anglo-Burmese Wars, including the Arakan campaigns.\nAuthor : W. F. B. Laurie\nYear : 1885\nPages : 574\nFile Size : 32.8 MB",
-    "mdwnurl": "https://drive.google.com/uc?export=download&id=1eNI28fR5xSZvcuVwr4zGESBayApZpIpJ",
-    "views": 0
-   },
-   {
-    "id": "c3c57410-9ad4-40fd-8e55-72bc9494e2cb",
-    "mNames": "Our Trip to Burmah",
-    "mImageUrls": "https://lh3.googleusercontent.com/d/1scUFbtkxv2BoAEXGmSEWRZSmqKdFSti0",
-    "mDescription": "An army surgeon-general's 1874–75 tour of Burma.\nAuthor : Sir Charles Alexander Gordon\nYear : 1877\nPages : 324\nFile Size : 20.2 MB",
-    "mdwnurl": "https://drive.google.com/uc?export=download&id=1vWs21AdvVNsjdM99-wSx2it2NHhzCuY0",
-    "views": 0
-   },
-   {
-    "id": "5bc903c1-1350-4b0d-9dcf-6a22b0e9e2b5",
-    "mNames": "Pegu: A Narrative of the Second Burmese War",
-    "mImageUrls": "https://lh3.googleusercontent.com/d/1JgJo2z5scysmS7FIpoNAy6jJlCDKAfg1",
-    "mDescription": "First-hand narrative of the Second Burmese War in Pegu, 1852–53.\nAuthor : W. F. B. Laurie\nYear : 1854\nPages : 622\nFile Size : 23.7 MB",
-    "mdwnurl": "https://drive.google.com/uc?export=download&id=1FIBvGwFho-sdWXGZHMsh4CJJVgA5dMNB",
-    "views": 0
-   },
-   {
-    "id": "7f14e37f-129a-4859-b76d-d5ffff99588c",
-    "mNames": "Picturesque Burma, Past and Present",
-    "mImageUrls": "https://lh3.googleusercontent.com/d/1CQuRVDWD9jbImOkWhqUsXjN5wjc78JPO",
-    "mDescription": "An illustrated account of 1890s Burma and its peoples.\nAuthor : Mrs. Ernest Hart\nYear : 1897\nPages : 517\nFile Size : 33.1 MB",
-    "mdwnurl": "https://drive.google.com/uc?export=download&id=1Th6j4xOwCUuLtYiJYKU0z_krx1Yn5iL6",
-    "views": 0
-   },
-   {
-    "id": "01f6d9d6-e9a5-4272-93dd-0c2baa65b04e",
-    "mNames": "Ralph Fitch, England's Pioneer to India and Burma",
-    "mImageUrls": "https://lh3.googleusercontent.com/d/1yWPNNM4FMCy-90qeozZyFNbLGljj7fXl",
-    "mDescription": "The 1580s journey of the first English merchant in Bengal and Burma, in his own words.\nAuthor : J. Horton Ryley\nYear : 1899\nPages : 322\nFile Size : 16.6 MB",
-    "mdwnurl": "https://drive.google.com/uc?export=download&id=1Z_Zd5W6hyd72aU6bmfqvZB61_oAoNHKl",
-    "views": 0
-   },
-   {
-    "id": "049933be-f23d-4034-847a-03b912493b05",
-    "mNames": "Reminiscences of Life in Mysore, South Africa, and Burmah",
-    "mImageUrls": "https://lh3.googleusercontent.com/d/1QQ9Ozp7YvCZ_fnss1hd0EeoABUNMrXVj",
-    "mDescription": "A general's memoir, including the Second Burmese War.\nAuthor : Richard Stewart Dobbs\nYear : 1882\nPages : 245\nFile Size : 4.6 MB",
-    "mdwnurl": "https://drive.google.com/uc?export=download&id=1t1DXy_v4h24Ms1pOSdbRlucRuu4Zp8QA",
-    "views": 0
-   },
-   {
-    "id": "83e3b51b-63c7-4822-9941-25b9130d85e0",
-    "mNames": "Report and Gazetteer of Burma, Native and British, Part I",
-    "mImageUrls": "https://lh3.googleusercontent.com/d/1wyzfnVtWoBXFDI7vmIE5kFoo7sbh_8SD",
-    "mDescription": "An 1883 report and gazetteer of Burma.\nAuthor : W. R. Macneill\nYear : 1883\nPages : 504\nFile Size : 18.8 MB",
-    "mdwnurl": "https://drive.google.com/uc?export=download&id=1QIsYyzPXhGTc1cLNeXZevjlnxojb-woN",
-    "views": 0
-   },
-   {
-    "id": "6681544b-55eb-477b-8cf3-24ad6169957c",
-    "mNames": "Report on the Administration of Burma, 1912–13",
-    "mImageUrls": "https://lh3.googleusercontent.com/d/12mWJq9h345NTh5pZ5FjqhjpaKMNJZjrx",
-    "mDescription": "The annual administration report for 1912–13.\nAuthor : Government of Burma\nYear : 1913\nPages : 126\nFile Size : 47.2 MB",
-    "mdwnurl": "https://drive.google.com/uc?export=download&id=14PU11rv1AbtXzVkZfqOrgq4hybSNSMg8",
-    "views": 0
-   },
-   {
-    "id": "19bdf6cb-e33d-472c-b82d-5e59ac6c11fb",
-    "mNames": "Report on the Administration of Burma, 1934–35",
-    "mImageUrls": "https://lh3.googleusercontent.com/d/1pOFm2TucmyU6bMgNYokel83VIGQCy2wp",
-    "mDescription": "The annual administration report for 1934–35.\nAuthor : Government of Burma\nYear : 1935\nPages : 142\nFile Size : 9.7 MB",
-    "mdwnurl": "https://drive.google.com/uc?export=download&id=1fwJMsy-MuoqUc65NaOW3rGnX2691CEVM",
-    "views": 0
-   },
-   {
-    "id": "a8484d70-eae7-4c4c-825b-2b440936302a",
-    "mNames": "Report on the Administration of Burma, 1935–36",
-    "mImageUrls": "https://lh3.googleusercontent.com/d/14dsbdGTeau3Nogzt1q8RjkEvBk75L1_C",
-    "mDescription": "The last annual report of Burma as a province of British India, with changes in Akyab District.\nAuthor : Government of Burma\nYear : 1937\nPages : 160\nFile Size : 11.5 MB",
-    "mdwnurl": "https://drive.google.com/uc?export=download&id=1-i08RSsfDBmDEr-b1n854IWgH4ai0tY-",
-    "views": 0
-   },
-   {
-    "id": "19870039-3f84-438f-a0c1-b7e233ca6ba4",
-    "mNames": "Report on the Census of British Burma, August 1872",
-    "mImageUrls": "https://lh3.googleusercontent.com/d/1ZNn7lVw_h7aSUxKkwB-1bhqAx0uuEYPt",
-    "mDescription": "The first census of British Burma, with district figures for Arakan.\nAuthor : J. M. Duncan\nYear : 1875\nPages : 147\nFile Size : 119.0 MB",
-    "mdwnurl": "https://drive.google.com/uc?export=download&id=1J5bgU4WD0db6wFZgBbtnKZ5ZTiHg0n35",
-    "views": 0
-   },
-   {
-    "id": "446a9828-721d-47c9-9432-75bcf3b3b305",
-    "mNames": "Rethinking Community in Myanmar: Practices of We-Formation among Muslims and Hindus in Urban Yangon",
-    "mImageUrls": "https://lh3.googleusercontent.com/d/1sTpQ0EuPTBvINrhwmtreMbvqJXCzMmcR",
-    "mDescription": "Open-access anthropology of Muslim and Hindu minorities in today's Yangon.\nAuthor : Judith Beyer\nYear : 2023\nPages : 328\nFile Size : 24.7 MB",
-    "mdwnurl": "https://drive.google.com/uc?export=download&id=1B3eJrRQLu9jc76k5oDvlwH1e6dBjSpxj",
-    "views": 0
-   },
-   {
-    "id": "3b75eb63-af01-45b5-9db5-e8289a5bb1e8",
-    "mNames": "Sport in British Burmah, Assam, and the Cassyah and Jyntiah Hills, Vol. II",
-    "mImageUrls": "https://lh3.googleusercontent.com/d/1V5YZw5wtnYqEr-zB7gcqRnvdF7MFQLEa",
-    "mDescription": "Hunting, natural history and travel in British Burma and Assam.\nAuthor : Fitzwilliam Thomas Pollok\nYear : 1879\nPages : 521\nFile Size : 39.2 MB",
-    "mdwnurl": "https://drive.google.com/uc?export=download&id=1pacLa7kWfMQJW4SAEnYMZFvlcol0T0Bi",
-    "views": 0
-   },
-   {
-    "id": "ec57b303-bd05-43f7-9d23-6a059bc89cd4",
-    "mNames": "The British Burma Gazetteer, Vols. I–II",
-    "mImageUrls": "https://lh3.googleusercontent.com/d/1TDGdqCkXqy-METw2fDuSefawXnvKosJV",
-    "mDescription": "The foundational gazetteer of British (Lower) Burma, including Akyab and Arakan.\nAuthor : H. S. Spearman\nYear : 1880\nPages : 776\nFile Size : 40.5 MB",
-    "mdwnurl": "https://drive.google.com/uc?export=download&id=1xjRue6ybB4T8kcDseg7fOf2WeodfrgDO",
-    "views": 0
-   },
-   {
-    "id": "a54fb4b7-99f1-4fab-b3ca-a24ab0608815",
-    "mNames": "The Chin Hills, Vol. I",
-    "mImageUrls": "https://lh3.googleusercontent.com/d/1bP5Hb5sOiiQlpqoJS-kn1iMbjaKIquOq",
-    "mDescription": "A history of the Chin peoples and British dealings with them.\nAuthor : Bertram S. Carey and H. N. Tuck\nYear : 1896\nPages : 302\nFile Size : 28.2 MB",
-    "mdwnurl": "https://drive.google.com/uc?export=download&id=13cZd590e62fkiCp1fJTVz44Q5DZl8Yve",
-    "views": 0
-   },
-   {
-    "id": "2da27c2c-482c-4a9e-a104-ce87db4504c3",
-    "mNames": "The Chin Hills, Vol. II",
-    "mImageUrls": "https://lh3.googleusercontent.com/d/1HUMYzN4UyQix_G_3OlzitkpsP82u6sNM",
-    "mDescription": "A gazetteer of Chin villages, tribes and territories.\nAuthor : Bertram S. Carey and H. N. Tuck\nYear : 1896\nPages : 266\nFile Size : 15.2 MB",
-    "mdwnurl": "https://drive.google.com/uc?export=download&id=1Ftf2fbWR4T90nQaIE9GkyzVxfjNfPrPF",
-    "views": 0
-   },
-   {
-    "id": "99364340-79f5-4f8e-b2bc-18c8ebce08c4",
-    "mNames": "The Coming of the Great Queen: A Narrative of the Acquisition of Burma",
-    "mImageUrls": "https://lh3.googleusercontent.com/d/1aM-DsNzaiFYlZ3gqCU8lyfUu3VMdQ4N_",
-    "mDescription": "An officer's account of the 1885 British acquisition of Burma.\nAuthor : Edmond Charles Browne\nYear : 1888\nPages : 500\nFile Size : 10.7 MB",
-    "mdwnurl": "https://drive.google.com/uc?export=download&id=1XvFvcFsAFtuUp0uGLxlTjQRBGQhSYC0V",
-    "views": 0
-   },
-   {
-    "id": "2456e1f6-f22a-4634-aeec-c9e1e11bf977",
-    "mNames": "The Dalhousie–Phayre Correspondence, 1852–1856",
-    "mImageUrls": "https://lh3.googleusercontent.com/d/195yClB2CjP5tWpA_bgHczW0k5MRiL1e6",
-    "mDescription": "Letters between the Governor-General and Arthur Phayre on the annexation of Pegu.\nAuthor : D. G. E. Hall (ed.)\nYear : 1932\nPages : 509\nFile Size : 58.2 MB",
-    "mdwnurl": "https://drive.google.com/uc?export=download&id=1TBjGHi6z-vQNbhb07RDMOQr1gnEaHmKL",
-    "views": 0
-   },
-   {
-    "id": "08a4dd0f-3d7f-4ed5-904e-577f94e75960",
-    "mNames": "The Glass Palace Chronicle of the Kings of Burma",
-    "mImageUrls": "https://lh3.googleusercontent.com/d/17bABCtCXfE_3HlH2REbKZFDaZuYTWtny",
-    "mDescription": "English translation of the opening parts of the royal Burmese chronicle.\nAuthor : trans. Pe Maung Tin and G. H. Luce\nYear : 1923\nPages : 216\nFile Size : 49.1 MB",
-    "mdwnurl": "https://drive.google.com/uc?export=download&id=1rNiWVG9fNbt9O1Qa9A4zbDhq6JFBmnZF",
-    "views": 0
-   },
-   {
-    "id": "d26148ae-a35e-441d-9128-b1b7f4054914",
-    "mNames": "The Hampshire Men (37th Regiment) in Upper Burmah in 1889",
-    "mImageUrls": "https://lh3.googleusercontent.com/d/1lMW4TpoPeE7wCVZyrCtvrJ_Tjx4C5lHz",
-    "mDescription": "A regiment's service in Upper Burma in 1889.\nAuthor : F. Cochran\nYear : 1890\nPages : 77\nFile Size : 1.6 MB",
-    "mdwnurl": "https://drive.google.com/uc?export=download&id=1FKWT76qkN8ms3FEdbj8ApqT0C7QNqntq",
-    "views": 0
-   },
-   {
-    "id": "db0eb67d-76fe-4b23-86d6-6ba281051f2e",
-    "mNames": "The Imperial Gazetteer of India: Burma, Vol. II",
-    "mImageUrls": "https://lh3.googleusercontent.com/d/1EpiQR5CxZDkQIz_GPd2iCSigP-xcX1tP",
-    "mDescription": "Entries for Burma's districts, towns, hills and rivers.\nAuthor : Government of India\nYear : 1908\nPages : 453\nFile Size : 21.7 MB",
-    "mdwnurl": "https://drive.google.com/uc?export=download&id=1949rk1gXPvvdYNx8kig1Fa6xscNk22Mv",
-    "views": 0
-   },
-   {
-    "id": "c79c7b77-45e1-43e4-a7b7-6a5e058e9df4",
-    "mNames": "The Kachins: Their Customs and Traditions",
-    "mImageUrls": "https://lh3.googleusercontent.com/d/1DGypMJGgOqY_ZMPscWuY6_XCrBChd3LV",
-    "mDescription": "A missionary's ethnography of the Kachin peoples.\nAuthor : Ola Hanson\nYear : 1913\nPages : 284\nFile Size : 16.1 MB",
-    "mdwnurl": "https://drive.google.com/uc?export=download&id=1KWBSJtm4d9VCh1a2GfyX1cV5cY3F5lMG",
-    "views": 0
-   },
-   {
-    "id": "c0e1af65-3c36-4b32-b737-6914d042738e",
-    "mNames": "The Karen Apostle: Memoir of Ko Thah-byu, the First Karen Convert",
-    "mImageUrls": "https://lh3.googleusercontent.com/d/1SBfayeAeSVSaWFJKbV2FN2Sd46VeDkcx",
-    "mDescription": "Memoir of the first Karen convert, with an account of the Karen people.\nAuthor : Francis Mason\nYear : 1843\nPages : 144\nFile Size : 6.1 MB",
-    "mdwnurl": "https://drive.google.com/uc?export=download&id=1osrKdToTCXim_OQBvbJDu48vv85PFhzq",
-    "views": 0
-   },
-   {
-    "id": "3c509c53-604f-469d-8804-f2e0bd40342f",
-    "mNames": "The Karen People of Burma",
-    "mImageUrls": "https://lh3.googleusercontent.com/d/1HGsqJin2X7no043amrpxCOawrzPmR8MF",
-    "mDescription": "An anthropological study of the Karen peoples.\nAuthor : Harry Ignatius Marshall\nYear : 1922\nPages : 357\nFile Size : 5.1 MB",
-    "mdwnurl": "https://drive.google.com/uc?export=download&id=1ZMgf0Xbz7qAVw1IT8DdBubtolL0Tt7qG",
-    "views": 0
-   },
-   {
-    "id": "95ee5632-3419-4b49-9be5-3128ec223844",
-    "mNames": "The Land of the White Elephant",
-    "mImageUrls": "https://lh3.googleusercontent.com/d/1v19F2YZlZIoSh_6u07vGu5FqmOgQkkPA",
-    "mDescription": "Travels in Burma, Siam, Cambodia and Cochin-China, 1871–72.\nAuthor : Frank Vincent\nYear : 1873\nPages : 387\nFile Size : 12.3 MB",
-    "mdwnurl": "https://drive.google.com/uc?export=download&id=1OB16uVxRlxo1Mhsql2HtDqMKyKj2MKcA",
-    "views": 0
-   },
-   {
-    "id": "24d810d5-4634-43e7-96a3-297b9ff8edc3",
-    "mNames": "The Loyal Karens of Burma",
-    "mImageUrls": "https://lh3.googleusercontent.com/d/1qpKG_Vq_AX98SNz9VTYBx4vwfJOfvOrs",
-    "mDescription": "A colonial officer's account of the Karen people.\nAuthor : Donald Mackenzie Smeaton\nYear : 1887\nPages : 312\nFile Size : 13.9 MB",
-    "mdwnurl": "https://drive.google.com/uc?export=download&id=11P-tP1IIrLWDLxWJplU5MxwShQ1WGGLv",
-    "views": 0
-   },
-   {
-    "id": "e1c8ba23-e444-4645-9b8b-72edd5b05b72",
-    "mNames": "The Mists of Rāmañña: The Legend That Was Lower Burma",
-    "mImageUrls": "https://lh3.googleusercontent.com/d/1FvJyNLNA0_k_eElZLypVUmx3an-f2THt",
-    "mDescription": "Open-access study questioning the Mon paradigm in early Burmese history.\nAuthor : Michael A. Aung-Thwin\nYear : 2005\nPages : 447\nFile Size : 21.9 MB",
-    "mdwnurl": "https://drive.google.com/uc?export=download&id=17UtuBbgfd86q1qjQNHU_R7Cc7GbEVWt6",
-    "views": 0
-   },
-   {
-    "id": "4e557140-b040-48bf-aa29-3f1b77f24e73",
-    "mNames": "The Pacification of Burma",
-    "mImageUrls": "https://lh3.googleusercontent.com/d/1F_WrtRGyeQpWg6c6p2Ldqt_3NkHt0xz-",
-    "mDescription": "The Chief Commissioner's account of establishing British rule after 1885.\nAuthor : Sir Charles Crosthwaite\nYear : 1912\nPages : 440\nFile Size : 28.0 MB",
-    "mdwnurl": "https://drive.google.com/uc?export=download&id=1M8YEq5qnBFoVx3To0XLvq4wL5hHytlEn",
-    "views": 0
-   },
-   {
-    "id": "f0fc7bce-e451-442d-abc2-42c6708093cb",
-    "mNames": "The Province of Burma, Vol. I",
-    "mImageUrls": "https://lh3.googleusercontent.com/d/1s-9VOTfj1HdQlm1hHe2bB9T340eLh4TT",
-    "mDescription": "A study of colonial administration in Burma: people, government and revenue.\nAuthor : Alleyne Ireland\nYear : 1907\nPages : 558\nFile Size : 38.6 MB",
-    "mdwnurl": "https://drive.google.com/uc?export=download&id=1bVO6vh0sLTxvoxdrftf5nLnsHFTP_uDI",
-    "views": 0
-   },
-   {
-    "id": "94a87e48-b0ff-4734-9bc6-cbaa97d2e9fa",
-    "mNames": "The Province of Burma, Vol. II",
-    "mImageUrls": "https://lh3.googleusercontent.com/d/1__94tLlIEZnOnOkjlZxnHE4VGasvSvcd",
-    "mDescription": "Finance, land revenue, public works, trade and forests, with statistics and treaties.\nAuthor : Alleyne Ireland\nYear : 1907\nPages : 530\nFile Size : 52.4 MB",
-    "mdwnurl": "https://drive.google.com/uc?export=download&id=13GI0FS9-DC12xPc-W4mRaRdWok3_Tsqs",
-    "views": 0
-   },
-   {
-    "id": "29f74bd9-d343-4cf3-b61b-22e175bc11f2",
-    "mNames": "The Recent Operations of the British Forces at Rangoon and Martaban",
-    "mImageUrls": "https://lh3.googleusercontent.com/d/16OumPxud-Pfk22KWlpC8zl6RToluiU-a",
-    "mDescription": "Eyewitness reports from the start of the Second Anglo-Burmese War.\nAuthor : Thomas Turner Baker\nYear : 1852\nPages : 103\nFile Size : 1.8 MB",
-    "mdwnurl": "https://drive.google.com/uc?export=download&id=1kYDJWfE0LhErR7BNPOzDMoPUpSY0LyoW",
-    "views": 0
-   },
-   {
-    "id": "d9686bed-cb6e-427d-b985-94f65ab54bd3",
-    "mNames": "The Romantic East: Burma, Assam, & Kashmir",
-    "mImageUrls": "https://lh3.googleusercontent.com/d/1Jm9KxduRjl7EFo8OpcSMxGU9fc2BUTpA",
-    "mDescription": "An illustrated travel account of Burma, Assam and Kashmir.\nAuthor : Walter Del Mar\nYear : 1906\nPages : 368\nFile Size : 15.9 MB",
-    "mdwnurl": "https://drive.google.com/uc?export=download&id=1uo34jpgbuCelHGQjdM711LDKsL73DkKV",
-    "views": 0
-   },
-   {
-    "id": "118dbf5b-3d42-43fe-9a37-ac727566731f",
-    "mNames": "The Second Burmese War: A Narrative of the Operations at Rangoon in 1852",
-    "mImageUrls": "https://lh3.googleusercontent.com/d/1Mlx5YCvz8Za-A22va4_T5iJlATgfb5HU",
-    "mDescription": "The 1852 Rangoon operations that opened the Second Anglo-Burmese War.\nAuthor : W. F. B. Laurie\nYear : 1853\nPages : 317\nFile Size : 5.3 MB",
-    "mdwnurl": "https://drive.google.com/uc?export=download&id=1XbRVsOcAckXCtpCBBPTaY7nNhgv-YvO-",
-    "views": 0
-   },
-   {
-    "id": "a771fd13-998b-4f65-b9aa-a97378efead2",
-    "mNames": "The Shans, Vol. I",
-    "mImageUrls": "https://lh3.googleusercontent.com/d/1r3fRNv3bS9MAcV4JVbu38WzpLE0MH6Cq",
-    "mDescription": "The Shan peoples: Buddhism, language, literature and history.\nAuthor : W. W. Cochrane\nYear : 1915\nPages : 278\nFile Size : 11.6 MB",
-    "mdwnurl": "https://drive.google.com/uc?export=download&id=1dyIzTmN8l_rjiAah97t2AuxLpkmo5cO-",
-    "views": 0
-   },
-   {
-    "id": "a2c845b5-6350-43db-a330-08cd90e6fac9",
-    "mNames": "The Silken East, Vol. I",
-    "mImageUrls": "https://lh3.googleusercontent.com/d/1GQfZPzLq2tuU7tcbSQmSRN5WJIohTSbk",
-    "mDescription": "An illustrated record of life and travel in Burma.\nAuthor : V. C. Scott O'Connor\nYear : 1904\nPages : 410\nFile Size : 28.2 MB",
-    "mdwnurl": "https://drive.google.com/uc?export=download&id=1ijGupZOXthX__kgDVqdHvrHb-chci3e8",
-    "views": 0
-   },
-   {
-    "id": "e3ccff3c-5c70-40b8-a963-01f347298bbe",
-    "mNames": "The Silken East, Vol. II",
-    "mImageUrls": "https://lh3.googleusercontent.com/d/1oGVWMwx17bbj9qtavtzM7sq4a8y7Mr46",
-    "mDescription": "An illustrated record of life and travel in Burma.\nAuthor : V. C. Scott O'Connor\nYear : 1904\nPages : 457\nFile Size : 7.6 MB",
-    "mdwnurl": "https://drive.google.com/uc?export=download&id=193bjnVrGjfA5944l6-zJfl5o3685Js3a",
-    "views": 0
-   },
-   {
-    "id": "790de798-c66d-4767-bcef-46495e5fa7a4",
-    "mNames": "The Soul of a People",
-    "mImageUrls": "https://lh3.googleusercontent.com/d/1b3YHiV_vSprW-d2bGu2o1_psnpcsHr0v",
-    "mDescription": "Burmese life, belief and Buddhism.\nAuthor : H. Fielding Hall\nYear : 1898\nPages : 314\nFile Size : 18.2 MB",
-    "mdwnurl": "https://drive.google.com/uc?export=download&id=1n0eV0aOElX6zmbCg6gUjNSjfWDFBTRDY",
-    "views": 0
-   },
-   {
-    "id": "c044d45f-bd1e-4b48-8d19-79c3a7955d5d",
-    "mNames": "Travels in South-Eastern Asia",
-    "mImageUrls": "https://lh3.googleusercontent.com/d/1pp4sPP-ms0P1UDiNMlZnytQN5vEV6c1G",
-    "mDescription": "An American missionary's 1830s travels, with a full account of the Burman Empire.\nAuthor : Howard Malcom\nYear : 1839\nPages : 616\nFile Size : 36.9 MB",
-    "mdwnurl": "https://drive.google.com/uc?export=download&id=1fRX5qovSijEFKWgEqWLTfCLDeyQWkmvE",
-    "views": 0
-   },
-   {
-    "id": "3535ff9e-e047-4fa4-b148-d6268870470a",
-    "mNames": "Travels of Doctor and Madame Helfer, Vol. 2",
-    "mImageUrls": "https://lh3.googleusercontent.com/d/1gynW1KtqQgaEUp5NGwjjEkxwnI_V4g9G",
-    "mDescription": "The Helfers' travels, including Dr. Helfer's time in Burma.\nAuthor : Pauline Nostitz\nYear : 1878\nPages : 368\nFile Size : 21.4 MB",
-    "mdwnurl": "https://drive.google.com/uc?export=download&id=1675kL46vMCuv_kbjM98oxPQiBcMfdS_D",
-    "views": 0
-   },
-   {
-    "id": "784c9626-d357-4e1b-86c9-d8a044bbd5e1",
-    "mNames": "Twenty-six Years in Burmah",
-    "mImageUrls": "https://lh3.googleusercontent.com/d/1OJO6ujHi6ULWOZnNlXdcfeoScqtNMjT1",
-    "mDescription": "The life and work of a Baptist missionary in Burma, 1855–1880.\nAuthor : Mrs. Joseph G. Binney\nYear : 1880\nPages : 404\nFile Size : 19.4 MB",
-    "mdwnurl": "https://drive.google.com/uc?export=download&id=1thmnHrpOgG6EdYkiK8lCXIKt8UbYIPEJ",
-    "views": 0
-   },
-   {
-    "id": "55737661-8152-4dfc-aa18-30d9c94362ad",
-    "mNames": "Wanderings in Burma",
-    "mImageUrls": "https://lh3.googleusercontent.com/d/1kOE4w1X5ILGFb3MV36b1Ch5kph63lccu",
-    "mDescription": "A colonial traveller's guide to 1890s Burma, including the coast route to Akyab.\nAuthor : George W. Bird\nYear : 1897\nPages : 611\nFile Size : 7.8 MB",
-    "mdwnurl": "https://drive.google.com/uc?export=download&id=18to7htnUi1iG7Bz75xCD6wlJgNB_F7II",
-    "views": 0
-   },
-   {
-    "id": "94a22241-39f9-4ec9-a61d-37ad4a604b03",
-    "mNames": "Wild Sports of Burma and Assam",
-    "mImageUrls": "https://lh3.googleusercontent.com/d/1ftUtgfP2wXBoTuPlyXsl-dG8leMDh6dT",
-    "mDescription": "Twenty years of hunting journals from Burma and Assam.\nAuthor : F. T. Pollok and W. S. Thom\nYear : 1900\nPages : 537\nFile Size : 95.3 MB",
-    "mdwnurl": "https://drive.google.com/uc?export=download&id=1bpSpAb9nybXhV1Ok-aNziROtuSpYEl-a",
-    "views": 0
-   }
-  ],
-  "ReligiousBooks": [
-   {
-    "id": "c74aacc9-06ab-4c59-ace7-677746a8c1ba",
-    "mNames": "50 Sahih Hadiths (خمسون حديثا صحيحا)",
-    "mImageUrls": "https://lh3.googleusercontent.com/d/1nlbOoulBVOcFAhHNA5PQBx4SirrHCdEk",
-    "mDescription": "Fifty authentic hadiths in Arabic, each with its source and a Rohingya translation and explanation.\nLanguage : Arabic and Rohingya (Hanifi script)\nPages : 52\nFile Size : 16.6 MB",
-    "mdwnurl": "https://drive.google.com/uc?export=download&id=1BCD_LtZycgY_i54dEPROZX1syRClwza5",
-    "views": 0
-   },
-   {
-    "id": "d04cc1b7-4128-49a0-b305-7e4b96978eb6",
-    "mNames": "99 Names of Allah",
-    "mImageUrls": "https://lh3.googleusercontent.com/d/1-858Q8gXd0JkrV8NByVQhimuwc9ONVYO",
-    "mDescription": "The ninety-nine names of Allah in Arabic with their meanings in Rohingya.\nLanguage : Arabic and Rohingya (Hanifi script)\nPages : 6\nFile Size : 1.0 MB",
-    "mdwnurl": "https://drive.google.com/uc?export=download&id=1mRsfuivjGErWLvElR2k6ypGh4qIFP5m7",
-    "views": 0
-   },
-   {
-    "id": "f7439279-bb23-4504-b327-c9d109ff3fc9",
-    "mNames": "Aasan Masahla",
-    "mImageUrls": "https://lh3.googleusercontent.com/d/1ERvZ_GL4ECy6LhOBj7VIkCVGltCjax8D",
-    "mDescription": "Basic Islamic teachings in simple Rohingya, in question-and-answer form.\nLanguage : Rohingya (Hanifi script)\nPages : 51\nFile Size : 8.3 MB",
-    "mdwnurl": "https://drive.google.com/uc?export=download&id=1_8lhi0qJP1FeGnGBEr9A7e2yq6cEGEQf",
-    "views": 0
-   },
-   {
-    "id": "22bd8ed1-92f4-4190-9a28-8cf46bd2d0fd",
-    "mNames": "Hoittor Hadis – 70 Hadiths (سبعون حديث)",
-    "mImageUrls": "https://lh3.googleusercontent.com/d/1lKtLaJZbtFol05gV9SUdKrVzI3UXV7RF",
-    "mDescription": "Seventy hadiths in Arabic with Rohingya translation.\nLanguage : Arabic and Rohingya (Hanifi script)\nPages : 20\nFile Size : 3.6 MB",
-    "mdwnurl": "https://drive.google.com/uc?export=download&id=1d_0K1TmoFZv_V18VKvOHef87X7n1zlu3",
-    "views": 0
-   },
-   {
-    "id": "03469294-760b-4a17-9fd5-e89d623b834c",
-    "mNames": "Juz Amma with Rohingya Meaning (جزء عم)",
-    "mImageUrls": "https://lh3.googleusercontent.com/d/1PfofwZSVde5EJhY8KH4aQaxobIRfbrn6",
-    "mDescription": "The 30th part of the Quran with a word-by-word Rohingya translation under the Arabic text, scanned.\nLanguage : Arabic and Rohingya (Hanifi script)\nPages : 56\nFile Size : 19.2 MB",
-    "mdwnurl": "https://drive.google.com/uc?export=download&id=17D6WmAU1-OXatbfXzUsBU9YHUImmbH0r",
-    "views": 0
-   },
-   {
-    "id": "f6c8b451-da41-42e8-b1b4-1df2120ec19c",
-    "mNames": "Surah Yunus with Rohingya Meaning",
-    "mImageUrls": "https://lh3.googleusercontent.com/d/1RdWH8WCXDBhEOxoE8dcbggRaZ5sK8du9",
-    "mDescription": "Surah Yunus (chapter 10 of the Quran) in Arabic with Rohingya translation and explanation.\nLanguage : Arabic and Rohingya (Hanifi script)\nPages : 37\nFile Size : 11.3 MB",
-    "mdwnurl": "https://drive.google.com/uc?export=download&id=1dLdmQWq624YPBJ-sVl3RKWYsTwz92t01",
-    "views": 0
-   },
-   {
-    "id": "0afeab80-990c-4d8e-856f-e47acee67110",
-    "mNames": "𐴀𐴞𐴀𐴁𐴠𐴑𐴝𐴉𐴡𐴌𐴢 𐴔𐴡𐴏𐴝𐴓𐴝𐴤",
-    "mImageUrls": "https://lh3.googleusercontent.com/d/1VhjT3O6bH3RDUhEBCMOjfnozXoHP3FZ2",
-    "mDescription": "Islamic rulings (masa'il) in Rohingya with Quran and hadith references.\nAuthor : Rohingya National Education Board\nLanguage : Rohingya (Hanifi script)\nPages : 14\nFile Size : 5.8 MB",
-    "mdwnurl": "https://drive.google.com/uc?export=download&id=1SuGaEI3Kx45JcMWX_UkUBWsrcE6bvDVw",
-    "views": 0
-   }
-  ],
-  "HistoricalBooks": [
-   {
-    "id": "b7e0a6ed-93ef-49d2-84e9-16e1900c7c4e",
-    "mNames": "AD ၁၈၂၃ မတိုင်မီ မြန်မာနိုင်ငံ၌ ပင်ရင်းနိုင်ငံအဖြစ် နေထိုင်ကြခဲ့သော မြတ်ဆလင်များ",
-    "mImageUrls": "https://lh3.googleusercontent.com/d/1FakGJ8evno_N06qjASfuyoA4BrpNxzNE",
-    "mDescription": "Article on the Muslims who lived in Burma as natives before 1823.\nAuthor : Rohingya Express\nYear : 2014\nLanguage : Burmese\nPages : 44\nFile Size : 0.3 MB",
-    "mdwnurl": "https://drive.google.com/uc?export=download&id=1iKjRZEWn0aC1wZPVaT7SykTKbjcVqbiT",
-    "views": 0
-   },
-   {
-    "id": "de4140e5-a440-4e7a-8f41-2fec6b40f6ab",
-    "mNames": "Buchanan မှတ်တမ်းထဲက Rooinga (သို့မဟုတ်) ရိုဟင်ဂျာအထောက်အထား",
-    "mImageUrls": "https://lh3.googleusercontent.com/d/1sBWpArXtC0O5lDm6bzW3ujqusqGq8vSI",
-    "mDescription": "Article on Francis Buchanan's 1799 record of the 'Rooinga' language of Arakan as evidence for the Rohingya.\nAuthor : Rohingya Express\nYear : 2013\nLanguage : Burmese\nPages : 7\nFile Size : 0.1 MB",
-    "mdwnurl": "https://drive.google.com/uc?export=download&id=1Wv_OWcQQzhHvDZ9GlFebcM3Kletos-Yp",
-    "views": 0
-   },
-   {
-    "id": "1d49490d-15b6-45f8-a2fa-2c5870dbda27",
-    "mNames": "Burma's Lost Kingdoms: Splendours of Arakan",
-    "mImageUrls": "https://lh3.googleusercontent.com/d/1PFvNGTE5_sCIs5xJ4OS-PEkNGZimouxO",
-    "mDescription": "Illustrated history of the ancient kingdoms of Arakan, with photography by Zaw Min Yu.\nAuthor : Pamela Gutman\nYear : 2001\nPages : 193\nFile Size : 42.1 MB",
-    "mdwnurl": "https://drive.google.com/uc?export=download&id=1Vd7oz5VuQETKpfUKGpyqCIpu9ErXXq0p",
-    "views": 0
-   },
-   {
-    "id": "bba58f6a-4632-4f00-9aad-03d0e1186b2a",
-    "mNames": "Linguarum Totius Orbis Index Alphabeticus",
-    "mImageUrls": "https://lh3.googleusercontent.com/d/1Sj0PXN56DjQYFRdIhuBGt9pBk4dxKCGD",
-    "mDescription": "An alphabetical index of the grammars and dictionaries of the world's languages, which lists the Ro-oinga language of Arakan.\nAuthor : Johann Severin Vater\nYear : 1815\nLanguage : German and Latin\nPages : 280\nFile Size : 19.0 MB",
-    "mdwnurl": "https://drive.google.com/uc?export=download&id=1rQoRH7OnUa8wuK6OSx6DlNdJYX7rxKV0",
-    "views": 0
-   },
-   {
-    "id": "57401514-de86-4d58-8ffa-afc882a9e08a",
-    "mNames": "The Buddhist Art of Ancient Arakan",
-    "mImageUrls": "https://lh3.googleusercontent.com/d/12Wfs3N77uR6L24892wNf7h8gVpnt42jl",
-    "mDescription": "An eastern border state beyond ancient India, east of Vanga and Samatata.\nAuthor : San Tha Aung\nYear : 1979\nPages : 133\nFile Size : 5.8 MB",
-    "mdwnurl": "https://drive.google.com/uc?export=download&id=1A87qe0pQ_XI8PGwmcBfCYVNaUcsnkgGz",
-    "views": 0
-   },
-   {
-    "id": "1eb562dc-293d-475a-8364-c02020f90da4",
-    "mNames": "The Burmese Labyrinth: A History of the Rohingya Tragedy",
-    "mImageUrls": "https://lh3.googleusercontent.com/d/1UwB04cIYXDqJM0ytkTm26-q2WaJFlok3",
-    "mDescription": "A history of the Rohingya tragedy in Myanmar.\nAuthor : Carlos Sardiña Galache\nYear : 2020\nPages : 430\nFile Size : 3.4 MB",
-    "mdwnurl": "https://drive.google.com/uc?export=download&id=1IMLn_kwrVqaiyn75--NZTbdsoxtF49Rr",
-    "views": 0
-   },
-   {
-    "id": "ebb75524-b1b4-43ce-8298-68010e171179",
-    "mNames": "The Hidden History of Burma: Race, Capitalism, and the Crisis of Democracy in the 21st Century",
-    "mImageUrls": "https://lh3.googleusercontent.com/d/1btQrLSUSFApQh_uHPByRaAFZevgGW6_0",
-    "mDescription": "Race, capitalism and the crisis of democracy in Myanmar in the 21st century.\nAuthor : Thant Myint-U\nYear : 2019\nPages : 244\nFile Size : 2.0 MB",
-    "mdwnurl": "https://drive.google.com/uc?export=download&id=1i0Z6Kfc4UyJtq17o185z6ZTxlxFwqgr6",
-    "views": 0
-   },
-   {
-    "id": "944c518e-cb39-4388-a904-bb45ebd20ec2",
-    "mNames": "The History of India as Told by Its Own Historians, Vol. I",
-    "mImageUrls": "https://lh3.googleusercontent.com/d/1YWVizLYFmCikNQjb6BTaYHNeXvQRMpsD",
-    "mDescription": "The Muhammadan Period, volume I: translations of early Arab and Persian accounts of India.\nAuthor : H. M. Elliot; edited by John Dowson\nYear : 1867\nPages : 584\nFile Size : 17.6 MB",
-    "mdwnurl": "https://drive.google.com/uc?export=download&id=1T7TZ6OjDHpB9CZ28M1DwFYesV56ulWIb",
-    "views": 0
-   },
-   {
-    "id": "b3e2480a-6c93-417b-8388-b315674204f0",
-    "mNames": "The Muslims of Burma: A Study of a Minority Group",
-    "mImageUrls": "https://lh3.googleusercontent.com/d/1onaCzFqnDHAkjXCEumD2VtAX5P-Mviou",
-    "mDescription": "A study of the Muslim minority of Burma, including the Muslims of Arakan.\nAuthor : Moshe Yegar\nYear : 1972\nPages : 157\nFile Size : 4.7 MB",
-    "mdwnurl": "https://drive.google.com/uc?export=download&id=1-zhzXzMx3GBXvdPcrj-EVtM2MYeG5fmZ",
-    "views": 0
-   },
-   {
-    "id": "a733e202-82e5-4c9d-b4e0-0da26329d556",
-    "mNames": "ကိုယ်တွေ့ မေယုမြေ",
-    "mImageUrls": "https://lh3.googleusercontent.com/d/1kEW7-BpidskUCO4LrkBxrBPDNmQ40WjL",
-    "mDescription": "The Mayu frontier of northern Arakan, from the author's own experience.\nAuthor : ဦးစံထွန်းအောင် (U San Tun Aung)\nLanguage : Burmese\nPages : 73\nFile Size : 0.2 MB",
-    "mdwnurl": "https://drive.google.com/uc?export=download&id=1KN-dTpkoWCnBghfYSzcpHlCUbkGQSjEa",
-    "views": 0
-   },
-   {
-    "id": "cea4b4d0-cfe8-4c03-89b7-7aa2ba34fee7",
-    "mNames": "ကိုလိုနီဘဝ ရွှေပြည်ရခိုင်",
-    "mImageUrls": "https://lh3.googleusercontent.com/d/1JMNspN-a_iDHYqGsadIw9DawzumXZQ9j",
-    "mDescription": "Arakan under British colonial rule.\nAuthor : မြထွန်းအောင် (Mya Tun Aung)\nLanguage : Burmese\nPages : 200\nFile Size : 2.1 MB",
-    "mdwnurl": "https://drive.google.com/uc?export=download&id=1FD8ke_r8FuynreE1Hf_AuXMMRkQYeEjT",
-    "views": 0
-   },
-   {
-    "id": "5f065fc3-9027-4159-8861-5a2498566695",
-    "mNames": "ကျောက်ဖြူမြို့နယ် ဖြစ်စဉ်သမိုင်း",
-    "mImageUrls": "https://lh3.googleusercontent.com/d/1ybMgGvtE6VgbOOULcL_wuW2vWf3idJ94",
-    "mDescription": "History of Kyaukphyu Township, Rakhine State.\nLanguage : Burmese\nPages : 70\nFile Size : 0.2 MB",
-    "mdwnurl": "https://drive.google.com/uc?export=download&id=1gX05K2BmuC606UEzyau6TDGSuGmCAV5c",
-    "views": 0
-   },
-   {
-    "id": "e8725c19-328a-4dd6-bcb0-3d06f04693af",
-    "mNames": "ဘူးသီးတောင်မြို့နယ် ဖြစ်စဉ်သမိုင်း",
-    "mImageUrls": "https://lh3.googleusercontent.com/d/1DFIzIXgXq0jO65n81Kfil3m5xi6RL94V",
-    "mDescription": "History of Buthidaung Township, Rakhine State.\nLanguage : Burmese\nPages : 234\nFile Size : 1.0 MB",
-    "mdwnurl": "https://drive.google.com/uc?export=download&id=18DSrPHL3XMrdhfUf4kXQZlQH5NUuM6vQ",
-    "views": 0
-   },
-   {
-    "id": "342052fb-9a32-42a8-9815-be95b129320a",
-    "mNames": "မင်းပြားမြို့နယ် ဖြစ်စဉ်သမိုင်း",
-    "mImageUrls": "https://lh3.googleusercontent.com/d/1wQ7gggBKhyKnbbkRrkC867grRxgfwk7b",
-    "mDescription": "History of Minbya Township, Rakhine State.\nLanguage : Burmese\nPages : 96\nFile Size : 0.4 MB",
-    "mdwnurl": "https://drive.google.com/uc?export=download&id=1ar5GoExVYwIDCbNxqsPKnmZ3w8GyhsRC",
-    "views": 0
-   },
-   {
-    "id": "4da48161-b67f-446a-b968-327c9db4fc2b",
-    "mNames": "မြောက်ဦးခေတ်နှောင်း ရခိုင်သမိုင်း (အေဒီ ၁၆၃၈–၁၇၈၄)",
-    "mImageUrls": "https://lh3.googleusercontent.com/d/1cdCgo7YMS4nxMgiv7yBJ0tN5RxS2LyDu",
-    "mDescription": "Thesis (History Department, Yangon University) on Arakan in the late Mrauk-U period, 1638–1784.\nAuthor : ကျော်ဝင်းဦး (Kyaw Win Oo)\nYear : 1996\nLanguage : Burmese\nPages : 46\nFile Size : 0.2 MB",
-    "mdwnurl": "https://drive.google.com/uc?export=download&id=1fTHUi4HvQ8wZvyj7rFTZCnPW1-5NU6Oo",
-    "views": 0
-   },
-   {
-    "id": "532b2913-2c8e-4393-a426-315831eabe28",
-    "mNames": "မြောက်ဦးမြို့နယ် ဖြစ်စဉ်သမိုင်း",
-    "mImageUrls": "https://lh3.googleusercontent.com/d/1XMs7nfsVkDmseZ1mn-AYakiJ5hqvPOQp",
-    "mDescription": "History of Mrauk-U Township, Rakhine State.\nLanguage : Burmese\nPages : 84\nFile Size : 0.3 MB",
-    "mdwnurl": "https://drive.google.com/uc?export=download&id=1U4w2Qy_Py_fIWvlf-qZxpRHRQddPWC4J",
-    "views": 0
-   },
-   {
-    "id": "7f55fb9a-1ba0-4b6e-9344-3085557d4461",
-    "mNames": "သမိုင်းသက်သေ ရိုဟင်ဂျာ (အဖြေ)",
-    "mImageUrls": "https://lh3.googleusercontent.com/d/1djEOuPeHjj9qiybADPZIJOOsN50k5eNh",
-    "mDescription": "A compilation of historical evidence on the Rohingya.\nAuthor : ဦးအောင်ခင် (စစ်တွေ) (U Aung Khin, Sittwe)\nLanguage : Burmese\nPages : 140\nFile Size : 14.7 MB",
-    "mdwnurl": "https://drive.google.com/uc?export=download&id=11Q2PKKUcfjR86l4IK7VrHr1Fxy7Egpdk",
-    "views": 0
-   },
-   {
-    "id": "4d12edc6-0909-471d-b773-5f1a3eb49fc5",
-    "mNames": "အာရကန်ဌာနေ တိုင်းရင်းသားရိုဟင်ဂျာ",
-    "mImageUrls": "https://lh3.googleusercontent.com/d/1Sm6H9K8VGm-3Ok6Ygz0qnUwy3blMewN-",
-    "mDescription": "On the Rohingya as an indigenous people of Arakan.\nLanguage : Burmese\nPages : 33\nFile Size : 21.6 MB",
-    "mdwnurl": "https://drive.google.com/uc?export=download&id=1uivmRmdXzPkIqeqKJKfBhziL0VFEudIr",
-    "views": 0
-   },
-   {
-    "id": "07206b6a-31f7-4f35-bef2-e96905f3ce1b",
-    "mNames": "အေဒီခြောက်ရာစုနှင့် ယင်းမတိုင်မီ ရခိုင်ပြည်သုံးအက္ခရာ",
-    "mImageUrls": "https://lh3.googleusercontent.com/d/17QHA7RJix9R-lF6TA-fMdrvoEQTEy5Ns",
-    "mDescription": "The scripts used in Arakan up to the 6th century AD.\nAuthor : ဦးစံသာအောင် (U San Tha Aung)\nYear : 1975\nLanguage : Burmese\nPages : 129\nFile Size : 19.3 MB",
-    "mdwnurl": "https://drive.google.com/uc?export=download&id=1UPqmnaCb6lpZlBMkU_EgG_n2BCnvCIpE",
-    "views": 0
-   },
-   {
-    "id": "0737eb4a-5362-482b-b03d-ae8dae6ef744",
-    "mNames": "𐴀𐴝𐴌𐴑𐴝𐴕𐴡𐴌 𐴃𐴝𐴤𐴌𐴞𐴑𐴡𐴌 𐴇𐴞𐴥𐴏𐴄𐴟𐴌𐴞",
-    "mImageUrls": "https://lh3.googleusercontent.com/d/1YA8Uw-HAfStTVMauAdzh7Okt4oewvqcx",
-    "mDescription": "A history of Arakan in Rohingya, illustrated with historical figures and coins.\nLanguage : Rohingya (Hanifi script)\nPages : 30\nFile Size : 22.1 MB",
-    "mdwnurl": "https://drive.google.com/uc?export=download&id=1Rii2L62J8_2I3XYVSgkMBR2zaUSWFvfb",
-    "views": 0
-   }
-  ],
-  "ReportsResearch": [
-   {
-    "id": "2af95640-da7c-4aa1-92de-b9c4f1c58dd0",
-    "mNames": "Arakan Rohingya Union Narrative Report to OIC (30 April 2021)",
-    "mImageUrls": "https://lh3.googleusercontent.com/d/1yShYp1FQVQHWrMO3FVzl1yh8rsYzIO0k",
-    "mDescription": "The situation in Arakan/Rakhine State after the 2021 military coup, submitted to the Organisation of Islamic Cooperation.\nAuthor : Dr. Wakar Uddin, Arakan Rohingya Union\nYear : 2021\nPages : 4\nFile Size : 0.8 MB",
-    "mdwnurl": "https://drive.google.com/uc?export=download&id=1X1JdLIZMeETiiIh_eCA-II49tkcR0IOs",
-    "views": 0
-   },
-   {
-    "id": "1e694d9f-8f16-468f-8c2f-566a26525467",
-    "mNames": "Impacts of the Rohingya Refugee Influx on Host Communities",
-    "mImageUrls": "https://lh3.googleusercontent.com/d/16t19QhuGBNk6aUWPCOSqbxyd8mFQ1M6S",
-    "mDescription": "UNDP assessment of how the 2017 refugee influx affected host communities in Cox's Bazar.\nAuthor : UNDP\nYear : 2018\nPages : 224\nFile Size : 49.5 MB",
-    "mdwnurl": "https://drive.google.com/uc?export=download&id=1-Dvl8kVz3IQy8U1UHA7rHKVaA-nQeCbZ",
-    "views": 0
-   },
-   {
-    "id": "9f8985ca-5354-4d06-bfdc-49d93f493aca",
-    "mNames": "Metasynthesis: DEC Rohingya Refugee Crisis Response – Lessons Learned Report",
-    "mImageUrls": "https://lh3.googleusercontent.com/d/1uTdlxgvkJGRf8r_XCTsaBoyz12WAJkWS",
-    "mDescription": "Lessons learned from the Disasters Emergency Committee's response to the Rohingya refugee crisis.\nAuthor : Charlotte Heward and Michael Carrier (Groupe URD)\nYear : 2020\nPages : 64\nFile Size : 10.1 MB",
-    "mdwnurl": "https://drive.google.com/uc?export=download&id=1B5JMW9DrKKLDMuRWpFon4UHVkaZWhaaB",
-    "views": 0
-   },
-   {
-    "id": "08cf784b-3807-4685-9a34-30a5698d2b6d",
-    "mNames": "Rohingya Crisis",
-    "mImageUrls": "https://lh3.googleusercontent.com/d/1jdGRmeFbx4SMwcq29_oUJeUUNlhrppLp",
-    "mDescription": "A short compiled overview of the Rohingya crisis: who the Rohingya are and the 2017 violence.\nPages : 14\nFile Size : 0.3 MB",
-    "mdwnurl": "https://drive.google.com/uc?export=download&id=14vmXJQA_cgnH0qvMTzvsB76QohE7nyk7",
-    "views": 0
-   },
-   {
-    "id": "3ba17187-247f-45f5-9054-28a7b6a0a9fe",
-    "mNames": "Rohingya: Nascent Neighbourhoods in Displaced Landscapes",
-    "mImageUrls": "https://lh3.googleusercontent.com/d/1g7InNlEMVFhBHViiZkGCgmVINYynPRzp",
-    "mDescription": "Excerpts of a design-build-educate initiative at the Balukhali refugee settlement, Bangladesh.\nAuthor : Dipon Bose, Friends of Rohingya\nYear : 2018\nPages : 80\nFile Size : 13.8 MB",
-    "mdwnurl": "https://drive.google.com/uc?export=download&id=1s4o4vzsqv7virkUOvmbbQyFfQuN9lajB",
-    "views": 0
-   },
-   {
-    "id": "e1f62242-e79f-4a33-be85-7ef644239de0",
-    "mNames": "Village Tracts of Pauktaw Township, Rakhine State (Map)",
-    "mImageUrls": "https://lh3.googleusercontent.com/d/1V_cuxDAhLyHrd6j1z2lQII2D0PtEUtyS",
-    "mDescription": "Map of the village tracts of Pauktaw Township, Rakhine State.\nAuthor : Myanmar Information Management Unit (MIMU)\nYear : 2011\nPages : 1\nFile Size : 0.5 MB",
-    "mdwnurl": "https://drive.google.com/uc?export=download&id=1hSXrcWbRqa0B0nHqjxQtj31qy1QsKqRN",
-    "views": 0
-   },
-   {
-    "id": "32d8b0e0-bde4-4a5f-a85e-65b661fb722f",
-    "mNames": "ကျောက်တော်မြို့နယ် ဒေသဆိုင်ရာအချက်အလက်များ (၂၀၁၇)",
-    "mImageUrls": "https://lh3.googleusercontent.com/d/1hw81m893lgHuKcGI9N9VQFtl4Nw-Hurj",
-    "mDescription": "Official profile of Kyauktaw Township, Rakhine State: history, geography, population, economy and services.\nAuthor : General Administration Department\nYear : 2017\nLanguage : Burmese\nPages : 67\nFile Size : 2.2 MB",
-    "mdwnurl": "https://drive.google.com/uc?export=download&id=1mkF8zk5IdadDYRDsvMlxQMJF-Z9e-Z_v",
-    "views": 0
-   },
-   {
-    "id": "beae811e-4d43-4e30-838a-5544a8f0037b",
-    "mNames": "ကျောက်ဖြူမြို့နယ် ဒေသဆိုင်ရာအချက်အလက်များ (၂၀၁၇)",
-    "mImageUrls": "https://lh3.googleusercontent.com/d/1OQZ4pR9ObAwsKsZ5A8gGLwk90j9HE1xv",
-    "mDescription": "Official profile of Kyaukphyu Township, Rakhine State: history, geography, population, economy and services.\nAuthor : General Administration Department\nYear : 2017\nLanguage : Burmese\nPages : 67\nFile Size : 2.4 MB",
-    "mdwnurl": "https://drive.google.com/uc?export=download&id=1ECW2tB6lSkQATDV9WdTLgGJ9fFwnx_zO",
-    "views": 0
-   },
-   {
-    "id": "1fbf9a6d-6116-467b-844a-aa067bfdcc66",
-    "mNames": "ဂွမြို့နယ် ဒေသဆိုင်ရာအချက်အလက်များ (၂၀၁၇)",
-    "mImageUrls": "https://lh3.googleusercontent.com/d/1BIULQxXC6oqma6uCOvrWsE-81x1aoUCB",
-    "mDescription": "Official profile of Gwa Township, Rakhine State: history, geography, population, economy and services.\nAuthor : General Administration Department\nYear : 2017\nLanguage : Burmese\nPages : 64\nFile Size : 1.9 MB",
-    "mdwnurl": "https://drive.google.com/uc?export=download&id=1MvOfw_BTiLlKaoF8ZT0BFB58HknFli-j",
-    "views": 0
-   },
-   {
-    "id": "9b40c85d-e5e1-4df4-806e-716acc745f94",
-    "mNames": "စစ်တွေမြို့နယ် ဒေသဆိုင်ရာအချက်အလက်များ (၂၀၁၇)",
-    "mImageUrls": "https://lh3.googleusercontent.com/d/1sc8KuRs7Bq_q02Tv58EYxS49BDs0bGf8",
-    "mDescription": "Official profile of Sittwe Township, Rakhine State: history, geography, population, economy and services.\nAuthor : General Administration Department\nYear : 2017\nLanguage : Burmese\nPages : 72\nFile Size : 0.7 MB",
-    "mdwnurl": "https://drive.google.com/uc?export=download&id=1R69UXCxVaTRX89_4v4zSt6rZZ38Va7zx",
-    "views": 0
-   },
-   {
-    "id": "9dd98497-6d69-4db9-8965-15cbcd463880",
-    "mNames": "တောင်ကုတ်မြို့နယ် ဒေသဆိုင်ရာအချက်အလက်များ (၂၀၁၇)",
-    "mImageUrls": "https://lh3.googleusercontent.com/d/18X5VERMYtxtQyJM0DcBd5p3db0URNprd",
-    "mDescription": "Official profile of Taungup Township, Rakhine State: history, geography, population, economy and services.\nAuthor : General Administration Department\nYear : 2017\nLanguage : Burmese\nPages : 77\nFile Size : 2.1 MB",
-    "mdwnurl": "https://drive.google.com/uc?export=download&id=1CUOnAm0n-5wajw9Lld3USw723E1TBOaV",
-    "views": 0
-   },
-   {
-    "id": "3bb80ec2-e1de-4a70-99be-c46c2ecbd539",
-    "mNames": "ပုဏ္ဏားကျွန်းမြို့နယ် ဒေသဆိုင်ရာအချက်အလက်များ (၂၀၁၇)",
-    "mImageUrls": "https://lh3.googleusercontent.com/d/1Bo68l3-NktEHS0LKrdpoTdFyaXcuE-hd",
-    "mDescription": "Official profile of Ponnagyun Township, Rakhine State: history, geography, population, economy and services.\nAuthor : General Administration Department\nYear : 2017\nLanguage : Burmese\nPages : 85\nFile Size : 2.3 MB",
-    "mdwnurl": "https://drive.google.com/uc?export=download&id=1m6Gt8bY6gz1bgP1H4o5FR-0kbbIw0Qm8",
-    "views": 0
-   },
-   {
-    "id": "b3307472-aa4a-4d8b-a389-7e5117e55dcc",
-    "mNames": "ပေါက်တောမြို့နယ် ဒေသဆိုင်ရာအချက်အလက်များ (၂၀၁၇)",
-    "mImageUrls": "https://lh3.googleusercontent.com/d/1kVKWFNBGU1qB-68WEf9oeRg_mW_6oimd",
-    "mDescription": "Official profile of Pauktaw Township, Rakhine State: history, geography, population, economy and services.\nAuthor : General Administration Department\nYear : 2017\nLanguage : Burmese\nPages : 76\nFile Size : 0.6 MB",
-    "mdwnurl": "https://drive.google.com/uc?export=download&id=1G59gQFKxQ-UU0cCg8GcvDZyV3SL8FH74",
-    "views": 0
-   },
-   {
-    "id": "2a1c5d28-666a-4879-864d-f821980bfda7",
-    "mNames": "ဘူးသီးတောင်မြို့နယ် ဒေသဆိုင်ရာအချက်အလက်များ (၂၀၁၇)",
-    "mImageUrls": "https://lh3.googleusercontent.com/d/1R9FV1yrzn7ze8hUk5SxuwHxzCwIJPYxE",
-    "mDescription": "Official profile of Buthidaung Township, Rakhine State: history, geography, population, economy and services.\nAuthor : General Administration Department\nYear : 2017\nLanguage : Burmese\nPages : 75\nFile Size : 2.6 MB",
-    "mdwnurl": "https://drive.google.com/uc?export=download&id=16V8D81jJqnXxiwuD0heuJ9TVqoN_tB6F",
-    "views": 0
-   },
-   {
-    "id": "b7015912-25e9-462a-9f7b-3e6696998158",
-    "mNames": "မင်းပြားမြို့နယ် ဒေသဆိုင်ရာအချက်အလက်များ (၂၀၁၇)",
-    "mImageUrls": "https://lh3.googleusercontent.com/d/1HGqoybO_ZhjGFN9Lxi9s5cXdvWlpVJG2",
-    "mDescription": "Official profile of Minbya Township, Rakhine State: history, geography, population, economy and services.\nAuthor : General Administration Department\nYear : 2017\nLanguage : Burmese\nPages : 80\nFile Size : 0.7 MB",
-    "mdwnurl": "https://drive.google.com/uc?export=download&id=162e8muIcK67xpoUE8MKuHCrOj2nUfBxs",
-    "views": 0
-   },
-   {
-    "id": "2b72325a-080a-48c6-9eec-3b2af639c50a",
-    "mNames": "မာန်အောင်မြို့နယ် ဒေသဆိုင်ရာအချက်အလက်များ (၂၀၁၇)",
-    "mImageUrls": "https://lh3.googleusercontent.com/d/1WGHHrqtvbOhhQyxwXxvcLtUPLIOEiBWA",
-    "mDescription": "Official profile of Manaung Township, Rakhine State: history, geography, population, economy and services.\nAuthor : General Administration Department\nYear : 2017\nLanguage : Burmese\nPages : 77\nFile Size : 1.6 MB",
-    "mdwnurl": "https://drive.google.com/uc?export=download&id=1k7mRlE1DczQOHEtg44FeqB42j4jTU0qn",
-    "views": 0
-   },
-   {
-    "id": "6afb71b2-76a7-4849-be03-b830e62e7aee",
-    "mNames": "မောင်တောမြို့နယ် ဒေသဆိုင်ရာအချက်အလက်များ (၂၀၁၇)",
-    "mImageUrls": "https://lh3.googleusercontent.com/d/1wJBfZ497IGrD7oylMRlHkpfh6hNQlwSL",
-    "mDescription": "Official profile of Maungdaw Township, Rakhine State: history, geography, population, economy and services.\nAuthor : General Administration Department\nYear : 2017\nLanguage : Burmese\nPages : 88\nFile Size : 2.2 MB",
-    "mdwnurl": "https://drive.google.com/uc?export=download&id=1-p06qzONsMaqlUSN75UtuDR6g4t6wXnc",
-    "views": 0
-   },
-   {
-    "id": "3807f26b-6f27-4b6d-95d9-286b57b3a96c",
-    "mNames": "မြေပုံမြို့နယ် ဒေသဆိုင်ရာအချက်အလက်များ (၂၀၁၇)",
-    "mImageUrls": "https://lh3.googleusercontent.com/d/1rBFISrGoR2zVTuuHDyLjbghluO3C3B5e",
-    "mDescription": "Official profile of Myebon Township, Rakhine State: history, geography, population, economy and services.\nAuthor : General Administration Department\nYear : 2017\nLanguage : Burmese\nPages : 65\nFile Size : 2.3 MB",
-    "mdwnurl": "https://drive.google.com/uc?export=download&id=1HwduPPSB_xpVNTxIbS-qjRgGMqqYwIK2",
-    "views": 0
-   },
-   {
-    "id": "4e4a3a4d-539d-4c93-8d5a-310afcf71ee5",
-    "mNames": "မြောက်ဦးမြို့နယ် ဒေသဆိုင်ရာအချက်အလက်များ (၂၀၁၇)",
-    "mImageUrls": "https://lh3.googleusercontent.com/d/1lePIIlHUbP_DEaIHNnp1sMSyJ_k0pMV-",
-    "mDescription": "Official profile of Mrauk-U Township, Rakhine State: history, geography, population, economy and services.\nAuthor : General Administration Department\nYear : 2017\nLanguage : Burmese\nPages : 69\nFile Size : 0.8 MB",
-    "mdwnurl": "https://drive.google.com/uc?export=download&id=1IR1DFtiKBWRo1VeiXJIw8GeW_y_AAt5q",
-    "views": 0
-   },
-   {
-    "id": "f7725918-6b5a-4822-819c-c378bbd9d022",
-    "mNames": "ရမ်းဗြဲမြို့နယ် ဒေသဆိုင်ရာအချက်အလက်များ (၂၀၁၇)",
-    "mImageUrls": "https://lh3.googleusercontent.com/d/1WZndchzcCX9JdrehDAHMQEG61gWFVs-k",
-    "mDescription": "Official profile of Ramree Township, Rakhine State: history, geography, population, economy and services.\nAuthor : General Administration Department\nYear : 2017\nLanguage : Burmese\nPages : 70\nFile Size : 2.1 MB",
-    "mdwnurl": "https://drive.google.com/uc?export=download&id=14TqSuY9v3hmiteY_-cMFXkaAz6o5bl93",
-    "views": 0
-   },
-   {
-    "id": "61448bb4-9d89-4841-8663-c75fa7d82b8a",
-    "mNames": "ရသေ့တောင်မြို့နယ် ဒေသဆိုင်ရာအချက်အလက်များ (၂၀၁၇)",
-    "mImageUrls": "https://lh3.googleusercontent.com/d/13lF_qABfAl26uNy3cd30wuDZcA1SRgsA",
-    "mDescription": "Official profile of Rathedaung Township, Rakhine State: history, geography, population, economy and services.\nAuthor : General Administration Department\nYear : 2017\nLanguage : Burmese\nPages : 71\nFile Size : 2.7 MB",
-    "mdwnurl": "https://drive.google.com/uc?export=download&id=1YadPkyrfihsmMmV0xPBSz6W3mslgcdv9",
-    "views": 0
-   },
-   {
-    "id": "93833406-6055-4400-b845-03e08e8d82de",
-    "mNames": "သံတွဲမြို့နယ် ဒေသဆိုင်ရာအချက်အလက်များ (၂၀၁၇)",
-    "mImageUrls": "https://lh3.googleusercontent.com/d/1EWsRrpJWT8prz2fKUhV3eJ9lscw9THvr",
-    "mDescription": "Official profile of Thandwe Township, Rakhine State: history, geography, population, economy and services.\nAuthor : General Administration Department\nYear : 2017\nLanguage : Burmese\nPages : 75\nFile Size : 2.0 MB",
-    "mdwnurl": "https://drive.google.com/uc?export=download&id=1qMDvQfZWeWCrLII5aQm-reGOeZU083uM",
-    "views": 0
-   },
-   {
-    "id": "77c7553c-8e79-4476-8f91-36eeec2736e7",
-    "mNames": "အမ်းမြို့နယ် ဒေသဆိုင်ရာအချက်အလက်များ (၂၀၁၇)",
-    "mImageUrls": "https://lh3.googleusercontent.com/d/1LfxL3DNI4jK_A_Ure0iOGcUQ17l8cIW_",
-    "mDescription": "Official profile of Ann Township, Rakhine State: history, geography, population, economy and services.\nAuthor : General Administration Department\nYear : 2017\nLanguage : Burmese\nPages : 80\nFile Size : 2.1 MB",
-    "mdwnurl": "https://drive.google.com/uc?export=download&id=1s_zg-YjvePVZknGkwzr0PRU_0tM3SWyS",
-    "views": 0
-   }
-  ],
-  "OtherBooks": [
-   {
-    "id": "b2200ceb-93e5-4f9e-ba4c-0aaa2bed993f",
-    "mNames": "I Am a Rohingya: Poetry from the Camps and Beyond",
-    "mImageUrls": "https://lh3.googleusercontent.com/d/1TvWifEAUUuTX_c68p3mGsSGv3X_UVmOK",
-    "mDescription": "Poems by Rohingya poets from the refugee camps and beyond (a 26-page preview of the book).\nAuthor : Edited by James Byrne and Shehzar Doja\nYear : 2019\nPages : 26\nFile Size : 3.1 MB",
-    "mdwnurl": "https://drive.google.com/uc?export=download&id=1KVUNvOBEhXtXnhL_LA6I0EwAITfSg9up",
-    "views": 0
-   }
-  ],
-  "AntiRohingyaBooks": [
-   {
-    "id": "d0d51a4e-7c6f-4237-b99a-25e0a991d913",
-    "mNames": "မြောက်ဦးပထမခေတ်သမိုင်း (၁၄၃၀–၁၅၃၁)",
-    "mImageUrls": "https://lh3.googleusercontent.com/d/1qXwRsu7YNcNeMJydiYOZ4R_0TOimPCiT",
-    "mDescription": "History of the first Mrauk-U period of Arakan, 1430–1531.\nAuthor : အေးချမ်း (Aye Chan)\nLanguage : Burmese\nPages : 34\nFile Size : 0.2 MB",
-    "mdwnurl": "https://drive.google.com/uc?export=download&id=1iFTV8tJkTeG6LM-aloBzwPG9BguOy-Ei",
-    "views": 0
-   }
-  ],
-  "RohingyaBooks": [
-   {
-    "id": "45f0428c-6faf-4130-a608-cc8fe2705478",
-    "mNames": "Rohingya English Burmese Vocabulary (Vegetables)",
-    "mImageUrls": "https://lh3.googleusercontent.com/d/1wKkh5gVbIstjNvGRkmky1ZEHC3exm0Ol",
-    "mDescription": "Names of vegetables and fruits in Rohingya, English and Burmese, with pictures.\nLanguage : Rohingya, English and Burmese\nPages : 10\nFile Size : 1.1 MB",
-    "mdwnurl": "https://drive.google.com/uc?export=download&id=1bMyQd8gZmLc02_IEhhj9G-ONUG3TasNE",
-    "views": 0
-   },
-   {
-    "id": "933416ae-10ba-4516-822c-82a356a7bdbd",
-    "mNames": "Rohingya Foro",
-    "mImageUrls": "https://lh3.googleusercontent.com/d/1mlM48o-Dvusw9_FrXUUDFrNDaxhuSQa6",
-    "mDescription": "A first Hanifi reader for children: each letter with a picture and example words.\nLanguage : Rohingya (Hanifi script)\nPages : 20\nFile Size : 2.3 MB",
-    "mdwnurl": "https://drive.google.com/uc?export=download&id=14NmFmggIj1A0DPB2p3SCGLyO2p2xXlnj",
-    "views": 0
-   },
-   {
-    "id": "6f9e2aaf-f5e6-4dcb-968b-a7ab5365ef63",
-    "mNames": "Rohingya Qaida (2023)",
-    "mImageUrls": "https://lh3.googleusercontent.com/d/1vzdJcJTECnr41EQqQk04E6jvo-WV9qeb",
-    "mDescription": "A colourful Hanifi Rohingya alphabet primer (qaida) for children.\nYear : 2023\nLanguage : Rohingya (Hanifi script)\nPages : 58\nFile Size : 8.1 MB",
-    "mdwnurl": "https://drive.google.com/uc?export=download&id=1f25znAxEpF07YJcN38E8kSjYiMsp81ZW",
-    "views": 0
-   },
-   {
-    "id": "dc35477c-fd9b-46e2-b878-8f590b88ca7a",
-    "mNames": "Rohingya Tarana (𐴌𐴟𐴇𐴥𐴝𐴚𐴒𐴙𐴝 𐴃𐴝𐴌𐴝𐴕𐴝)",
-    "mImageUrls": "https://lh3.googleusercontent.com/d/1l1IIysQABG4KZ5VVpxs-LmXkrY8x_Iei",
-    "mDescription": "A Rohingya song (tarana).\nLanguage : Rohingya (Hanifi script)\nPages : 3\nFile Size : 0.4 MB",
-    "mdwnurl": "https://drive.google.com/uc?export=download&id=1NxT7XnHLtDdWEvQjbNqpcOGuuWveh7MW",
-    "views": 0
-   },
-   {
-    "id": "e65bcb66-0493-450a-b143-03593fde20f4",
-    "mNames": "Rohingyar Akholbon Hota",
-    "mImageUrls": "https://lh3.googleusercontent.com/d/1ws0GJn-xwYxF2OE0bsUHJdCN7LBrAtGn",
-    "mDescription": "A collection of numbered Rohingya sayings and words of wisdom.\nYear : 2020\nLanguage : Rohingya (Hanifi script)\nPages : 30\nFile Size : 3.5 MB",
-    "mdwnurl": "https://drive.google.com/uc?export=download&id=15oMTenpM6ZtE1eCb7dYzFoOMxPX1KoZk",
-    "views": 0
-   },
-   {
-    "id": "837538cc-5b8b-4d5e-ad14-589860ee9ab5",
-    "mNames": "Shayeri Kitab (𐴐𐴥𐴝𐴘𐴠𐴌𐴞 𐴑𐴞𐴃𐴝𐴁𐴢)",
-    "mImageUrls": "https://lh3.googleusercontent.com/d/1AwIRM9Enn_A5gQjgCir_sqT43wVyzDQ1",
-    "mDescription": "A book of Rohingya poems.\nLanguage : Rohingya (Hanifi script)\nPages : 24\nFile Size : 3.5 MB",
-    "mdwnurl": "https://drive.google.com/uc?export=download&id=12-pWVywAde6IK3FrGfD9c2RHPz4J8srq",
-    "views": 0
-   },
-   {
-    "id": "f784d4cf-a990-46a6-af9b-331e57c28c10",
-    "mNames": "Soyi Lofzo",
-    "mImageUrls": "https://lh3.googleusercontent.com/d/1fVCzMlICiFOJKqg-szEeA8CvLXIvQCv5",
-    "mDescription": "Correct Rohingya spellings of common words, set out in tables.\nLanguage : Rohingya (Hanifi script)\nPages : 9\nFile Size : 0.6 MB",
-    "mdwnurl": "https://drive.google.com/uc?export=download&id=1H47yikNssZhTx5-D2P7VcfsLjEAYpDeV",
-    "views": 0
-   },
-   {
-    "id": "85bcdde2-d64b-4796-8454-54eca7b2c8ba",
-    "mNames": "Tarana",
-    "mImageUrls": "https://lh3.googleusercontent.com/d/1778gKj2_dtw_ZhmqWoxPUIHwjNb6nWvB",
-    "mDescription": "A Rohingya song (tarana).\nLanguage : Rohingya (Hanifi script)\nPages : 2\nFile Size : 0.3 MB",
-    "mdwnurl": "https://drive.google.com/uc?export=download&id=1-uGuyiSDHCyOIU7pOdnzfnnkp-RKeTOF",
-    "views": 0
-   },
-   {
-    "id": "6803f40f-ac92-42f5-a4c4-57c0ec8f14d8",
-    "mNames": "Tartib-e-Nisab (ترتيب نصاب)",
-    "mImageUrls": "https://lh3.googleusercontent.com/d/1sqBGsgLRUgCXdfk3QFtv1ru3i-ZuH8VD",
-    "mDescription": "A Rohingya teaching syllabus set out in tables.\nLanguage : Rohingya (Hanifi script)\nPages : 20\nFile Size : 1.8 MB",
-    "mdwnurl": "https://drive.google.com/uc?export=download&id=1PWJmL1jqjH9BR7jdkhPDrVjShsp_UHMD",
-    "views": 0
-   },
-   {
-    "id": "6b6bf955-bfcd-474d-aa44-854a24135b14",
-    "mNames": "𐴔𐴦𐴔𐴣𐴌 𐴎𐴟𐴁𐴝𐴕𐴡𐴌 𐴐𐴠𐴀𐴌",
-    "mImageUrls": "https://lh3.googleusercontent.com/d/1UfsyTEQE55e0mJgoXhPEHrJwHho5eQTz",
-    "mDescription": "A Rohingya poem.\nLanguage : Rohingya (Hanifi script)\nPages : 2\nFile Size : 0.4 MB",
-    "mdwnurl": "https://drive.google.com/uc?export=download&id=10lH3GbzdaX3s7uqD55aHimJrlLitmdqQ",
-    "views": 0
-   }
-  ]
- },
- "move": [],
- "relink": []
+ "hideCollections": [
+  "AntiRohingyaBooks"
+ ]
 }
