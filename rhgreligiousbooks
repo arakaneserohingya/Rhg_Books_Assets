@@ -58,5 +58,29 @@
         "mNames": "Tabliq Jamaat",
         "mDescription": "File Size     : 24 mb\nAuthor        : Nur Kodor",
         "mdwnurl": "https://drive.google.com/uc?export=download&id=1S8fyzjYYH-3jdaiHXpEaX8OESrUd5uHd"
+    },
+    {
+        "mImageUrls": "https://lh3.googleusercontent.com/d/1z2KXoAPLxFFwrjeNargRplpNTP5_VkRL",
+        "mNames": "Rohingya Azkar",
+        "mDescription": "Daily Islamic remembrances (azkar) in Rohingya, Hanifi script.\nLanguage : Rohingya (Hanifi script)\nPages : 37\nFile Size : 22.9 MB",
+        "mdwnurl": "https://drive.google.com/uc?export=download&id=1Y2koEZ0IwZ2jS_6y75tNPatbki5d1zOi"
+    },
+    {
+        "mImageUrls": "https://lh3.googleusercontent.com/d/1FjWAPL8okEI8JLJfIvrHegwUdlYgyfOf",
+        "mNames": "The Complete Quran Translation in Rohingya",
+        "mDescription": "The Qur'an translated into Rohingya (Latin script), beginning with Surah Al-Baqarah.\nLanguage : Rohingya (Latin script)\nPages : 357\nFile Size : 8.9 MB",
+        "mdwnurl": "https://drive.google.com/uc?export=download&id=1EcR7omy2RXKXUfzB9SLhzGjUXQ9flS_n"
+    },
+    {
+        "mImageUrls": "https://lh3.googleusercontent.com/d/1MtNehTWpUMquF4P8KFWBxpnt1l-MaV38",
+        "mNames": "Hozze Akbar 1444",
+        "mDescription": "A Rohingya booklet on Hajj, 1444 AH.\nLanguage : Rohingya\nPages : 9\nFile Size : 4.4 MB",
+        "mdwnurl": "https://drive.google.com/uc?export=download&id=1LYdliyu9GyU1tcKDQSWduzFBlgeHzQJW"
+    },
+    {
+        "mImageUrls": "https://lh3.googleusercontent.com/d/1FPgyL0mchoOqi2kRjpl-V5DhYnO7wV-M",
+        "mNames": "مكارم الأخلاق (Makarim al-Akhlaq)",
+        "mDescription": "A book on noble character, from Mayu Library.\nAuthor : Yasir Rashid\nLanguage : Arabic\nPages : 53\nFile Size : 3.0 MB",
+        "mdwnurl": "https://drive.google.com/uc?export=download&id=16kGdED0C4lKmzdCfxis1fo1nJ1udIPVT"
     }
 ]
