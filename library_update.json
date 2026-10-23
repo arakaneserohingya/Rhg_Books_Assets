@@ -1,0 +1,1815 @@
+{
+ "id": "2026-10-23-muse-library",
+ "title": "Muse library: new books and collections",
+ "categories": [
+  {
+   "key": "RohingyaBooks",
+   "title": "Rohingya Books",
+   "hanifiTitle": "𐴌𐴟𐴇𐴥𐴝𐴚𐴒𐴙𐴝 𐴑𐴞𐴃𐴝𐴁𐴢",
+   "subtitle": "Language, culture & Rohingya Hanifi script literature",
+   "icon": "menu_book",
+   "color": "#3A7D7E",
+   "color2": "#122D42",
+   "order": 10,
+   "hidden": false
+  },
+  {
+   "key": "HistoricalBooks",
+   "title": "Historical Books",
+   "hanifiTitle": "𐴃𐴝𐴌𐴞𐴑𐴞 𐴑𐴞𐴃𐴝𐴁𐴢",
+   "subtitle": "Chronicles, heritage and ancestral Arakan accounts",
+   "icon": "account_balance",
+   "color": "#8A5A2B",
+   "color2": "#A8743F",
+   "order": 20,
+   "hidden": false
+  },
+  {
+   "key": "ReportsResearch",
+   "title": "Reports & Research",
+   "hanifiTitle": "",
+   "subtitle": "Human-rights reports, investigations and academic research",
+   "icon": "description",
+   "color": "#2E5E73",
+   "color2": "#3F7A91",
+   "order": 30,
+   "hidden": false
+  },
+  {
+   "key": "BurmaArchives",
+   "title": "Burma Archives",
+   "hanifiTitle": "",
+   "subtitle": "Colonial records, gazetteers, census and the history of Burma",
+   "icon": "history_edu",
+   "color": "#6B6234",
+   "color2": "#857B45",
+   "order": 40,
+   "hidden": false
+  },
+  {
+   "key": "AntiRohingyaBooks",
+   "title": "Anti Rohingya Books",
+   "hanifiTitle": "𐴌𐴡𐴊𐴧𐴞 𐴑𐴞𐴃𐴝𐴁𐴢",
+   "subtitle": "Scholarly counter-narratives & factual refutations",
+   "icon": "fact_check",
+   "color": "#A2412F",
+   "color2": "#BF5A44",
+   "order": 50,
+   "hidden": false
+  },
+  {
+   "key": "ReligiousBooks",
+   "title": "Religious Books",
+   "hanifiTitle": "𐴊𐴞𐴕𐴞 𐴑𐴞𐴃𐴝𐴁𐴢",
+   "subtitle": "Islamic theology, Quranic studies & jurisprudence",
+   "icon": "mosque",
+   "color": "#2F6B4F",
+   "color2": "#3F8A66",
+   "order": 60,
+   "hidden": false
+  },
+  {
+   "key": "MyanmarTextBooks",
+   "title": "Myanmar Textbooks",
+   "hanifiTitle": "𐴁𐴡𐴌𐴔𐴝 𐴑𐴠𐴃𐴝𐴁𐴢",
+   "subtitle": "School curricula, textbooks & grammar readers",
+   "icon": "school",
+   "color": "#2F4F8A",
+   "color2": "#4766A8",
+   "order": 70,
+   "hidden": false
+  },
+  {
+   "key": "OtherBooks",
+   "title": "Other Books",
+   "hanifiTitle": "𐴔𐴠𐴒𐴠𐴎𐴞𐴕 𐴀𐴝𐴌 𐴀𐴡𐴕𐴧𐴡",
+   "subtitle": "General literature, poetry and multilingual editions",
+   "icon": "local_library",
+   "color": "#6A3E6E",
+   "color2": "#85558A",
+   "order": 80,
+   "hidden": false
+  }
+ ],
+ "add": {
+  "ReportsResearch": [
+   {
+    "id": "accecc67-25cc-45a9-8137-6617e7d78fb1",
+    "mNames": "\"All of My Body Was Pain\": Sexual Violence against Rohingya Women and Girls in Burma",
+    "mImageUrls": "https://lh3.googleusercontent.com/d/1NH7lpVEGd3-WkkFtyMEH8ior2ONiEVWN",
+    "mDescription": "Survivor testimonies of sexual violence during the 2017 military crackdown.\nAuthor : Human Rights Watch\nYear : 2017\nPages : 46\nFile Size : 1.2 MB",
+    "mdwnurl": "https://drive.google.com/uc?export=download&id=1O5VTUGfZ490ZKaZ773IktVLtg-R5bjwD",
+    "views": 0
+   },
+   {
+    "id": "43d621f5-6f42-41e7-b7bb-ec9fd29edd91",
+    "mNames": "\"Are We Not Human?\": Denial of Education for Rohingya Refugee Children in Bangladesh",
+    "mImageUrls": "https://lh3.googleusercontent.com/d/1puQ953Stn2qGMoX4E_tjagvx2KuZdSjh",
+    "mDescription": "The ban on formal education for about 400,000 Rohingya children in the Cox's Bazar camps.\nAuthor : Human Rights Watch\nYear : 2019\nPages : 87\nFile Size : 34.5 MB",
+    "mdwnurl": "https://drive.google.com/uc?export=download&id=1nE9IuoAdfISWrjE9IzhqxWOt4XuqJTcR",
+    "views": 0
+   },
+   {
+    "id": "d3d83a96-890c-4a97-bb8a-8e3825fa1e30",
+    "mNames": "\"Bangladesh Is Not My Country\": The Plight of Rohingya Refugees from Myanmar",
+    "mImageUrls": "https://lh3.googleusercontent.com/d/1ZXTetfxDe7sTJgz6LmIQNtfiKZN-SCVN",
+    "mDescription": "Overcrowding, flood risk and protection failures in the Cox's Bazar camps.\nAuthor : Human Rights Watch\nYear : 2018\nPages : 76\nFile Size : 0.9 MB",
+    "mdwnurl": "https://drive.google.com/uc?export=download&id=1u6v_fKUUOahjUEx8MG90deQmzMkxsqAQ",
+    "views": 0
+   },
+   {
+    "id": "428f4356-ea62-42a7-9f51-efde5d401bc5",
+    "mNames": "\"Let Us Speak for Our Rights\": Human Rights Situation of Rohingya Refugees in Bangladesh",
+    "mImageUrls": "https://lh3.googleusercontent.com/d/1HVTMN4p9Y89fIyRGSucoJXACVsn4vY1B",
+    "mDescription": "Rohingya exclusion from decisions on movement, expression, health and education.\nAuthor : Amnesty International\nYear : 2020\nPages : 27\nFile Size : 2.4 MB",
+    "mdwnurl": "https://drive.google.com/uc?export=download&id=1L7k8C7TpSxtOM28_1z2K7ZPguwHq1ami",
+    "views": 0
+   },
+   {
+    "id": "bce741d6-f3c4-44d0-ae70-5ec11c6f0f70",
+    "mNames": "\"My Tears Could Make a Sea\": The Infliction of Mental Harm as Genocide",
+    "mImageUrls": "https://lh3.googleusercontent.com/d/1LJ2LR-jgcxrIwL2QE2sZjY4iR8D2IfXF",
+    "mDescription": "Evidence that severe mental harm inflicted on the Rohingya is an act of genocide.\nAuthor : Fortify Rights\nYear : 2024\nPages : 90\nFile Size : 18.9 MB",
+    "mdwnurl": "https://drive.google.com/uc?export=download&id=16PdES0MAc3sEL3Aj1WVonEHhjFMVd_W5",
+    "views": 0
+   },
+   {
+    "id": "7cf47403-b4e2-4c2d-a541-59a97a6b201a",
+    "mNames": "\"My World Is Finished\": Rohingya Targeted in Crimes against Humanity in Myanmar",
+    "mImageUrls": "https://lh3.googleusercontent.com/d/1wS05WH-tzF21zde77yhOwPS-CE2nFbm8",
+    "mDescription": "The organised campaign of killing, rape and burning that drove over 530,000 Rohingya from northern Rakhine.\nAuthor : Amnesty International\nYear : 2017\nPages : 47\nFile Size : 5.0 MB",
+    "mdwnurl": "https://drive.google.com/uc?export=download&id=1_YBRg-pKP_AeRS316_xE7XTOIiE7wOaz",
+    "views": 0
+   },
+   {
+    "id": "309ea380-5e15-4eac-be65-2f0d0a42e477",
+    "mNames": "\"Please Tell the World What They Have Done to Us\": The Chut Pyin Massacre",
+    "mImageUrls": "https://lh3.googleusercontent.com/d/1zaJdDmLUneOVry2AR8VudrJ1YE3Dcwyi",
+    "mDescription": "Forensic evidence from 22 survivors of the August 2017 Chut Pyin massacre.\nAuthor : Physicians for Human Rights\nYear : 2018\nPages : 66\nFile Size : 3.7 MB",
+    "mdwnurl": "https://drive.google.com/uc?export=download&id=1abBk67ckapaSiCpizVV__YiJSGTyDZx-",
+    "views": 0
+   },
+   {
+    "id": "947698b2-20e0-4ad3-ad0c-c379ae3c69b9",
+    "mNames": "\"Shot While Fleeing\": Rohingya Disabled by Myanmar Authorities' Targeted Violence",
+    "mImageUrls": "https://lh3.googleusercontent.com/d/1i2sYita8B0AGSRxJ6ARJJshDsiTgaSqB",
+    "mDescription": "Clinical evaluations of 90 Rohingya survivors left with long-term disabilities.\nAuthor : Physicians for Human Rights\nYear : 2019\nPages : 84\nFile Size : 4.1 MB",
+    "mdwnurl": "https://drive.google.com/uc?export=download&id=1EhXv9DhkgssK8J3gQkJMTlp_k_5MF9iU",
+    "views": 0
+   },
+   {
+    "id": "9e396cd3-c813-4b8c-a10c-7ec48cef7b1e",
+    "mNames": "\"The Government Could Have Stopped This\": Sectarian Violence and Ensuing Abuses in Burma's Arakan State",
+    "mImageUrls": "https://lh3.googleusercontent.com/d/16RmpC5T7oftKK7dw7MfDTjBX8J1XKlcD",
+    "mDescription": "The authorities' failure to stop the June 2012 violence, and abuses against Rohingya afterwards.\nAuthor : Human Rights Watch\nYear : 2012\nPages : 62\nFile Size : 0.6 MB",
+    "mdwnurl": "https://drive.google.com/uc?export=download&id=1ut9nDA1lURtaVcH1KMav8EhY6qzbGN_M",
+    "views": 0
+   },
+   {
+    "id": "ae5c68e9-5afb-4cd7-9d6f-91e05029b708",
+    "mNames": "\"The Torture in My Mind\": The Right to Mental Health for Rohingya Survivors of Genocide",
+    "mImageUrls": "https://lh3.googleusercontent.com/d/1ewlxrvTm4uZsEw_zhatRNpOGOsxFusiJ",
+    "mDescription": "Rohingya-led research on depression, trauma and mental harm among genocide survivors.\nAuthor : Fortify Rights\nYear : 2020\nPages : 102\nFile Size : 3.7 MB",
+    "mdwnurl": "https://drive.google.com/uc?export=download&id=1ArVLQHcVMUZrqFXlThZMuJzt-JSPcYYI",
+    "views": 0
+   },
+   {
+    "id": "7eb48c63-bb6b-433b-b70a-d8982c67cccb",
+    "mNames": "\"They Gave Them Long Swords\": Preparations for Genocide and Crimes against Humanity",
+    "mImageUrls": "https://lh3.googleusercontent.com/d/1mOuvLpOoo7PVVQdlnPxHLDiAFZi-NhtL",
+    "mDescription": "How Myanmar authorities prepared the 2017 attacks, naming 22 officials for investigation.\nAuthor : Fortify Rights\nYear : 2018\nPages : 162\nFile Size : 13.4 MB",
+    "mdwnurl": "https://drive.google.com/uc?export=download&id=1aqhH9sIHTL7DMlZKS5dvNWK66z7daHSF",
+    "views": 0
+   },
+   {
+    "id": "62da683c-920b-4af4-8b14-19f88ed5b34e",
+    "mNames": "\"They Tried to Kill Us All\": Atrocity Crimes against Rohingya Muslims",
+    "mImageUrls": "https://lh3.googleusercontent.com/d/1E7pxWcFRVGOz_57Rn1BlXuU8BSGyZNhp",
+    "mDescription": "Atrocity crimes and growing evidence of genocide in the 2016–2017 clearance operations.\nAuthor : Fortify Rights and US Holocaust Memorial Museum\nYear : 2017\nPages : 36\nFile Size : 2.1 MB",
+    "mdwnurl": "https://drive.google.com/uc?export=download&id=1mmkw5J_oucKqC5k4RqK04tDwaIu9I_4q",
+    "views": 0
+   },
+   {
+    "id": "52a670e0-0c5c-4cfe-9c69-5b1135594ca3",
+    "mNames": "\"They Want Us All to Go Away\": Early Warning Signs of Genocide in Burma",
+    "mImageUrls": "https://lh3.googleusercontent.com/d/1zHydkmc0i3-x_WejmwcMltj1CYiKyxi_",
+    "mDescription": "The 2015 early warning of preconditions for genocide against the Rohingya.\nAuthor : US Holocaust Memorial Museum\nYear : 2015\nPages : 16\nFile Size : 1.1 MB",
+    "mdwnurl": "https://drive.google.com/uc?export=download&id=1iqIPUEKPm4-ib6GCaypuRdh_I8EZCDy_",
+    "views": 0
+   },
+   {
+    "id": "c755bb50-2f9b-44bc-a4e2-27b89bacffe4",
+    "mNames": "'Imagining' the Rohingya: Navigating Identity, Memory, and Visibility",
+    "mImageUrls": "https://lh3.googleusercontent.com/d/1shag9B8LTXggSS-PksxpODd4R0wYQVOP",
+    "mDescription": "MPhil thesis (University of Cape Town) on memory work and transitional justice for the Rohingya.\nAuthor : Sumona Bose\nYear : 2023\nPages : 119\nFile Size : 2.7 MB",
+    "mdwnurl": "https://drive.google.com/uc?export=download&id=1xGBJvbdq94WmgDsy9LlSi1TWgvJJe1Df",
+    "views": 0
+   },
+   {
+    "id": "46f73819-b678-412d-881f-370102f9b79c",
+    "mNames": "(Re)Imagining Justice: Documentation of Sexual Violence against Rohingya Women and Girls",
+    "mImageUrls": "https://lh3.googleusercontent.com/d/1QTwvG1-zCVkM5_NwYozY2HH-K6nVySMB",
+    "mDescription": "LLM thesis (University of Victoria) on documenting sexual violence for international justice.\nAuthor : Theressa Etmanski\nYear : 2018\nPages : 131\nFile Size : 1.0 MB",
+    "mdwnurl": "https://drive.google.com/uc?export=download&id=12ADWth9jLdsvc34-zzuDFR0NUxeQOzye",
+    "views": 0
+   },
+   {
+    "id": "1ac68dfc-641a-40ab-9fd4-63e305d9d004",
+    "mNames": "(Re)negotiating Refugee Protection in Malaysia",
+    "mImageUrls": "https://lh3.googleusercontent.com/d/1tvHMCaLawhvJNhBoGriromTGf7aLEOAp",
+    "mDescription": "Discussion paper on urban refugee protection in Malaysia, focusing on the Rohingya.\nAuthor : Katrina Munir-Asen\nYear : 2018\nPages : 40\nFile Size : 0.7 MB",
+    "mdwnurl": "https://drive.google.com/uc?export=download&id=1di4aPOE4jYDaHReIfKuxo6WB_GAu3zO4",
+    "views": 0
+   },
+   {
+    "id": "7c6d7f4b-a842-4259-9aa1-c0be7d828526",
+    "mNames": "A Bangladesh Compact: Beyond Aid Solutions for Hosts and Rohingya Refugees",
+    "mImageUrls": "https://lh3.googleusercontent.com/d/1630v4_QGsbxKcDT0lRVVdCRjuh_bxTat",
+    "mDescription": "A refugee-compact proposal combining aid with policy reform.\nAuthor : Cindy Huang (Center for Global Development)\nYear : 2018\nPages : 4\nFile Size : 0.2 MB",
+    "mdwnurl": "https://drive.google.com/uc?export=download&id=1eoOvIoisiQmECWeUAc4TSVzok894mnLJ",
+    "views": 0
+   },
+   {
+    "id": "f6153b46-21c0-46c7-a814-afe97457ec71",
+    "mNames": "A Voice in Their Future: The Need to Empower Rohingya Refugees in Bangladesh",
+    "mImageUrls": "https://lh3.googleusercontent.com/d/10L-QwKCnnWb5vazzD2y-9k_rXFAY1_7j",
+    "mDescription": "The exclusion of Rohingya from decisions about their own future, and the case for representation.\nAuthor : Refugees International\nYear : 2020\nPages : 28\nFile Size : 11.6 MB",
+    "mdwnurl": "https://drive.google.com/uc?export=download&id=1bu3pKa1N8dBDSvRjyERM2SSvFiFlmyMU",
+    "views": 0
+   },
+   {
+    "id": "5837852e-1844-4973-a2bb-af8526d77438",
+    "mNames": "Abuse or Exile: Myanmar's Ongoing Persecution of the Rohingya",
+    "mImageUrls": "https://lh3.googleusercontent.com/d/1AFiVY9NehzUwrdo9S8LCF4KggB9WCvJY",
+    "mDescription": "Field report on ongoing persecution, from interviews with newly arrived refugees.\nAuthor : Daniel P. Sullivan (Refugees International)\nYear : 2019\nPages : 24\nFile Size : 7.4 MB",
+    "mdwnurl": "https://drive.google.com/uc?export=download&id=1_D8Vdk_X7uu0PhoXE8pJW_24mo50bafi",
+    "views": 0
+   },
+   {
+    "id": "0eed3ef0-58f9-4fbb-b971-24412363d18e",
+    "mNames": "After the Coup: Myanmar's Political and Humanitarian Crises",
+    "mImageUrls": "https://lh3.googleusercontent.com/d/1pTM8oELKYxyjdUdNHjb0vuLQ58gEMEwm",
+    "mDescription": "Open-access book on the 2021 coup, including chapters on Rakhine State and the Rohingya.\nAuthor : Anthony Ware and Monique Skidmore (eds.)\nYear : 2023\nPages : 348\nFile Size : 1.4 MB",
+    "mdwnurl": "https://drive.google.com/uc?export=download&id=1ZL2baKg_lduR0Hiw7qnUGrR9xtTjF28H",
+    "views": 0
+   },
+   {
+    "id": "3d213a59-9dfd-4dc5-8e0d-635946ba0be2",
+    "mNames": "An Analysis of Identity and Citizenship Crisis of the Rohingya of Myanmar",
+    "mImageUrls": "https://lh3.googleusercontent.com/d/1DKfTSrfH47l-qzUOu6iO3XT6wqNZH-22",
+    "mDescription": "MA dissertation (University of Ghana) analysing the crisis through ontological security theory.\nAuthor : Victoria Aku Ganyo\nYear : 2019\nPages : 88\nFile Size : 0.8 MB",
+    "mdwnurl": "https://drive.google.com/uc?export=download&id=1JcekDKnhDyi6U7QU6OrOi42I05w4H9XY",
+    "views": 0
+   },
+   {
+    "id": "a94dc949-4285-4058-9e74-04f0ad500012",
+    "mNames": "An Island Jail in the Middle of the Sea: Bangladesh's Relocation of Rohingya Refugees to Bhasan Char",
+    "mImageUrls": "https://lh3.googleusercontent.com/d/1YA1dEjD3lw4U-mzNaOYLU5zF6CcZRXzU",
+    "mDescription": "Restrictions on movement, education and livelihoods for Rohingya moved to Bhasan Char.\nAuthor : Human Rights Watch\nYear : 2021\nPages : 83\nFile Size : 4.0 MB",
+    "mdwnurl": "https://drive.google.com/uc?export=download&id=1zNQLwfFvXhHYIbrmrfuXDgI4JU2WuGF0",
+    "views": 0
+   },
+   {
+    "id": "b92118f2-8961-4357-b693-7ad8a6e02696",
+    "mNames": "An Open Prison without End: Myanmar's Mass Detention of Rohingya in Rakhine State",
+    "mImageUrls": "https://lh3.googleusercontent.com/d/1uK7r9543A97iKffE0y3-D3nwFALNnqfc",
+    "mDescription": "The open-air detention of Rohingya in Rakhine camps as a crime against humanity.\nAuthor : Human Rights Watch\nYear : 2020\nPages : 183\nFile Size : 3.9 MB",
+    "mdwnurl": "https://drive.google.com/uc?export=download&id=1IIULY-GK2hOA8RK-hNflgXphpqvBUVUo",
+    "views": 0
+   },
+   {
+    "id": "cc750318-c81a-4145-b23d-09bf3cafd472",
+    "mNames": "Bangladesh/Myanmar: The Dangers of a Rohingya Insurgency",
+    "mImageUrls": "https://lh3.googleusercontent.com/d/1eNa-XMnpOXKe6YaRiHQNum7A0uvWTqfw",
+    "mDescription": "Armed Rohingya groups mobilising in the camps as the Arakan Army advances.\nAuthor : International Crisis Group\nYear : 2025\nPages : 36\nFile Size : 1.0 MB",
+    "mdwnurl": "https://drive.google.com/uc?export=download&id=1KC79lykxZj2L9Fr9roXtl_ozKSZy-IQt",
+    "views": 0
+   },
+   {
+    "id": "52229b17-2842-4a7b-a93d-aeae8bc0016f",
+    "mNames": "Barriers to Providing Basic Education among Rohingya Refugee Children",
+    "mImageUrls": "https://lh3.googleusercontent.com/d/1s6RoX20zwmdGGUw5HTLuvXvB6VJhQn6L",
+    "mDescription": "Master's thesis (Lund University) on education barriers at Kutupalong.\nAuthor : M. M. Rahman\nYear : 2020\nPages : 102\nFile Size : 1.6 MB",
+    "mdwnurl": "https://drive.google.com/uc?export=download&id=1-FKt7-aH8gh_pah0HCispLhHFS7bOZ_5",
+    "views": 0
+   },
+   {
+    "id": "3b511461-c7b2-4be5-954d-09a342798d87",
+    "mNames": "Bearing Witness to Crimes against Humanity: The Forced Expulsion of the Rohingya",
+    "mImageUrls": "https://lh3.googleusercontent.com/d/1KKAHfN9o984Ave1sBnYB4bbxV4-YwwGy",
+    "mDescription": "Policy brief from an emergency mission to Bangladesh in September 2017.\nAuthor : Refugees International\nYear : 2017\nPages : 8\nFile Size : 1.9 MB",
+    "mdwnurl": "https://drive.google.com/uc?export=download&id=1yz42OvBrJEmJXl5U5vr9RUcqryofMsDn",
+    "views": 0
+   },
+   {
+    "id": "2093b8c9-9db6-4ec1-8057-0cb91a20a3e6",
+    "mNames": "Breaking Away: The Battle for Myanmar's Rakhine State",
+    "mImageUrls": "https://lh3.googleusercontent.com/d/1ut8t4v2voG2dN48pEbmAdQtMiZ2lk-ns",
+    "mDescription": "The Arakan Army's push in Rakhine and its toll on civilians, including the Rohingya.\nAuthor : International Crisis Group\nYear : 2024\nPages : 45\nFile Size : 0.9 MB",
+    "mdwnurl": "https://drive.google.com/uc?export=download&id=1DomNPG0j2A7i3a6i2-W_dzLfD3tUxqTU",
+    "views": 0
+   },
+   {
+    "id": "1cdfb65a-6222-4b41-bb84-0fdccabcd69d",
+    "mNames": "Buddhism and State Power in Myanmar",
+    "mImageUrls": "https://lh3.googleusercontent.com/d/1xquB_9K6mLT_M_4xEEOoz2VNdFGCcxOF",
+    "mDescription": "Buddhist nationalism, anti-Muslim hate and communal violence.\nAuthor : International Crisis Group\nYear : 2017\nPages : 39\nFile Size : 1.8 MB",
+    "mdwnurl": "https://drive.google.com/uc?export=download&id=1TdcxOubo6YHGRDksJh_rwj84tw4pvzAp",
+    "views": 0
+   },
+   {
+    "id": "f34711ce-c82a-4457-a155-b6adbb8bb5eb",
+    "mNames": "Building a Better Future for Rohingya Refugees in Bangladesh",
+    "mImageUrls": "https://lh3.googleusercontent.com/d/1ASUaEJsOnZxDtF7BU4iEYoA4ITO2UZb2",
+    "mDescription": "Camp insecurity, the education ban, and the case for policing and schooling.\nAuthor : International Crisis Group\nYear : 2019\nPages : 8\nFile Size : 0.4 MB",
+    "mdwnurl": "https://drive.google.com/uc?export=download&id=1Ijmb6FA0657rHmIUQY03agr-CkrTyGbH",
+    "views": 0
+   },
+   {
+    "id": "365e65f1-4460-4a27-8a50-ce05b3d97404",
+    "mNames": "Caged without a Roof: Apartheid in Myanmar's Rakhine State",
+    "mImageUrls": "https://lh3.googleusercontent.com/d/1kmcTzQBUhcBOdUzITJ7L14VxkC_64Qc4",
+    "mDescription": "Amnesty's finding that the systematic discrimination against the Rohingya amounts to apartheid.\nAuthor : Amnesty International\nYear : 2017\nPages : 111\nFile Size : 4.3 MB",
+    "mdwnurl": "https://drive.google.com/uc?export=download&id=1BSQV3M86ScA4WdBtFeRMxOWk3Am0sjGS",
+    "views": 0
+   },
+   {
+    "id": "09da1d28-6357-49ca-96c1-70b511780c54",
+    "mNames": "Citizenship and Genocide Cards: IDs, Statelessness and Rohingya Resistance in Myanmar",
+    "mImageUrls": "https://lh3.googleusercontent.com/d/1MXW_gLfBBU_27OekHtg4Wn9Pdeu3pc-H",
+    "mDescription": "How ID cards and registration schemes produced Rohingya statelessness, built on survivor oral histories.\nAuthor : Natalie Brinham\nYear : 2024\nPages : 258\nFile Size : 1.5 MB",
+    "mdwnurl": "https://drive.google.com/uc?export=download&id=1rPS0EQvvcoVqdN3v3ClVLV2zdjOF-0NZ",
+    "views": 0
+   },
+   {
+    "id": "7ee71b20-fa4d-46cf-91c9-78547d7b63b4",
+    "mNames": "Complex Survivors: Adolescent Boys and the Humanitarian Response to the Rohingya Refugee Crisis",
+    "mImageUrls": "https://lh3.googleusercontent.com/d/1z2pOCQSJxuqpBc-2T3XTWDLjah6uRuSN",
+    "mDescription": "Thesis (University of Melbourne) on how the humanitarian response treats adolescent boys.\nAuthor : Shane Harrison\nYear : 2021\nPages : 230\nFile Size : 4.1 MB",
+    "mdwnurl": "https://drive.google.com/uc?export=download&id=1lyH-oHiabF4DfJJwt_k3L5vCf3M8Gwnq",
+    "views": 0
+   },
+   {
+    "id": "33974fd3-67ee-43bd-b5a5-ae972e94d7d6",
+    "mNames": "Construction of Health among the Rohingya Refugees in Bangladesh",
+    "mImageUrls": "https://lh3.googleusercontent.com/d/1dTKxlCNSFCpO40DNRGlAv5GDlTtr6Zuo",
+    "mDescription": "PhD thesis (Massey University) on Rohingya health needs in the Cox's Bazar camps.\nAuthor : Md Mahbubur Rahman\nYear : 2024\nPages : 515\nFile Size : 6.6 MB",
+    "mdwnurl": "https://drive.google.com/uc?export=download&id=1xNnoBjGnEagmiZpyQ8ROwYBLL7HsnJfw",
+    "views": 0
+   },
+   {
+    "id": "f8879e5a-a26b-4de2-be87-ddd0b985a204",
+    "mNames": "Crimes against Humanity by Burmese Security Forces against the Rohingya",
+    "mImageUrls": "https://lh3.googleusercontent.com/d/14cICi5YKnMHE96MWZGRuF529Ril76TbZ",
+    "mDescription": "Legal memo on deportation, murder, rape and persecution since 25 August 2017.\nAuthor : Human Rights Watch\nYear : 2017\nPages : 11\nFile Size : 2.1 MB",
+    "mdwnurl": "https://drive.google.com/uc?export=download&id=1Zc03y7_AKY5nhkFoFcRmBFZdexe4qXZO",
+    "views": 0
+   },
+   {
+    "id": "f43c7d98-2932-4ea7-8682-8a470caff5ba",
+    "mNames": "Documenting Atrocity Crimes Committed against the Rohingya in Myanmar's Rakhine State",
+    "mImageUrls": "https://lh3.googleusercontent.com/d/1YZZS_zXmTs6i79punadhwk4vlKqzkRCC",
+    "mDescription": "Findings from 1,024 refugee interviews: reasonable grounds for crimes against humanity and genocide.\nAuthor : Public International Law & Policy Group\nYear : 2018\nPages : 105\nFile Size : 2.7 MB",
+    "mdwnurl": "https://drive.google.com/uc?export=download&id=1QTNcNb0QBgm-5KcGxWv3biiwJGhWWEsI",
+    "views": 0
+   },
+   {
+    "id": "3698b81c-3ca0-4e76-945a-7055846563c7",
+    "mNames": "Ending Impunity in Myanmar",
+    "mImageUrls": "https://lh3.googleusercontent.com/d/1PB7GN7CpT6IqHIIf78q5ppegiKgzcKRe",
+    "mDescription": "How Myanmar's National Unity Government can bring atrocity crimes, including against the Rohingya, to the ICC.\nAuthor : Fortify Rights\nYear : 2021\nPages : 46\nFile Size : 7.9 MB",
+    "mdwnurl": "https://drive.google.com/uc?export=download&id=14X824vgiWwBQt2hs7Zlgo_KpD9Fsn8Mi",
+    "views": 0
+   },
+   {
+    "id": "0f9ed0e0-7546-4c96-a4f9-6549c3cb2d71",
+    "mNames": "Examining the ASEAN Intergovernmental Commission on Human Rights: The Rohingya Crisis",
+    "mImageUrls": "https://lh3.googleusercontent.com/d/1Bq28e2GGh_2rILRW9OIvtW-PbyrCOhn_",
+    "mDescription": "LLM dissertation (Tilburg University) on ASEAN's human-rights body and the Rohingya.\nAuthor : Kimberly Ramos Gamez\nYear : 2017\nPages : 117\nFile Size : 1.0 MB",
+    "mdwnurl": "https://drive.google.com/uc?export=download&id=1Dk9My3ayHz0NjUFfcS8cUXUo-EwIt5fp",
+    "views": 0
+   },
+   {
+    "id": "7db5594b-2baf-4df6-b5ed-a797d73ec873",
+    "mNames": "Experiences of Statelessness and Refugee Protection: Rohingya Life in Sydney",
+    "mImageUrls": "https://lh3.googleusercontent.com/d/137g1gmlBdnyqt4VqA75TVH_8RShF40tr",
+    "mDescription": "PhD thesis (UNSW Sydney) on statelessness and belonging among Rohingya in Sydney.\nAuthor : Zoe Louise Bell\nYear : 2023\nPages : 293\nFile Size : 3.9 MB",
+    "mdwnurl": "https://drive.google.com/uc?export=download&id=13H2VuSMj9UydccMJpnCG3ua5zIncsdKa",
+    "views": 0
+   },
+   {
+    "id": "6dda128f-7d44-4fb2-8a8d-394da1e5e1d3",
+    "mNames": "Flash Report: OHCHR Mission to Bangladesh",
+    "mImageUrls": "https://lh3.googleusercontent.com/d/1VwKf6t9hLY7wJq008HyjqAwPeeG7kHp4",
+    "mDescription": "Interviews with Rohingya who fled the 2016 clearance operations; finds likely crimes against humanity.\nAuthor : UN Office of the High Commissioner for Human Rights\nYear : 2017\nPages : 43\nFile Size : 1.6 MB",
+    "mdwnurl": "https://drive.google.com/uc?export=download&id=15RL-mOODcB0e9sH_MkrZZQ0T5iE1PtR7",
+    "views": 0
+   },
+   {
+    "id": "aa4aec6f-151b-4655-939b-b10c09c9643e",
+    "mNames": "From Elections to Ceasefire in Myanmar's Rakhine State",
+    "mImageUrls": "https://lh3.googleusercontent.com/d/15gJeVO362oP-4JYfO4BRIYVlrMj_c52T",
+    "mDescription": "Rakhine after the 2020 elections: ceasefire talks, Rohingya rights and the Arakan Army.\nAuthor : International Crisis Group\nYear : 2021\nPages : 16\nFile Size : 0.3 MB",
+    "mdwnurl": "https://drive.google.com/uc?export=download&id=1LV4yc-fgEK9EQkC0Obk9whkIVGMSnC3U",
+    "views": 0
+   },
+   {
+    "id": "2695651d-d06d-4a25-8aa2-e1ea725014ad",
+    "mNames": "Gendered Access to Space and Infrastructural Challenges: Rohingya Women in Refugee Camps",
+    "mImageUrls": "https://lh3.googleusercontent.com/d/1g6QMnKvV3Tp1PY1gZel8kfsZKn5FM6XD",
+    "mDescription": "Master's thesis (University of Basel) on Rohingya women's safety in Kutupalong.\nAuthor : Ambarin Sultana\nYear : 2025\nPages : 104\nFile Size : 2.3 MB",
+    "mdwnurl": "https://drive.google.com/uc?export=download&id=1Wg5kyi00XFlgoZjOWZX4QyJtdo2YdqKi",
+    "views": 0
+   },
+   {
+    "id": "12f8b08a-d63a-4663-81dc-42e68dcdaeb2",
+    "mNames": "Genocide and Mass Violence: Politics of Singularity",
+    "mImageUrls": "https://lh3.googleusercontent.com/d/15PkR3C4b8YpHCZlPtfoMCuLIgtCISB7T",
+    "mDescription": "Conference volume on genocide and mass violence, with the Rohingya among its subjects.\nAuthor : Imtiaz Ahmed (ed.), Centre for Genocide Studies, University of Dhaka\nYear : 2019\nPages : 320\nFile Size : 6.9 MB",
+    "mdwnurl": "https://drive.google.com/uc?export=download&id=1zU2SNDqGmHb5uNy5DmHyah9Sk4w4a3QY",
+    "views": 0
+   },
+   {
+    "id": "649898e9-1bdf-4097-b4a9-88426e74b549",
+    "mNames": "Genocide by Attrition",
+    "mImageUrls": "https://lh3.googleusercontent.com/d/1BueTaDUVzSRgH638f95mMBVfPyWTgV04",
+    "mDescription": "National Verification Cards and the slow, genocidal attrition of the Rohingya in Rakhine.\nAuthor : Fortify Rights\nPages : 66\nFile Size : 15.6 MB",
+    "mdwnurl": "https://drive.google.com/uc?export=download&id=1X9gnNLJWnB7sy4EAzj0q6NYatRc683wA",
+    "views": 0
+   },
+   {
+    "id": "cb5a0d49-bb57-4bb2-a4fe-7c5eb8bfe846",
+    "mNames": "Hope amid Despair: Finding Solutions for Rohingya in Bangladesh",
+    "mImageUrls": "https://lh3.googleusercontent.com/d/1O0ItOZL3v0-UEUniyLqrNCZs23u7E1uA",
+    "mDescription": "Protracted displacement five years after the 2017 genocide.\nAuthor : Daniel P. Sullivan (Refugees International)\nYear : 2022\nPages : 25\nFile Size : 17.1 MB",
+    "mdwnurl": "https://drive.google.com/uc?export=download&id=1i2Y8NaF_ZccXIUA_OTYCv9hk2gIwmx5q",
+    "views": 0
+   },
+   {
+    "id": "c3f671e4-a652-42af-8ef2-3002457e9da9",
+    "mNames": "I Thought I Would Die: Physical Evidence of Atrocities against the Rohingya",
+    "mImageUrls": "https://lh3.googleusercontent.com/d/14QW6gmIiYtfizA1ha5ccZ3mXMK6a-1Qo",
+    "mDescription": "Physical evidence of rape, shootings, stabbings and burnings in the late-2016 clearance operations.\nAuthor : Burmese Rohingya Organisation UK\nYear : 2017\nPages : 38\nFile Size : 3.0 MB",
+    "mdwnurl": "https://drive.google.com/uc?export=download&id=1l1dvfSopnFQBZBymk6fkPMDtzYY_rJRg",
+    "views": 0
+   },
+   {
+    "id": "04e4dff4-ca45-422f-8024-ebf529425c17",
+    "mNames": "Improving Outcomes for Displaced Rohingya People and Hosts in Cox's Bazar",
+    "mImageUrls": "https://lh3.googleusercontent.com/d/1goAOHj2-1DGYWmBLoSOfl2Xbmf3hHvh4",
+    "mDescription": "Evidence review of outcomes for Rohingya and host communities, and the gaps in knowledge.\nAuthor : World Bank\nYear : 2021\nPages : 119\nFile Size : 2.8 MB",
+    "mdwnurl": "https://drive.google.com/uc?export=download&id=1Iv9-TULqcXH9Jm9eJjshTCIhYOIZETvV",
+    "views": 0
+   },
+   {
+    "id": "d112fa45-de42-406f-8cc0-30e546c5774c",
+    "mNames": "Intimations of an 'Us': Imagining and Encountering the 'Refugee Other' in Indonesia",
+    "mImageUrls": "https://lh3.googleusercontent.com/d/162l4vHFJIxxhwSaK9XWrno5wGn_gUTxG",
+    "mDescription": "PhD thesis (Erasmus University) on how Indonesia responds to refugees, including the Rohingya.\nAuthor : Mahardhika Sjamsoeoed Sadjad\nYear : 2022\nPages : 350\nFile Size : 3.1 MB",
+    "mdwnurl": "https://drive.google.com/uc?export=download&id=1KPBy9Ms7le61bINIO_ULXi-AX2-5f2uw",
+    "views": 0
+   },
+   {
+    "id": "fcda70a2-8c78-48e1-83e3-e20df91e38df",
+    "mNames": "Investigative Report of Rohingya Refugee Camps in Bangladesh",
+    "mImageUrls": "https://lh3.googleusercontent.com/d/1tCnWy9_5hudGhs0H1ZMXzc8FBGBZgUP8",
+    "mDescription": "Camp interviews on systematic atrocities, repatriation risks and accountability.\nAuthor : Human Rights Now\nYear : 2018\nPages : 32\nFile Size : 2.6 MB",
+    "mdwnurl": "https://drive.google.com/uc?export=download&id=1uA3r2IUNxSfJdE3F-E3iJMrTSRZs3I3N",
+    "views": 0
+   },
+   {
+    "id": "0b3c531a-f4ce-43c6-8e81-fed0893ac936",
+    "mNames": "Is Citizenship the Answer? Belonging and Exclusion for the Stateless Rohingya",
+    "mImageUrls": "https://lh3.googleusercontent.com/d/1INckTDKTt5bANu_SvF65sJ5GugNlyIhw",
+    "mDescription": "Oxford working paper on citizenship, nation-building and Rohingya exclusion.\nAuthor : Cresa L. Pugh\nYear : 2013\nPages : 31\nFile Size : 0.4 MB",
+    "mdwnurl": "https://drive.google.com/uc?export=download&id=19orZujv8anNroYcARurB5YvxYm0wAsAH",
+    "views": 0
+   },
+   {
+    "id": "719dc17c-8730-47c0-baa3-d3ad026c77f4",
+    "mNames": "Justice for the Rohingya: The Role of Canada",
+    "mImageUrls": "https://lh3.googleusercontent.com/d/1hlZ7JlSpjgxkqdACSE3_XPMvy_wpl7ax",
+    "mDescription": "Summary of a 2020 expert roundtable on Canada's role in justice for the Rohingya.\nAuthor : University of Victoria, Centre for Asia-Pacific Initiatives\nYear : 2020\nPages : 32\nFile Size : 0.9 MB",
+    "mdwnurl": "https://drive.google.com/uc?export=download&id=1JZzN9bkBR5eswiXmaQ8LMS7YAc3muSM-",
+    "views": 0
+   },
+   {
+    "id": "51b0ef4b-464b-4b0f-a582-c773966947ca",
+    "mNames": "Living Under Restriction: Structural Exclusion, Distress, and Security among Rohingya Refugees",
+    "mImageUrls": "https://lh3.googleusercontent.com/d/1COyMVPWi9SFPdKCJkc-mcAL-g1JhH7C6",
+    "mDescription": "Refugee Law Initiative working paper based on a survey of 210 camp residents.\nAuthor : Emadul Islam and Mohammad Zainuddin\nYear : 2026\nPages : 26\nFile Size : 0.8 MB",
+    "mdwnurl": "https://drive.google.com/uc?export=download&id=1PnZI-VGXJPZIH8YB52m7eeshymDpXUN3",
+    "views": 0
+   },
+   {
+    "id": "02c92c7f-e994-4680-b8b2-480262bf9006",
+    "mNames": "Massacre by the River: Burmese Army Crimes against Humanity in Tula Toli",
+    "mImageUrls": "https://lh3.googleusercontent.com/d/1O0Vtl4yC4sewkn9pbWMHWe_vHo0QF23V",
+    "mDescription": "The 30 August 2017 massacre of Rohingya villagers at Tula Toli.\nAuthor : Human Rights Watch\nYear : 2017\nPages : 36\nFile Size : 4.3 MB",
+    "mdwnurl": "https://drive.google.com/uc?export=download&id=1CJsQkl3tNnU62PVpOM3olNw1yefOQhuB",
+    "views": 0
+   },
+   {
+    "id": "25a01656-f601-4c99-ac92-9bb397033f59",
+    "mNames": "Migrant Agency in the Global South: The Movements of Rohingya in Myanmar, Bangladesh and Malaysia",
+    "mImageUrls": "https://lh3.googleusercontent.com/d/1SGAeBhwT7axxnslmdi3tpH45lWfmcv77",
+    "mDescription": "PhD thesis (UNSW Sydney) on Rohingya movement and agency under restrictive laws.\nAuthor : Ashraful Azad\nYear : 2021\nPages : 290\nFile Size : 2.8 MB",
+    "mdwnurl": "https://drive.google.com/uc?export=download&id=1laeMYxpof_7Hq621UpWx6PbhPcA3bsXb",
+    "views": 0
+   },
+   {
+    "id": "c2e5a13d-a2ca-40c6-9503-64a03647fd0a",
+    "mNames": "Military Ltd: The Company Financing Atrocities in Myanmar",
+    "mImageUrls": "https://lh3.googleusercontent.com/d/1AJ-ozSwasDcZBkBikuya5XASpxNCKo30",
+    "mDescription": "The military business empire that funds atrocities, including against the Rohingya.\nAuthor : Amnesty International\nYear : 2020\nPages : 83\nFile Size : 3.9 MB",
+    "mdwnurl": "https://drive.google.com/uc?export=download&id=1ITbLIINRlhUH8fZXDCZ1OWQirT0MGdyR",
+    "views": 0
+   },
+   {
+    "id": "7e47ea59-316b-4573-9149-092fbd5c229c",
+    "mNames": "Moving Beyond the Emergency: A Whole of Society Approach to the Refugee Response in Bangladesh",
+    "mImageUrls": "https://lh3.googleusercontent.com/d/1spO891VTJohTm3GRJBw24vw5dMGThQxV",
+    "mDescription": "A medium-term strategy for the Rohingya response in Bangladesh.\nAuthor : Center for Global Development and International Rescue Committee\nYear : 2019\nPages : 22\nFile Size : 0.2 MB",
+    "mdwnurl": "https://drive.google.com/uc?export=download&id=1TXFi0jtnvuigtuELrQ855yzh9Qv5Qmoi",
+    "views": 0
+   },
+   {
+    "id": "2e33631e-650e-42ee-a82b-7bb0401af294",
+    "mNames": "Myanmar and the Genocide Debate",
+    "mImageUrls": "https://lh3.googleusercontent.com/d/1Q-Vt6LeqqC22uubehvTTOXyFOYwJIUqX",
+    "mDescription": "Research report on whether acts of genocide are being committed against the Rohingya.\nAuthor : Ellen Emilie Stensrud (Norwegian Centre for Human Rights)\nYear : 2016\nPages : 22\nFile Size : 1.2 MB",
+    "mdwnurl": "https://drive.google.com/uc?export=download&id=1e85O7_ggpUMR79NoOCbFPhZ5_s1gRFVb",
+    "views": 0
+   },
+   {
+    "id": "82cc44e3-24bf-4f0a-b4b4-b967e76b61a5",
+    "mNames": "Myanmar's 1982 Citizenship Law in Context",
+    "mImageUrls": "https://lh3.googleusercontent.com/d/1i3kQ4dHiwuZSIoQxbs-_oOhdS9Rxdbv1",
+    "mDescription": "Policy brief on the law that made the Rohingya stateless, and how it could be reformed.\nAuthor : Peggy Brett and Kyaw Yin Hlaing\nYear : 2020\nPages : 4\nFile Size : 1.4 MB",
+    "mdwnurl": "https://drive.google.com/uc?export=download&id=1-Lgljcm3FkIChM1RFw53Iw_rDffpC8K4",
+    "views": 0
+   },
+   {
+    "id": "bedbb69f-82ed-4769-b55a-1d3ff5c9d3e1",
+    "mNames": "Myanmar's Rohingya Crisis Enters a Dangerous New Phase",
+    "mImageUrls": "https://lh3.googleusercontent.com/d/19Oe92qt70LdIjfDv0Fkv1mNY2UlYaSR6",
+    "mDescription": "The humanitarian catastrophe and security risks after the August 2017 exodus.\nAuthor : International Crisis Group\nYear : 2017\nPages : 29\nFile Size : 0.7 MB",
+    "mdwnurl": "https://drive.google.com/uc?export=download&id=1QG5Y9N70-63muzcTv0E0SDwpxj2O3utm",
+    "views": 0
+   },
+   {
+    "id": "6d6b4180-358a-4798-8c73-83209687f82e",
+    "mNames": "Myanmar: A New Muslim Insurgency in Rakhine State",
+    "mImageUrls": "https://lh3.googleusercontent.com/d/1JG80xaB3qKPdeKiEbXzos9Ep142JPzMP",
+    "mDescription": "The emergence of Harakah al-Yaqin (later ARSA) after the October 2016 attacks.\nAuthor : International Crisis Group\nYear : 2016\nPages : 34\nFile Size : 1.8 MB",
+    "mdwnurl": "https://drive.google.com/uc?export=download&id=1_ve5Yti-bSPfbgsb1oAlvt31-6qU9Egf",
+    "views": 0
+   },
+   {
+    "id": "8042c225-d1c1-46d5-a016-fbc209e3d29d",
+    "mNames": "Myanmar: Attacks by ARSA on Hindus in Northern Rakhine State",
+    "mImageUrls": "https://lh3.googleusercontent.com/d/1ORZ9M_jDccxpSEIsHDORff5CGAKdGwJM",
+    "mDescription": "ARSA killings and abductions of Hindu villagers in August 2017.\nAuthor : Amnesty International\nYear : 2018\nPages : 8\nFile Size : 0.2 MB",
+    "mdwnurl": "https://drive.google.com/uc?export=download&id=1B3KMMX_M4-9RfYjcI9SpfmmUzFHOFqvs",
+    "views": 0
+   },
+   {
+    "id": "4c83f50f-10be-4cd0-a106-1c3a72f25b21",
+    "mNames": "Myanmar: Buddhist Ultra-Nationalism, Anti-Muslim Sentiment, and a Pathway to Reconciliation",
+    "mImageUrls": "https://lh3.googleusercontent.com/d/1ZgsLuMitlOuQBrRn43gE951TyW-U3dJd",
+    "mDescription": "Policy brief on the origins of Buddhist ultra-nationalism and anti-Muslim sentiment.\nAuthor : Al-Haj Khalifah U Aye Lwin\nYear : 2022\nPages : 4\nFile Size : 1.5 MB",
+    "mdwnurl": "https://drive.google.com/uc?export=download&id=1z_3gQTtCxv70cwQEso75KFV540Q7VwJa",
+    "views": 0
+   },
+   {
+    "id": "b613ed3a-698d-46e9-bed1-d40e79486080",
+    "mNames": "No One Can Protect Us: War Crimes and Abuses in Myanmar's Rakhine State",
+    "mImageUrls": "https://lh3.googleusercontent.com/d/1txT86ClbvLlSweWx3hHaIobSE9Ec1X7G",
+    "mDescription": "Renewed military war crimes in Rakhine State in 2019.\nAuthor : Amnesty International\nYear : 2019\nPages : 46\nFile Size : 1.8 MB",
+    "mdwnurl": "https://drive.google.com/uc?export=download&id=1hbURHSgkjyq9TMUIBaNpl2oY75JIDJjL",
+    "views": 0
+   },
+   {
+    "id": "3a3ac587-98ef-48dd-bd9c-ab23317d3df1",
+    "mNames": "No One Was Left: Death and Violence against the Rohingya in Rakhine State",
+    "mImageUrls": "https://lh3.googleusercontent.com/d/1s9tFyhvin0PyN_sw-0hvg9-U7BNhsb4y",
+    "mDescription": "MSF mortality surveys of the first month of the 2017 crackdown, with survivor testimony.\nAuthor : Médecins Sans Frontières\nYear : 2018\nPages : 28\nFile Size : 16.1 MB",
+    "mdwnurl": "https://drive.google.com/uc?export=download&id=1LecyIKlNzt-fM9U-3xEie4mTbUDnon-m",
+    "views": 0
+   },
+   {
+    "id": "52ca0086-c7c5-4177-b06f-2b6edb58b065",
+    "mNames": "Overcoming Challenges: The Story of NGOs Serving Refugees in Klang Valley, Malaysia",
+    "mImageUrls": "https://lh3.googleusercontent.com/d/1dsnMIh9bWZXUAMjjERrKw3O6cMT1yG3x",
+    "mDescription": "Field study of NGOs serving refugees, including the Rohingya, around Kuala Lumpur.\nAuthor : Imdad Hussain\nYear : 2017\nPages : 24\nFile Size : 0.3 MB",
+    "mdwnurl": "https://drive.google.com/uc?export=download&id=1oj4g17VUM6mb3_lKlgeWeeTVEJfcb61U",
+    "views": 0
+   },
+   {
+    "id": "2d443228-c33e-48e8-a542-66ac9c954052",
+    "mNames": "Paths to Justice: Inclusive International Justice in Post-Coup Myanmar",
+    "mImageUrls": "https://lh3.googleusercontent.com/d/1vTswCagbK76SHhfhW08bQfNPz5aWt1na",
+    "mDescription": "Options for justice for the Rohingya genocide after the 2021 coup.\nAuthor : Burmese Rohingya Organisation UK\nYear : 2021\nPages : 10\nFile Size : 0.3 MB",
+    "mdwnurl": "https://drive.google.com/uc?export=download&id=1Pmt6Q5Oh0VOsWWSCPPRQ1GAv_XkrIaVu",
+    "views": 0
+   },
+   {
+    "id": "f9a20a32-a317-4d70-abc3-a7a63477e72f",
+    "mNames": "Physical Environment of Child Friendly Spaces for Forcibly Displaced Rohingya Children",
+    "mImageUrls": "https://lh3.googleusercontent.com/d/1E7rbOqEKKe_rvobgaKfJlBVTLLThVR02",
+    "mDescription": "Master's thesis (BRAC University) on child-friendly spaces in the Cox's Bazar camps.\nAuthor : Nandita Barai\nYear : 2021\nPages : 123\nFile Size : 5.4 MB",
+    "mdwnurl": "https://drive.google.com/uc?export=download&id=1ljr8VFxbj0Q-XUafFrAXCz3Rx2veizav",
+    "views": 0
+   },
+   {
+    "id": "74c103c3-aed6-4f28-89a7-e5f2434f1e1c",
+    "mNames": "Policies of Persecution: Ending Abusive State Policies against Rohingya Muslims in Myanmar",
+    "mImageUrls": "https://lh3.googleusercontent.com/d/1-VSnHpLyNHsx7Muq_zZOGhcltblwVr9D",
+    "mDescription": "Leaked government documents on restrictions imposed on the Rohingya.\nAuthor : Fortify Rights\nYear : 2014\nPages : 79\nFile Size : 45.3 MB",
+    "mdwnurl": "https://drive.google.com/uc?export=download&id=1nCz3ux4uE6S4YX7b6V-sk1e22wZpvR1Z",
+    "views": 0
+   },
+   {
+    "id": "99ac7b8c-ece7-4deb-bc29-7ef0b6013a79",
+    "mNames": "Prevent the Unthinkable",
+    "mImageUrls": "https://lh3.googleusercontent.com/d/1U7f0ARTYVU6A7hKamnhmaxuX0ZgK9pPy",
+    "mDescription": "Warning of escalating risks of further atrocities against the Rohingya.\nAuthor : Burmese Rohingya Organisation UK\nYear : 2022\nPages : 36\nFile Size : 0.4 MB",
+    "mdwnurl": "https://drive.google.com/uc?export=download&id=1Q6AwZ_VKZDGexHWX9FQviAwjqOUqxT4S",
+    "views": 0
+   },
+   {
+    "id": "5464528d-f253-466e-85f2-d1c819b9650b",
+    "mNames": "Preventable Deaths in Cyclone Mocha and the Rohingya Genocide",
+    "mImageUrls": "https://lh3.googleusercontent.com/d/1QPU4Fr7bE8pMk9cSHO93Zow0Ehnj-3Zr",
+    "mDescription": "Rohingya deaths in Cyclone Mocha in the context of the ongoing genocide.\nAuthor : Burmese Rohingya Organisation UK\nYear : 2023\nPages : 30\nFile Size : 1.3 MB",
+    "mdwnurl": "https://drive.google.com/uc?export=download&id=1jH9VjotJ4xeFv8H2sluX8My3gSe6b-2n",
+    "views": 0
+   },
+   {
+    "id": "3fbe2950-244a-4328-bff4-1aa29bc7abb4",
+    "mNames": "Preventing a Lost Generation: Community-Led Education by Rohingya Refugees",
+    "mImageUrls": "https://lh3.googleusercontent.com/d/1mfl_FkqC8gqNe92GFeuo_6eynGkQs-0q",
+    "mDescription": "Policy brief on refugee-led schooling in the camps.\nAuthor : Peace Research Institute Oslo\nYear : 2019\nPages : 4\nFile Size : 0.2 MB",
+    "mdwnurl": "https://drive.google.com/uc?export=download&id=1QGXoPN_tPfcLmkQV5dZ9IisK2yFgQjcY",
+    "views": 0
+   },
+   {
+    "id": "5ca0da5e-9eeb-462f-bc81-d336b4c2aea3",
+    "mNames": "Rape by Command: Sexual Violence by the Myanmar Army",
+    "mImageUrls": "https://lh3.googleusercontent.com/d/1k1C0wYAvOSso8JgpDzfc-_tYWLc-MXRj",
+    "mDescription": "Systematic rape of Rohingya women and girls across 17 villages in the 2017 clearance operation.\nAuthor : Razia Sultana (Kaladan Press Network)\nYear : 2018\nPages : 62\nFile Size : 0.7 MB",
+    "mdwnurl": "https://drive.google.com/uc?export=download&id=1Qvq7_dQB4uiRRU4dqa-mJ4O-w7FIHgJR",
+    "views": 0
+   },
+   {
+    "id": "68983ce1-4e13-4eb9-977d-ce54c3550739",
+    "mNames": "Refugee Movements in South-East Asia, 2018 – June 2019",
+    "mImageUrls": "https://lh3.googleusercontent.com/d/18VBse52telPz9F89ZGfPYFdSQC8-ghah",
+    "mDescription": "Trends in refugee movements, mostly Rohingya, across South-East Asia.\nAuthor : UNHCR\nYear : 2019\nPages : 20\nFile Size : 1.3 MB",
+    "mdwnurl": "https://drive.google.com/uc?export=download&id=1ii2nzmMYOgEuQNHoQngKDUecMUpBzD9W",
+    "views": 0
+   },
+   {
+    "id": "3dfff7f1-317a-42f7-8b23-cf06b794423d",
+    "mNames": "Refugee Protection in ASEAN: The Case of the Rohingya Refugee Crisis",
+    "mImageUrls": "https://lh3.googleusercontent.com/d/1EVGzJ1kMZSAw6RlIUFt4e0nvP5-DnBOR",
+    "mDescription": "PhD thesis (Griffith University) on why ASEAN did not adopt refugee protection norms.\nAuthor : Thi Anh Thu Nguyen\nYear : 2022\nPages : 251\nFile Size : 0.8 MB",
+    "mdwnurl": "https://drive.google.com/uc?export=download&id=1qxeh-ttowNzdy2y_KZnxQZ3Y5UcmebS6",
+    "views": 0
+   },
+   {
+    "id": "012b1936-b1e8-4358-8538-4f1b27176993",
+    "mNames": "Remaking Rakhine State",
+    "mImageUrls": "https://lh3.googleusercontent.com/d/1RbQeArqPmv42esvtMSTLLi8lI3ZiOhX0",
+    "mDescription": "Satellite and eyewitness evidence of military land grabs on burned Rohingya villages.\nAuthor : Amnesty International\nYear : 2018\nPages : 2\nFile Size : 0.2 MB",
+    "mdwnurl": "https://drive.google.com/uc?export=download&id=1bZrZoKodn8yvq5pVSIDHQ3jbH_kxh3sR",
+    "views": 0
+   },
+   {
+    "id": "22127dc6-6cee-483f-98f3-cf82d0021f88",
+    "mNames": "Report of the Independent International Fact-Finding Mission on Myanmar (A/HRC/39/64)",
+    "mImageUrls": "https://lh3.googleusercontent.com/d/16Hs3bB_gytRH-gEm3zmD5Bb19q6PHm8W",
+    "mDescription": "The UN mission's call to investigate Myanmar's top generals for genocide.\nAuthor : UN Independent International Fact-Finding Mission on Myanmar\nYear : 2018\nPages : 21\nFile Size : 0.5 MB",
+    "mdwnurl": "https://drive.google.com/uc?export=download&id=1T44CRaYt5Bs3R0H3xyzKTkYyGDGAit2b",
+    "views": 0
+   },
+   {
+    "id": "4084294b-4a96-499c-8365-c1fc39eb0f05",
+    "mNames": "Rohingya Christians Persecution",
+    "mImageUrls": "https://lh3.googleusercontent.com/d/1kRYrWkB0PoJxhpSGGoNsHO_raqKu0Ax_",
+    "mDescription": "The persecution and dispersal of Rohingya Christians since the 1980s.\nAuthor : Mohammad Sadeq\nYear : 2023\nPages : 2\nFile Size : 0.2 MB",
+    "mdwnurl": "https://drive.google.com/uc?export=download&id=1CapNcKBP8Y5bD2SWTZcbEkPAECca9DJK",
+    "views": 0
+   },
+   {
+    "id": "0ea7ac76-2dc1-4e06-8bdf-0557c04f2da9",
+    "mNames": "Rohingya Crisis: A Summary of Findings from Six Pooled Surveys",
+    "mImageUrls": "https://lh3.googleusercontent.com/d/1bzHkBftSIt1U2h0fP5LkVYartp5kgxSR",
+    "mDescription": "Mortality surveys estimating at least 6,700 Rohingya killed in the first month of the 2017 violence.\nAuthor : Médecins Sans Frontières\nYear : 2018\nPages : 5\nFile Size : 0.2 MB",
+    "mdwnurl": "https://drive.google.com/uc?export=download&id=1KgFq0UtR256GoDyr22gDFHbXG9tgzJSD",
+    "views": 0
+   },
+   {
+    "id": "0ce62860-fbde-4f72-9037-8cc20f3fb47a",
+    "mNames": "Rohingya Genocide Day Bulletin 2024",
+    "mImageUrls": "https://lh3.googleusercontent.com/d/16VveVqmoOcYP7FJqTIUnkusxVWdH49ta",
+    "mDescription": "Bulletin marking 25 August: a timeline of atrocities and advocacy positions.\nAuthor : Arakan Rohingya National Alliance\nYear : 2024\nPages : 22\nFile Size : 9.0 MB",
+    "mdwnurl": "https://drive.google.com/uc?export=download&id=1jXgI2_zTrgY17BXOZKrmEE5-qzIr3rv4",
+    "views": 0
+   },
+   {
+    "id": "a31ba9a0-e929-40db-bc3e-acbbc23061b3",
+    "mNames": "Rohingyas in Bangladesh: Owning Rohingya Identity in Disowning Spaces",
+    "mImageUrls": "https://lh3.googleusercontent.com/d/1OiNy68oDEYnH6S0vxVZpI6-i3XJ29kOK",
+    "mDescription": "PhD thesis (York University) on how Rohingya youth build identity in the camps.\nAuthor : Ishrat Zakia Sultana\nYear : 2019\nPages : 234\nFile Size : 3.2 MB",
+    "mdwnurl": "https://drive.google.com/uc?export=download&id=1MgemzVu7NQrc2DBPGS_6ukzSR1owJlqK",
+    "views": 0
+   },
+   {
+    "id": "bec03302-8031-4af6-92ac-93b250dcfa44",
+    "mNames": "Sold Like Fish: Crimes against Humanity, Mass Graves, and Human Trafficking from Myanmar and Bangladesh to Malaysia",
+    "mImageUrls": "https://lh3.googleusercontent.com/d/1kdJKfQ56eXoZey1pMhK63I1WAtITm_9L",
+    "mDescription": "The 2012–2015 trafficking of Rohingya to Malaysia and the jungle-camp mass graves.\nAuthor : SUHAKAM and Fortify Rights\nYear : 2019\nPages : 124\nFile Size : 14.8 MB",
+    "mdwnurl": "https://drive.google.com/uc?export=download&id=1rDByKsKY1EkF_jW1XK4BolIb0TmVSaGN",
+    "views": 0
+   },
+   {
+    "id": "50553323-f024-4175-9698-847e82ea7d94",
+    "mNames": "Starving to Death: The Latest Phase of the Rohingya Genocide",
+    "mImageUrls": "https://lh3.googleusercontent.com/d/1O4dL1s8WEfGDIdNMYP7k6apQhh3wYMM7",
+    "mDescription": "The deliberate starvation of Rohingya in Rakhine through obstruction of aid.\nAuthor : Burmese Rohingya Organisation UK\nYear : 2025\nPages : 44\nFile Size : 1.1 MB",
+    "mdwnurl": "https://drive.google.com/uc?export=download&id=14PA8APWaaHcJCxOtjbJWbMg3MLOXoPdd",
+    "views": 0
+   },
+   {
+    "id": "7d70d980-13f0-42ba-9b73-5839bef4be8a",
+    "mNames": "Struggling to Survive",
+    "mImageUrls": "https://lh3.googleusercontent.com/d/1ZFxJm92chXUcJ-jeZEipEqkJxU_y7_1b",
+    "mDescription": "Briefing on The Gambia v. Myanmar genocide case at the International Court of Justice.\nAuthor : Burmese Rohingya Organisation UK\nYear : 2023\nPages : 31\nFile Size : 0.8 MB",
+    "mdwnurl": "https://drive.google.com/uc?export=download&id=1a0i1NItI5NItu4oJVsUW5LQq6sSNJKX_",
+    "views": 0
+   },
+   {
+    "id": "a685a326-16e6-4074-b70a-b2b753d3c391",
+    "mNames": "The Cost of Waiting: Intergenerational Impacts of Protracted Rohingya Displacement",
+    "mImageUrls": "https://lh3.googleusercontent.com/d/133Yn5dnbtF0jT-Y5dSoM8pq0Rwdx7hBw",
+    "mDescription": "How protracted displacement affects education, livelihoods and social cohesion.\nAuthor : VOICE\nYear : 2025\nPages : 24\nFile Size : 9.9 MB",
+    "mdwnurl": "https://drive.google.com/uc?export=download&id=15AE15nVmjk_jEaZKynOiTy2cW67jY-gB",
+    "views": 0
+   },
+   {
+    "id": "e6f995b9-d770-4e8a-b9b0-e9472e660092",
+    "mNames": "The Displaced and Stateless of Myanmar in the Asia-Pacific Region",
+    "mImageUrls": "https://lh3.googleusercontent.com/d/1uhbPjYyW7T81U4i3PphkgpRhDIIutiZG",
+    "mDescription": "A regional overview of Rohingya and others displaced from Myanmar.\nAuthor : UNHCR\nYear : 2021\nPages : 7\nFile Size : 0.6 MB",
+    "mdwnurl": "https://drive.google.com/uc?export=download&id=17oB3dpIkk2vxdvFDrzDknyd0IApkF7b8",
+    "views": 0
+   },
+   {
+    "id": "c38c5d58-bf9c-4f01-a3cf-1a2e4475880e",
+    "mNames": "The Human Cost of Failure",
+    "mImageUrls": "https://lh3.googleusercontent.com/d/1LRzQpl-HHv3SNKrtUtFrnGxU0QCHUMKZ",
+    "mDescription": "Briefing on The Gambia v. Myanmar case at the International Court of Justice.\nAuthor : Burmese Rohingya Organisation UK\nYear : 2021\nPages : 13\nFile Size : 0.3 MB",
+    "mdwnurl": "https://drive.google.com/uc?export=download&id=12uEX46inn0Xn9VA4pEGkNiErhlQUkYr-",
+    "views": 0
+   },
+   {
+    "id": "b1f691b9-5637-4546-b80a-d89ed24d3799",
+    "mNames": "The Impact of Indonesia's Refugee Policy 2016–2023: The Rohingya Refugees",
+    "mImageUrls": "https://lh3.googleusercontent.com/d/1pT4_YfqXbXMIOe0ae5bDIg7dYNpPcbu_",
+    "mDescription": "Master's thesis (Flinders University) on Indonesia's policy toward Rohingya arrivals.\nAuthor : Muammar Hanif\nYear : 2023\nPages : 65\nFile Size : 1.1 MB",
+    "mdwnurl": "https://drive.google.com/uc?export=download&id=19lG5gHLB0gmo6C74GAe8ighCrVkJxeTJ",
+    "views": 0
+   },
+   {
+    "id": "74b8bb80-ceed-4959-a836-75bc0f08b8e5",
+    "mNames": "The Impact of Refugees on Host Countries: Bangladesh under the Rohingya Influx",
+    "mImageUrls": "https://lh3.googleusercontent.com/d/1wGfkjIicdMchgqOttCyVik0ArPfDPDC0",
+    "mDescription": "Master's thesis (Aalborg University) on the economic impact of the influx on Bangladesh.\nAuthor : Emese Laura László\nYear : 2018\nPages : 50\nFile Size : 1.7 MB",
+    "mdwnurl": "https://drive.google.com/uc?export=download&id=1kkJ35LE18k8Hw1pX8O_nxvJTRFILtUCW",
+    "views": 0
+   },
+   {
+    "id": "26d25ac1-1244-4ff4-ac50-a243c1a1ae6a",
+    "mNames": "The Rohingya Genocide: Starvation and Forced Labour as Tools of Erasure",
+    "mImageUrls": "https://lh3.googleusercontent.com/d/1mk6MAqmELwcAxEa66i6dkoskwIkfKtxq",
+    "mDescription": "How starvation and forced labour are being used against the Rohingya.\nAuthor : Burmese Rohingya Organisation UK\nYear : 2025\nPages : 43\nFile Size : 1.2 MB",
+    "mdwnurl": "https://drive.google.com/uc?export=download&id=1PQ36qm8mxi0oiipVNFdugdD44YXrPqlP",
+    "views": 0
+   },
+   {
+    "id": "dba72fcd-1848-4996-9c8b-0395d05f7185",
+    "mNames": "The Rohingya Muslims: Ending a Cycle of Exodus?",
+    "mImageUrls": "https://lh3.googleusercontent.com/d/1Z_v2Fm4TclFte3oKjcY0T8Kuvo9S6dhK",
+    "mDescription": "The 1990s repatriation of 200,000 Rohingya from Bangladesh, and camp abuses.\nAuthor : Human Rights Watch/Asia\nYear : 1996\nPages : 17\nFile Size : 0.2 MB",
+    "mdwnurl": "https://drive.google.com/uc?export=download&id=14NvD23o26GNz4gxQsD6yqDxEH0Seq4KC",
+    "views": 0
+   },
+   {
+    "id": "53d9de74-50ef-4c7d-9efe-cae8393c2270",
+    "mNames": "The Rohingya Refugees: In Exile with the Hope to Return",
+    "mImageUrls": "https://lh3.googleusercontent.com/d/1PXqG7mqnBIqeBwg71js4rGvOl7bjB0Ri",
+    "mDescription": "LLM thesis (University of Amsterdam) on the Rohingya right to freedom of movement.\nAuthor : Heleen Curwiel\nYear : 2021\nPages : 48\nFile Size : 0.6 MB",
+    "mdwnurl": "https://drive.google.com/uc?export=download&id=1WqCO-RT6AVzc1ApPdT1r02UZofwIjeN2",
+    "views": 0
+   },
+   {
+    "id": "824951b1-c073-4b57-abf6-75b4c33a7f49",
+    "mNames": "The Rohingya Survey 2017",
+    "mImageUrls": "https://lh3.googleusercontent.com/d/1ch0nh6h-I-NsYdXIwvzSjIZ62YketJxy",
+    "mDescription": "A survey of 1,360 Rohingya in the camps on the atrocities that made them flee.\nAuthor : XChange\nYear : 2017\nPages : 37\nFile Size : 4.2 MB",
+    "mdwnurl": "https://drive.google.com/uc?export=download&id=1RRGkUtx7dOGSi6dlZ518SoBe4I9LZroL",
+    "views": 0
+   },
+   {
+    "id": "f4f1927a-e103-4afa-b196-4ab5581f8983",
+    "mNames": "The Role of ASEAN in Response to the Problems of the Rohingya Refugees",
+    "mImageUrls": "https://lh3.googleusercontent.com/d/1wnEpKJ_yXS0aShwDcjw-Ef_LbEMAexys",
+    "mDescription": "MA thesis (Siam University) on ASEAN's response to the crisis.\nAuthor : Kanyaphat Sae Pua\nYear : 2020\nPages : 137\nFile Size : 1.3 MB",
+    "mdwnurl": "https://drive.google.com/uc?export=download&id=1fU-uuI5poxqR6yBiG9JtdhtkSNLnwOib",
+    "views": 0
+   },
+   {
+    "id": "cc8c93c6-9729-4ec1-898d-531ba96d911e",
+    "mNames": "The Social Atrocity: Meta and the Right to Remedy for the Rohingya",
+    "mImageUrls": "https://lh3.googleusercontent.com/d/14zeFyUcaEBY1n61SUZzp42swQSQSNzqo",
+    "mDescription": "How Facebook's systems promoted violence against the Rohingya, and the case for remedy.\nAuthor : Amnesty International\nYear : 2022\nPages : 74\nFile Size : 1.2 MB",
+    "mdwnurl": "https://drive.google.com/uc?export=download&id=1OZOV9gIiMJJM0Aiu4QflodzRNirzEyCN",
+    "views": 0
+   },
+   {
+    "id": "5aaefd98-12de-4dab-a9a5-837fb3b755a0",
+    "mNames": "The World's Stateless 2020: Deprivation of Nationality",
+    "mImageUrls": "https://lh3.googleusercontent.com/d/13IoX6hoZT4xcvF0jJN-Dx9HPghvUH2Vp",
+    "mDescription": "Global statelessness report with the Rohingya as its central case study.\nAuthor : Institute on Statelessness and Inclusion\nYear : 2020\nPages : 300\nFile Size : 6.5 MB",
+    "mdwnurl": "https://drive.google.com/uc?export=download&id=1c-Y-xuquj2HZUr4FSCuOGCdYwnwwG9k5",
+    "views": 0
+   },
+   {
+    "id": "f0296ba1-b69b-4acd-af51-d6c54432f9fe",
+    "mNames": "Tools of Genocide: National Verification Cards and the Denial of Citizenship of Rohingya Muslims",
+    "mImageUrls": "https://lh3.googleusercontent.com/d/1kGgHOqbCt1j9T1HWU1AaHXlls40WsaSz",
+    "mDescription": "How the authorities coerced Rohingya into accepting National Verification Cards.\nAuthor : Fortify Rights\nYear : 2019\nPages : 102\nFile Size : 10.5 MB",
+    "mdwnurl": "https://drive.google.com/uc?export=download&id=1HDk3pnfrCuEVsLJynyp4VoBWoX5Mviti",
+    "views": 0
+   },
+   {
+    "id": "16e31b51-ee79-4e4b-bd44-3d0353e3186d",
+    "mNames": "Towards a Peaceful, Fair and Prosperous Future for the People of Rakhine",
+    "mImageUrls": "https://lh3.googleusercontent.com/d/1lzMYlQJ4R6rIZpPZEPamt7wY1GZ1DO_a",
+    "mDescription": "The commission's final report and 88 recommendations on citizenship, rights and reconciliation.\nAuthor : Advisory Commission on Rakhine State (chaired by Kofi Annan)\nYear : 2017\nPages : 66\nFile Size : 0.4 MB",
+    "mdwnurl": "https://drive.google.com/uc?export=download&id=1KSKYFaNIMhyizWbvGqOulz3v_uXPamUa",
+    "views": 0
+   },
+   {
+    "id": "0b1ec467-f2bd-4a4f-898b-628ae9c60dcb",
+    "mNames": "Two Settlements, Two Diverging Paths: Jobs and Labor Market Outcomes for the Displaced Rohingya",
+    "mImageUrls": "https://lh3.googleusercontent.com/d/1GDVf_6TwpOK9qsE6GKIpADdhpt9Bn9ge",
+    "mDescription": "Comparing jobs and livelihoods on Bhasan Char and in Cox's Bazar.\nAuthor : World Bank\nYear : 2025\nPages : 36\nFile Size : 1.2 MB",
+    "mdwnurl": "https://drive.google.com/uc?export=download&id=1kyAeIEfw_QdhTiyXahW5SYTZ-AWdsxPN",
+    "views": 0
+   },
+   {
+    "id": "25acd0e1-168d-4195-99f4-7c1dfd473a1e",
+    "mNames": "Understanding Bangladesh's Historical Perspectives through the 2017 Rohingya Crisis",
+    "mImageUrls": "https://lh3.googleusercontent.com/d/1IqqavJlF7G7lQtL6-qgAGd4PEtYIBj90",
+    "mDescription": "Master's thesis (Harvard) on how 1971 shaped Bangladesh's welcome in 2017.\nAuthor : Nadia Islam-Maswood\nYear : 2024\nPages : 147\nFile Size : 1.8 MB",
+    "mdwnurl": "https://drive.google.com/uc?export=download&id=1TufyxfUnv_4TjZkOZyN_-_y28MxSs5RE",
+    "views": 0
+   },
+   {
+    "id": "efa78f64-0740-4dec-9a0f-a88b2ff2b5ff",
+    "mNames": "United Nations Humanitarian Response to the Rohingya Crisis, 2001–2018",
+    "mImageUrls": "https://lh3.googleusercontent.com/d/17Y_dvM4asfrfINzFbur0OtPLOBhHT2CN",
+    "mDescription": "Master's thesis (Emory University) comparing UN funding inside Myanmar and in Bangladesh.\nAuthor : Matthews Howard-Mparuri Mandela-Dubois\nYear : 2018\nPages : 46\nFile Size : 1.2 MB",
+    "mdwnurl": "https://drive.google.com/uc?export=download&id=1jsfn67lCyk9xiRjFxHuhlu2ymEO1D09H",
+    "views": 0
+   },
+   {
+    "id": "22334dc1-48c5-4d86-824f-dfed114facf4",
+    "mNames": "Voices Amid Strife: Rohingya Perceptions of the Arakan Army, War in Rakhine, and Justice",
+    "mImageUrls": "https://lh3.googleusercontent.com/d/1NM8oWA9xj33XELQedICeVFnHqy39EmVC",
+    "mDescription": "Rohingya views of the Arakan Army's rise after the 2021 coup, from 40 interviews.\nAuthor : Myanmar Digital Research\nYear : 2025\nPages : 55\nFile Size : 1.4 MB",
+    "mdwnurl": "https://drive.google.com/uc?export=download&id=1uihcSF064CQB0NIffEvCpCyJ-JvtiFnn",
+    "views": 0
+   },
+   {
+    "id": "3f92db1c-c879-44a4-ab9c-c8e478886c38",
+    "mNames": "We Must Prevent a Lost Generation: Community-Led Education in Rohingya Camps",
+    "mImageUrls": "https://lh3.googleusercontent.com/d/1gfKpsK4qCRxKf6m3kwE5wZL1ELcdpRIF",
+    "mDescription": "Mapping study of refugee-led teacher networks in the camps.\nAuthor : Jessica Olney, Nurul Haque and Roshid Mubarak (PRIO)\nYear : 2019\nPages : 49\nFile Size : 1.4 MB",
+    "mdwnurl": "https://drive.google.com/uc?export=download&id=1JWvUSFlkie7ySW-DRvk9LRrqp_v9iWxW",
+    "views": 0
+   },
+   {
+    "id": "3826d91c-2b17-4033-833f-fd9c9698ea3c",
+    "mNames": "Widespread and Systematic: Violence against the Rohingya in Myanmar",
+    "mImageUrls": "https://lh3.googleusercontent.com/d/1KSpmggX3_LmVmy99NYIxZ5h26E4dPZc-",
+    "mDescription": "A survey of 604 Rohingya hamlet leaders documenting the pattern of violence in 2017.\nAuthor : Physicians for Human Rights\nYear : 2018\nPages : 8\nFile Size : 0.4 MB",
+    "mdwnurl": "https://drive.google.com/uc?export=download&id=1KBCZk4XMf2geJZ4aIssxbCzpsAmVXOOx",
+    "views": 0
+   },
+   {
+    "id": "7278d0e8-65b1-4fcd-8f8f-923f736523c1",
+    "mNames": "Witness to Horror: Rohingya Women Speak Out",
+    "mImageUrls": "https://lh3.googleusercontent.com/d/1sXnB9ol-BpClgVspASXDR_Q1Fy09Wc75",
+    "mDescription": "Testimony of Rohingya women on army rape and atrocities in Maungdaw, October–December 2016.\nAuthor : Razia Sultana (Kaladan Press Network)\nYear : 2017\nPages : 27\nFile Size : 1.9 MB",
+    "mdwnurl": "https://drive.google.com/uc?export=download&id=1v62uEHmjjecHZyGj704t3EgBtkBSyAms",
+    "views": 0
+   },
+   {
+    "id": "cf51eb33-885b-4a8d-973c-0f3942bc55f6",
+    "mNames": "Zimmadari and Gendered Belonging: The Lived Experiences of Rohingya Men in Refugee Camps",
+    "mImageUrls": "https://lh3.googleusercontent.com/d/1N1vpbqS0r5QhFhGHKSKCvFrZPx1RTOOk",
+    "mDescription": "PhD thesis (Australian National University) on young Rohingya men, masculinity and belonging.\nAuthor : Mohammad Ibrahim Khalad\nYear : 2025\nPages : 256\nFile Size : 2.4 MB",
+    "mdwnurl": "https://drive.google.com/uc?export=download&id=1-xvLG-UGkym5xded9hFLCqg0VxFsd_R6",
+    "views": 0
+   }
+  ],
+  "RohingyaBooks": [
+   {
+    "id": "4899ef2c-d16d-4553-9f50-ed3c30d63d48",
+    "mNames": "English Rohingya Shiko (Learn English)",
+    "mImageUrls": "https://lh3.googleusercontent.com/d/1hXFA7HInKuyIgutpe6dvNNBdH47dgKZE",
+    "mDescription": "Learn English, explained in Rohingya in Hanifi script.\nYear : 2023\nLanguage : Rohingya (Hanifi script), English\nPages : 23\nFile Size : 12.9 MB",
+    "mdwnurl": "https://drive.google.com/uc?export=download&id=1l-GaGQjrVDQscFzuaEJdwCqi2tVMKF32",
+    "views": 0
+   },
+   {
+    "id": "0caddc27-0aed-4bde-8a46-133626abd34c",
+    "mNames": "First Class Reader (Handwritten, 1982)",
+    "mImageUrls": "https://lh3.googleusercontent.com/d/1RL_ikCGqk4NWmoN18ji1jzca51NTn-xV",
+    "mDescription": "A handwritten first-class Rohingya reader from 1982, scanned.\nYear : 1982\nLanguage : Rohingya (Hanifi script)\nPages : 28\nFile Size : 12.8 MB",
+    "mdwnurl": "https://drive.google.com/uc?export=download&id=1ImD9l7H7gDEqFvFHieri5IW7_7Lia6OB",
+    "views": 0
+   },
+   {
+    "id": "cad74cfb-cf95-4492-9ddb-dc3f040555a6",
+    "mNames": "Hokdar News (1997–2000)",
+    "mImageUrls": "https://lh3.googleusercontent.com/d/1l2IdfN1ZrsURJArJ0Oih_oBEpX_dlxjk",
+    "mDescription": "Issues of the Rohingya newspaper Hokdar News, 1997 to 2000, scanned.\nYear : 1997\nLanguage : Rohingya (Hanifi script)\nPages : 6\nFile Size : 5.1 MB",
+    "mdwnurl": "https://drive.google.com/uc?export=download&id=1L1lm3zZzV10L-6tU5K6cHq0I7gBSxEdy",
+    "views": 0
+   },
+   {
+    "id": "1e32886d-3bce-49e7-999d-965fae98cd12",
+    "mNames": "Learn Arabic, English and Rohingya",
+    "mImageUrls": "https://lh3.googleusercontent.com/d/1znU0Zm94Sbgsw99O3gYDHkMZHBzX-zPY",
+    "mDescription": "A trilingual Rohingya, Arabic and English learning book, scanned.\nLanguage : Rohingya (Hanifi script), Arabic, English\nPages : 30\nFile Size : 14.6 MB",
+    "mdwnurl": "https://drive.google.com/uc?export=download&id=1munwZu52eJMsLFoiR2nsr_FGyy8dftuw",
+    "views": 0
+   },
+   {
+    "id": "80d177fb-7dbb-48d1-8502-5b60ab072d7c",
+    "mNames": "Names of Animals (Handwritten, 1999)",
+    "mImageUrls": "https://lh3.googleusercontent.com/d/1tJHncsffywjLY6NWG03u4Lne-Aribjv3",
+    "mDescription": "Animal names in Rohingya, a handwritten manuscript from 1999, scanned.\nYear : 1999\nLanguage : Rohingya (Hanifi script)\nPages : 37\nFile Size : 16.9 MB",
+    "mdwnurl": "https://drive.google.com/uc?export=download&id=1ngtfvpt6awSH5_KtX8PUxegJjidyGpJM",
+    "views": 0
+   },
+   {
+    "id": "848d77ed-2475-4502-8792-0007e5f99b1a",
+    "mNames": "Names of Countries (Handwritten, 2001)",
+    "mImageUrls": "https://lh3.googleusercontent.com/d/15d7dimfYGGs6HE2UdY3hQG8FpewmWOiM",
+    "mDescription": "Country names written in Rohingya, a handwritten manuscript from 2001, scanned.\nYear : 2001\nLanguage : Rohingya (Hanifi script)\nPages : 32\nFile Size : 12.9 MB",
+    "mdwnurl": "https://drive.google.com/uc?export=download&id=1SXbdQ5dm3h6rqoQzGbCM6lc7nM94uGz4",
+    "views": 0
+   },
+   {
+    "id": "eea0ca2b-74e9-4c11-b174-5e297d649f96",
+    "mNames": "Qaida (Handwritten, 1990)",
+    "mImageUrls": "https://lh3.googleusercontent.com/d/1Qnxgi0QSrKEs_zXgtEOi6dUsNcYfr8j5",
+    "mDescription": "A handwritten Rohingya alphabet primer (qaida) from 1990, scanned.\nYear : 1990\nLanguage : Rohingya (Hanifi script)\nPages : 28\nFile Size : 6.7 MB",
+    "mdwnurl": "https://drive.google.com/uc?export=download&id=1-TO91m2t-UlInk0jgV8lYvYiuNyflOKe",
+    "views": 0
+   },
+   {
+    "id": "bfe83e74-a164-439d-b397-e1f3c2f70792",
+    "mNames": "Questions and Answers for Students (Handwritten, 1987)",
+    "mImageUrls": "https://lh3.googleusercontent.com/d/1hf2fzV5uKzhF3jKksr96Cr0KrLRMGSu-",
+    "mDescription": "A handwritten question-and-answer book for Rohingya students, 1987, scanned.\nYear : 1987\nLanguage : Rohingya (Hanifi script)\nPages : 24\nFile Size : 12.1 MB",
+    "mdwnurl": "https://drive.google.com/uc?export=download&id=1eqWGzsK1Zw8PY-Tmfw4wkvAVubUVyv9E",
+    "views": 0
+   },
+   {
+    "id": "b73c3b94-e121-4e2c-a118-10dc65951112",
+    "mNames": "Questions and Answers for Students (Handwritten, 1994)",
+    "mImageUrls": "https://lh3.googleusercontent.com/d/17Unf2kUrFSgyP_AOhxPjEcwHkM-NdWue",
+    "mDescription": "A handwritten question-and-answer book for Rohingya students, 1994, scanned.\nYear : 1994\nLanguage : Rohingya (Hanifi script)\nPages : 88\nFile Size : 29.8 MB",
+    "mdwnurl": "https://drive.google.com/uc?export=download&id=1ZQQe1nABUGymTXWA8juzbGWW_f-8mCLF",
+    "views": 0
+   },
+   {
+    "id": "54e61b3d-895e-4e8e-8df2-568677cd5bad",
+    "mNames": "Rohingya Language Book 3",
+    "mImageUrls": "https://lh3.googleusercontent.com/d/1ZvTHYQDbNO7Jk8tbQNbZG0qRft6RX3jC",
+    "mDescription": "Rohingya-language school textbook, book 3, from the Rohingya Project school series.\nLanguage : Rohingya (Hanifi script)\nPages : 60\nFile Size : 14.0 MB",
+    "mdwnurl": "https://drive.google.com/uc?export=download&id=1nRyYA68VUpQDFqO1BGX61sz4jl1VqyTE",
+    "views": 0
+   },
+   {
+    "id": "81646d46-b2aa-4f9b-826d-cfd7a0d155a3",
+    "mNames": "Rohingya Language Book 4",
+    "mImageUrls": "https://lh3.googleusercontent.com/d/1_YWgjlD2LKZPk2Iywm48BCoZcxsLI23n",
+    "mDescription": "Rohingya-language school textbook, book 4, from the Rohingya Project school series.\nLanguage : Rohingya (Hanifi script)\nPages : 78\nFile Size : 17.3 MB",
+    "mdwnurl": "https://drive.google.com/uc?export=download&id=1tXo25CS6KcabhgVFYe-sSZfhYAXfwOsO",
+    "views": 0
+   },
+   {
+    "id": "cb060a54-564e-46f8-a924-924450867b38",
+    "mNames": "Rohingya Language Book A–Z",
+    "mImageUrls": "https://lh3.googleusercontent.com/d/1UOM5CSNy7DJLPTYOv-TLaItgKzIwHs7q",
+    "mDescription": "Introductory primer to Rohingyalish, the Latin-based writing system for the Rohingya language.\nAuthor : Eng. Mohammed Siddique Basu\nLanguage : Rohingya (Latin script), English\nPages : 117\nFile Size : 6.4 MB",
+    "mdwnurl": "https://drive.google.com/uc?export=download&id=1dj4C-npDArwwBozXj3sK-p2hyuiqo-At",
+    "views": 0
+   },
+   {
+    "id": "c8009922-075c-4929-96c7-06c6d6bb767c",
+    "mNames": "Rohingya Magazine (Handwritten, 1985), No. 1",
+    "mImageUrls": "https://lh3.googleusercontent.com/d/1OnT3e3OLDjYPwJEOjdZ3ic3ksM_daqhA",
+    "mDescription": "A handwritten Rohingya magazine from 1985, scanned.\nYear : 1985\nLanguage : Rohingya (Hanifi script)\nPages : 19\nFile Size : 6.9 MB",
+    "mdwnurl": "https://drive.google.com/uc?export=download&id=1iIld7fG59Szs8tsxeGBJ4llZnDdwFxgU",
+    "views": 0
+   },
+   {
+    "id": "7e4f03e1-a9cb-47ae-a017-464f270f8e6d",
+    "mNames": "Rohingya Magazine (Handwritten, 1988)",
+    "mImageUrls": "https://lh3.googleusercontent.com/d/1ENRtCJe8QEi9eqMo_3nA2MwI6PtqxUuU",
+    "mDescription": "A handwritten Rohingya magazine from 1988, scanned.\nYear : 1988\nLanguage : Rohingya (Hanifi script)\nPages : 16\nFile Size : 6.0 MB",
+    "mdwnurl": "https://drive.google.com/uc?export=download&id=1epvVjhRkcHU_GHf_yMRtGwOkbW_xfCoq",
+    "views": 0
+   },
+   {
+    "id": "073551fc-9ecc-466a-bd45-43a921c6a71a",
+    "mNames": "Rohingya Magazine (Handwritten, 1988), No. 2",
+    "mImageUrls": "https://lh3.googleusercontent.com/d/11PrPXdOojhsJrd_gIPEDRZTy9nylsOqX",
+    "mDescription": "A handwritten Rohingya magazine from 1988, second issue, scanned.\nYear : 1988\nLanguage : Rohingya (Hanifi script)\nPages : 16\nFile Size : 6.2 MB",
+    "mdwnurl": "https://drive.google.com/uc?export=download&id=13God_MiEE-UN-v8YZvqA0_7aNV16uJXq",
+    "views": 0
+   },
+   {
+    "id": "33edd6fc-5be3-4a88-b80f-4b9ae09d62b4",
+    "mNames": "Rohingya Newspapers (from 1999)",
+    "mImageUrls": "https://lh3.googleusercontent.com/d/1yGEpi1GPCV0x31DPXfouFKomsPD2vYWM",
+    "mDescription": "Rohingya newspaper issues from 1999 onwards, scanned.\nYear : 1999\nLanguage : Rohingya (Hanifi script)\nPages : 10\nFile Size : 6.6 MB",
+    "mdwnurl": "https://drive.google.com/uc?export=download&id=1uEx-tr3g1xbqnNq8RAyFnM0_heGaeJ1U",
+    "views": 0
+   },
+   {
+    "id": "f7ad49d8-c41a-42c5-9e5d-2a7b2a2cf4c0",
+    "mNames": "Rohingya Shair (Poems)",
+    "mImageUrls": "https://lh3.googleusercontent.com/d/1cEXNlpAVG0mL4Jz4OYQDdpIXAEkxpaaq",
+    "mDescription": "Rohingya shair — traditional poems, scanned.\nLanguage : Rohingya (Hanifi script)\nPages : 22\nFile Size : 9.6 MB",
+    "mdwnurl": "https://drive.google.com/uc?export=download&id=1ESisIlEeO77onImR911GHkXdrJTbQ4JT",
+    "views": 0
+   },
+   {
+    "id": "a03e666a-3662-4154-acad-d070b3cfb615",
+    "mNames": "Rohingya to Urdu",
+    "mImageUrls": "https://lh3.googleusercontent.com/d/1_X6fkOnfFRkAKJD-meiqhmxHUKwSlAlL",
+    "mDescription": "A short Rohingya–Urdu word list, scanned.\nLanguage : Rohingya (Hanifi script), Urdu\nPages : 6\nFile Size : 1.8 MB",
+    "mdwnurl": "https://drive.google.com/uc?export=download&id=1cH-jd-2k66oyOAH4XngYUAZd05IiDJAS",
+    "views": 0
+   },
+   {
+    "id": "13068573-ed3e-4bb4-8c12-c2ffd74b76ab",
+    "mNames": "Rohingya Zuban to Arabic (Handwritten, 1988)",
+    "mImageUrls": "https://lh3.googleusercontent.com/d/1HB4Bt_xc6WnFC3zG7qw5W84Fsou4Ix9I",
+    "mDescription": "A handwritten Rohingya–Arabic language book from 1988, scanned.\nYear : 1988\nLanguage : Rohingya (Hanifi script), Arabic\nPages : 32\nFile Size : 10.0 MB",
+    "mdwnurl": "https://drive.google.com/uc?export=download&id=13p3YPfIXOFnLltjUTN1c0LfG_J-nsuS5",
+    "views": 0
+   },
+   {
+    "id": "e4595a68-02bc-48f3-8cba-054a44b64535",
+    "mNames": "Rohingya, English and Arabic (Handwritten, 1989)",
+    "mImageUrls": "https://lh3.googleusercontent.com/d/18HJpom7pdG9LGFaXiDHrJIYdhtdFezEE",
+    "mDescription": "A handwritten Rohingya–English–Arabic word book from 1989, scanned.\nYear : 1989\nLanguage : Rohingya (Hanifi script), English, Arabic\nPages : 38\nFile Size : 15.0 MB",
+    "mdwnurl": "https://drive.google.com/uc?export=download&id=1jbMCPqXlh2s5sU-8S1slp8T43oQP5XKz",
+    "views": 0
+   },
+   {
+    "id": "fe5cd839-85c6-4ca9-8d32-b31954fae41d",
+    "mNames": "Rohingyalish Book 1 (Ruáingga Zuban or Foóila Kitab)",
+    "mImageUrls": "https://lh3.googleusercontent.com/d/1yENzdabiwIeOnRB845CUUQfJqbmznTiQ",
+    "mDescription": "First Rohingyalish primer from the Rohingya Language Foundation: alphabet, numbers and first lessons.\nAuthor : Eng. Mohammed Siddique Basu\nYear : 2014\nLanguage : Rohingya (Latin script)\nPages : 70\nFile Size : 5.2 MB",
+    "mdwnurl": "https://drive.google.com/uc?export=download&id=1YwWKh8iyeU-ZmMZrz6_1RiSDOqo_9bko",
+    "views": 0
+   },
+   {
+    "id": "c44f3b48-fa11-4260-b73f-61ef94b047eb",
+    "mNames": "Serak Magazine (Handwritten, 1987)",
+    "mImageUrls": "https://lh3.googleusercontent.com/d/1hIpXQuw4_9Ul-wmeqj_kPNOAw1FjvilO",
+    "mDescription": "A handwritten issue of the Rohingya magazine Serak from 1987, scanned.\nYear : 1987\nLanguage : Rohingya (Hanifi script)\nPages : 16\nFile Size : 4.8 MB",
+    "mdwnurl": "https://drive.google.com/uc?export=download&id=1LOPltQVjp98dS4hUEjXYM5KljBgtNdK6",
+    "views": 0
+   },
+   {
+    "id": "465a1cf9-1b73-45e2-aec3-6d72c91f9574",
+    "mNames": "Shurur Kitab Foro (KG)",
+    "mImageUrls": "https://lh3.googleusercontent.com/d/1P46h9fCcIca0I4_8fvxwIBArnR810WcP",
+    "mDescription": "Kindergarten first reader in Rohingya, Hanifi script.\nLanguage : Rohingya (Hanifi script)\nPages : 20\nFile Size : 2.8 MB",
+    "mdwnurl": "https://drive.google.com/uc?export=download&id=1hqHAdznjDR4qbgH2k5ptxCubRjmsLFKx",
+    "views": 0
+   },
+   {
+    "id": "a1908fbb-e412-4c3f-9935-fa57ccf2521f",
+    "mNames": "The First Rohingya Reader",
+    "mImageUrls": "https://lh3.googleusercontent.com/d/1bEMdiTjhDiZZMVn40Juw8HZF2qarQ1CJ",
+    "mDescription": "A first reader for learning to read Rohingya, scanned.\nLanguage : Rohingya (Hanifi script)\nPages : 28\nFile Size : 10.8 MB",
+    "mdwnurl": "https://drive.google.com/uc?export=download&id=12gduNcLfGg92QXfL5MZRGvtgYyWbbs9Z",
+    "views": 0
+   },
+   {
+    "id": "fbeb2626-4584-45db-832e-aede1ebdd8ed",
+    "mNames": "The Muslim Countries of the World",
+    "mImageUrls": "https://lh3.googleusercontent.com/d/1C3cplYQWW9HH-0cZDpS9RUsTaXLj2Vw5",
+    "mDescription": "An overview of the world's Muslim-majority countries, written in Rohingya.\nLanguage : Rohingya (Hanifi script)\nPages : 74\nFile Size : 31.8 MB",
+    "mdwnurl": "https://drive.google.com/uc?export=download&id=1pOIKJCc-jQ7qoNyPOoXVGxMHjEsuwZVK",
+    "views": 0
+   },
+   {
+    "id": "ddfb2e3a-4aaf-4cd1-a41d-2dc531db806c",
+    "mNames": "World Atlas (Handwritten, 2004)",
+    "mImageUrls": "https://lh3.googleusercontent.com/d/1cyibKU5Gc35GdhJIaSrqiQ0ko5KxR0Od",
+    "mDescription": "A hand-drawn world atlas with Rohingya place names, completed 11 March 2004, scanned.\nYear : 2004\nLanguage : Rohingya (Hanifi script)\nPages : 26\nFile Size : 8.2 MB",
+    "mdwnurl": "https://drive.google.com/uc?export=download&id=1G95e7II4hMIiCFSGNe-7K80wQn6V8g6B",
+    "views": 0
+   },
+   {
+    "id": "e9943cbb-e032-44ca-aa56-2cf1717f594e",
+    "mNames": "World Atlas in Rohingya",
+    "mImageUrls": "https://lh3.googleusercontent.com/d/1_iLcdiMhkFjLBbaFdZtxAS_6NnKWGd_H",
+    "mDescription": "A world atlas in the Rohingya language, scanned.\nLanguage : Rohingya (Hanifi script)\nPages : 30\nFile Size : 14.0 MB",
+    "mdwnurl": "https://drive.google.com/uc?export=download&id=19GLcrmc3oOnvoj0m_jzzjPOF6HiyypI8",
+    "views": 0
+   },
+   {
+    "id": "e3c008e7-935e-4951-a2fb-06cd87c99c04",
+    "mNames": "World Atlas in Rohingya (Typed)",
+    "mImageUrls": "https://lh3.googleusercontent.com/d/120OXtlZX5BGIApaR_LxevcJLvelokT2a",
+    "mDescription": "A world atlas with place names in Rohingya, typed edition.\nLanguage : Rohingya (Hanifi script)\nPages : 50\nFile Size : 21.5 MB",
+    "mdwnurl": "https://drive.google.com/uc?export=download&id=1Jrsekt5GuoboofSJHKC48FlGCsb691RH",
+    "views": 0
+   }
+  ],
+  "HistoricalBooks": [
+   {
+    "id": "7fa47fbb-4d0d-4ebc-ab38-dc08eaf3c453",
+    "mNames": "Ancient Arakan",
+    "mImageUrls": "https://lh3.googleusercontent.com/d/1ClmBksn8a7VDSkbqoPp7U4SkE-ijTQp7",
+    "mDescription": "PhD thesis (Australian National University) on early Arakan: inscriptions, coins, monuments and political history to the 11th century.\nAuthor : Pamela Gutman\nYear : 1976\nPages : 507\nFile Size : 119.7 MB",
+    "mdwnurl": "https://drive.google.com/uc?export=download&id=1PPn_M2i74P6y3bHsHz-WK2Adh4w-5YdZ",
+    "views": 0
+   },
+   {
+    "id": "a41f0d7e-0119-4ba7-b47e-5e0e807dd086",
+    "mNames": "Arakan, Min Yazagyi, and the Portuguese",
+    "mImageUrls": "https://lh3.googleusercontent.com/d/1Ikzb-4YIfWLx-lPpi02kPMZY_5V38FaJ",
+    "mDescription": "MA thesis on the rise of Arakanese imperial power and Portuguese mercenaries, 1517–1617.\nAuthor : Michael W. Charney\nYear : 1993\nPages : 172\nFile Size : 0.8 MB",
+    "mdwnurl": "https://drive.google.com/uc?export=download&id=12tN2LM-blLDAR_qbxECVYxNFmXgf4lOw",
+    "views": 0
+   },
+   {
+    "id": "380abd1e-03ab-49cf-b414-a82674f718d1",
+    "mNames": "Burma Gazetteer: Akyab District, Vol. A",
+    "mImageUrls": "https://lh3.googleusercontent.com/d/1ACG2veHfYv9LzDD8pLWI9l5Zso2TY5qP",
+    "mDescription": "The official 1917 district gazetteer of Akyab (Sittwe, Maungdaw, Buthidaung): history, people, archaeology and administration.\nAuthor : R. B. Smart\nYear : 1917\nPages : 267\nFile Size : 0.9 MB",
+    "mdwnurl": "https://drive.google.com/uc?export=download&id=1NMeeDGp1uYWpeTfBfjvVNSd_LZs5Mzp0",
+    "views": 0
+   },
+   {
+    "id": "f54c456c-7e70-487b-91b0-0e5ddfec2b94",
+    "mNames": "Burma Gazetteer: Hill District of Arakan, Vol. B",
+    "mImageUrls": "https://lh3.googleusercontent.com/d/1mutr9zJQppJM4vqvuSh9Pfq_YPCDz31k",
+    "mDescription": "Statistical tables and town and village lists for the Arakan Hill District.\nAuthor : Government of Burma\nYear : 1924\nPages : 54\nFile Size : 1.1 MB",
+    "mdwnurl": "https://drive.google.com/uc?export=download&id=1jV0R4ubC2txrqgRXgRydx7P3gQwj9n6i",
+    "views": 0
+   },
+   {
+    "id": "e2899be8-95e5-4f13-8a11-56eb5e34af82",
+    "mNames": "Burma Gazetteer: Kyaukpyu District, Vol. B",
+    "mImageUrls": "https://lh3.googleusercontent.com/d/1lYxARcfjgwQZQjDWbAQIwBNVKy6qBWf5",
+    "mDescription": "Statistical tables for Kyaukpyu District on the Arakan coast, including Ramree and Cheduba.\nAuthor : Government of Burma\nYear : 1924\nPages : 54\nFile Size : 1.1 MB",
+    "mdwnurl": "https://drive.google.com/uc?export=download&id=1RAdgJoXYwCETHXRnPOyfw4oSGpEoKqjX",
+    "views": 0
+   },
+   {
+    "id": "db805370-62c9-4746-a356-61d4f27de3ad",
+    "mNames": "Burma Gazetteer: Sandoway District, Vol. A",
+    "mImageUrls": "https://lh3.googleusercontent.com/d/1MrJHl8WbkU39TLy1mc3J_xWykmEXoJ_3",
+    "mDescription": "The 1912 district gazetteer of Sandoway (Thandwe) in southern Arakan.\nAuthor : W. B. Tydd\nYear : 1912\nPages : 128\nFile Size : 0.4 MB",
+    "mdwnurl": "https://drive.google.com/uc?export=download&id=1Reqr1pqmybfcppAGhGOqeFQ_s5WTxGaj",
+    "views": 0
+   },
+   {
+    "id": "cb3eb49b-f06b-459e-979e-8c673eff2a94",
+    "mNames": "Burma Gazetteer: Sandoway District, Vol. B",
+    "mImageUrls": "https://lh3.googleusercontent.com/d/1mwBtji7SiQ8ou1zJVX1gZh2_fOWoJwCO",
+    "mDescription": "Statistical tables for Sandoway District, Arakan Division.\nAuthor : Government of Burma\nYear : 1912\nPages : 44\nFile Size : 2.3 MB",
+    "mdwnurl": "https://drive.google.com/uc?export=download&id=1qs4ajGVEKMP_AgIXsycqCcxKCvaB9gE6",
+    "views": 0
+   },
+   {
+    "id": "9980f2f6-af03-43fd-8fc8-633eaccb2985",
+    "mNames": "History of Arakan (Handwritten, 1982)",
+    "mImageUrls": "https://lh3.googleusercontent.com/d/1TmICvVXzgBVZWDmvWn1OUpI9bviHl0Eo",
+    "mDescription": "A handwritten history of Arakan in Rohingya from 1982, scanned.\nYear : 1982\nLanguage : Rohingya (Hanifi script)\nPages : 78\nFile Size : 39.4 MB",
+    "mdwnurl": "https://drive.google.com/uc?export=download&id=1_14S8xJmdKAPyPqD6IMmmTtihbqQvf3H",
+    "views": 0
+   },
+   {
+    "id": "2e551f29-3098-4cd3-8459-8a23eb0bcf35",
+    "mNames": "History of Arakan (Rohingya)",
+    "mImageUrls": "https://lh3.googleusercontent.com/d/10uoldIc6kiIAXWWug7a8EmrNQ9B2IJx8",
+    "mDescription": "A history of Arakan written in Rohingya, scanned.\nLanguage : Rohingya (Hanifi script)\nPages : 32\nFile Size : 13.9 MB",
+    "mdwnurl": "https://drive.google.com/uc?export=download&id=15rfrW4c0InvTRX8ATiwPg8FJ7AhiytJN",
+    "views": 0
+   },
+   {
+    "id": "703e07be-9889-4cbb-b645-55f4b23ac31d",
+    "mNames": "History of the Rohingya (Handwritten, 1989)",
+    "mImageUrls": "https://lh3.googleusercontent.com/d/1jforSjJ6nQ5sg7U0ESsH8saHNnGCDLu3",
+    "mDescription": "A handwritten history of the Rohingya from 1989, scanned.\nYear : 1989\nLanguage : Rohingya (Hanifi script)\nPages : 20\nFile Size : 7.2 MB",
+    "mdwnurl": "https://drive.google.com/uc?export=download&id=1wMbKn83YDLhlbH4HUJHqf0u4AQ7dFRK5",
+    "views": 0
+   },
+   {
+    "id": "698f3ee5-b3bc-4b35-9a57-b1ba8d36c21e",
+    "mNames": "Memoir of Mrs. Sarah D. Comstock, Missionary to Arracan",
+    "mImageUrls": "https://lh3.googleusercontent.com/d/18d2aJ2bZpS_jc6HPsCtQCFxhmVLLzFaf",
+    "mDescription": "Letters and journals of an American Baptist missionary in Arakan, 1830s–1840s.\nAuthor : Amanda M. Edmond\nYear : 1854\nPages : 242\nFile Size : 5.7 MB",
+    "mdwnurl": "https://drive.google.com/uc?export=download&id=1lJyMgSztNEAyTRzeeE5_zJci-z12TgRg",
+    "views": 0
+   },
+   {
+    "id": "04e36f53-027f-42bc-8b21-c5633f033f53",
+    "mNames": "Narrative of the Shipwreck of the Juno on the Coast of Aracan",
+    "mImageUrls": "https://lh3.googleusercontent.com/d/1hu97QbqMutp7ToHv5_i-1fVvaUyCoyiy",
+    "mDescription": "The second officer's account of the 1795 wreck of the Juno on the Arakan coast — an early Western account of Arakan.\nAuthor : William Mackay\nYear : 1798\nPages : 75\nFile Size : 10.6 MB",
+    "mdwnurl": "https://drive.google.com/uc?export=download&id=1sjnz--H0Q8oxrSsQRLrd-Gowkb-ElCNm",
+    "views": 0
+   },
+   {
+    "id": "e86806a6-76c6-4e33-be71-4ca29a51ec79",
+    "mNames": "Notes on Arakan",
+    "mImageUrls": "https://lh3.googleusercontent.com/d/1MUo02d5LbYBfgbG7ZPUWMOXZyd_VgR32",
+    "mDescription": "An American missionary's account of Arakan, 1834–1844: its peoples, religions and early British rule.\nAuthor : G. S. Comstock\nYear : 1847\nPages : 48\nFile Size : 8.6 MB",
+    "mdwnurl": "https://drive.google.com/uc?export=download&id=17sG66BNVAkjWzmSn90ysgVpEsZEWmRYm",
+    "views": 0
+   },
+   {
+    "id": "997cb3a5-5d63-49cd-a520-fd63a0000f59",
+    "mNames": "Rakhine Razawin Thit (New Chronicle of Arakan), Vol. 2",
+    "mImageUrls": "https://lh3.googleusercontent.com/d/1_JqFsKEtO7orbZFCTfPAxaQ776aec0RO",
+    "mDescription": "The 1931 New Chronicle of Arakan, compiling earlier Arakanese chronicles up to the 1826 annexation.\nAuthor : Ashin Sandamala Linkara\nYear : 1931\nLanguage : Burmese\nPages : 524\nFile Size : 35.7 MB",
+    "mdwnurl": "https://drive.google.com/uc?export=download&id=1KLPpQbpK1OTbrdfAZkqoGzgUinbCHKfc",
+    "views": 0
+   },
+   {
+    "id": "27806a64-847d-4961-b1a6-f974c42acdae",
+    "mNames": "Report on the Administration of the Hill Tracts, Northern Arakan, 1871–72",
+    "mImageUrls": "https://lh3.googleusercontent.com/d/1V4gZEqhtgB2ejD-SRWsTYthXN4D6fvyI",
+    "mDescription": "The first official report on British administration of the hill country of northern Arakan.\nAuthor : British Burma Government\nYear : 1872\nPages : 76\nFile Size : 51.2 MB",
+    "mdwnurl": "https://drive.google.com/uc?export=download&id=1-jBBrO2_w2L7ZI7y1ATg_c1aKsH_RKY-",
+    "views": 0
+   },
+   {
+    "id": "f445c26b-29e9-4f38-b7a4-2cb9f1def40a",
+    "mNames": "Rohingya History: Myth and Reality",
+    "mImageUrls": "https://lh3.googleusercontent.com/d/1WTttdzkW7bePis_Ma2jqsGQVcgkjab-N",
+    "mDescription": "A Rohingya politician's history of the Rohingya, answering critics of Rohingya historiography.\nAuthor : Zul Nurain (U Kyaw Min)\nYear : 2010\nPages : 76\nFile Size : 0.5 MB",
+    "mdwnurl": "https://drive.google.com/uc?export=download&id=1tDYBBOwypFURgU0hZ1lfJxwA_9s68eaL",
+    "views": 0
+   },
+   {
+    "id": "51726b39-4f86-43ae-9731-cc9b242b8ee6",
+    "mNames": "The Arakan Operations, 1942–45",
+    "mImageUrls": "https://lh3.googleusercontent.com/d/1hLTn_0owCTBXhT6b7fafhbG-hIDususR",
+    "mDescription": "Official history of the Arakan campaigns of the Second World War, from the first Arakan offensive to the Ramree and Akyab landings.\nAuthor : Historical Section, Ministry of Defence, India\nPages : 440\nFile Size : 27.4 MB",
+    "mdwnurl": "https://drive.google.com/uc?export=download&id=1PiYSXBCvhZ4-jNtwOqiBgFI9hNGbVkrs",
+    "views": 0
+   },
+   {
+    "id": "6327f0ed-1044-44a0-a6a1-91f5edb404de",
+    "mNames": "The Burmese & Arakanese Calendars",
+    "mImageUrls": "https://lh3.googleusercontent.com/d/1u0FTM9rsDMFO-lSy6Lr11zh6CSkA9Dnl",
+    "mDescription": "A study of the Burmese and Arakanese lunisolar calendars and eras.\nAuthor : A. M. B. Irwin\nYear : 1909\nPages : 110\nFile Size : 5.6 MB",
+    "mdwnurl": "https://drive.google.com/uc?export=download&id=1dIHBYgiuEJ3epMalUCTUSaMLVWG6raM8",
+    "views": 0
+   },
+   {
+    "id": "be43be49-e621-4538-a682-3bd4a8e60f60",
+    "mNames": "Travels of Fray Sebastien Manrique, 1629–1643",
+    "mImageUrls": "https://lh3.googleusercontent.com/d/1ojG3BWUs1-JsVzbGWS7q82yVVq_pSlcV",
+    "mDescription": "The Portuguese friar's travels, with the first volume devoted to the Kingdom of Arakan and the Mrauk-U court.\nAuthor : Sebastien Manrique; trans. C. Eckford Luard and H. Hosten\nYear : 1927\nPages : 478\nFile Size : 6.8 MB",
+    "mdwnurl": "https://drive.google.com/uc?export=download&id=13Xhijaj-tAIQvET6ZhYqoNKNE6xNNN0m",
+    "views": 0
+   },
+   {
+    "id": "4ad2eeb6-0cc3-4391-9b87-8425dd5de4cd",
+    "mNames": "Where Jambudipa and Islamdom Converged",
+    "mImageUrls": "https://lh3.googleusercontent.com/d/1ifi2XPg823LLAnXbxeeyydHETzGrkXFf",
+    "mDescription": "PhD dissertation on religious change and Buddhist communalism in early modern Arakan, 15th–19th centuries.\nAuthor : Michael W. Charney\nYear : 1999\nPages : 391\nFile Size : 9.5 MB",
+    "mdwnurl": "https://drive.google.com/uc?export=download&id=1iAwen69t968SsuWmtBXNkZbf8ndb0HyO",
+    "views": 0
+   }
+  ],
+  "ReligiousBooks": [
+   {
+    "id": "216e5ae1-319f-48e3-99f4-56af88ad5dad",
+    "mNames": "About the Prophets (Handwritten, 1999)",
+    "mImageUrls": "https://lh3.googleusercontent.com/d/1RrVmXsbdl2AYeIalA8y9XBQTJzj653VT",
+    "mDescription": "Accounts of the prophets in Rohingya, a handwritten manuscript from 1999, scanned.\nYear : 1999\nLanguage : Rohingya (Hanifi script)\nPages : 26\nFile Size : 10.7 MB",
+    "mdwnurl": "https://drive.google.com/uc?export=download&id=1sQtk8MXw14U3j9MbIGrubEgFawaVtDo1",
+    "views": 0
+   },
+   {
+    "id": "80561b4a-9ddc-4fa4-8e1e-13455ac9a1d5",
+    "mNames": "Islam Dormo",
+    "mImageUrls": "https://lh3.googleusercontent.com/d/12j2f4F5LM2KS3IT_r0gO_CeQKCHS2n8T",
+    "mDescription": "Islamic studies book in Rohingya, scanned.\nLanguage : Rohingya (Hanifi script)\nPages : 42\nFile Size : 25.7 MB",
+    "mdwnurl": "https://drive.google.com/uc?export=download&id=1td4FSQIRpeWZcRyUtQSV2jiVLRukK5R0",
+    "views": 0
+   },
+   {
+    "id": "e9fdb4aa-535d-48ab-bef2-a5f1d0076f2e",
+    "mNames": "Islamiyat Book 3",
+    "mImageUrls": "https://lh3.googleusercontent.com/d/1sWjTzUBkLSStCcTu_wIGHPkcUMcCS31N",
+    "mDescription": "Islamic studies school textbook in Rohingya, book 3, from the Rohingya Project school series.\nLanguage : Rohingya (Hanifi script)\nPages : 22\nFile Size : 5.0 MB",
+    "mdwnurl": "https://drive.google.com/uc?export=download&id=1e8dAA0Y-yTk2pG3-FqXiqQHtkXvriX5n",
+    "views": 0
+   },
+   {
+    "id": "2b636b90-e978-4466-a94d-61feaadbcdae",
+    "mNames": "Kul Musalmanor Zoruri Sobok",
+    "mImageUrls": "https://lh3.googleusercontent.com/d/1F4iKZjAILUOAQYP-SH-nBjI3Qh8PqLK5",
+    "mDescription": "Essential lessons every Muslim needs, in Rohingya.\nLanguage : Rohingya (Hanifi script)\nPages : 56\nFile Size : 27.3 MB",
+    "mdwnurl": "https://drive.google.com/uc?export=download&id=14lgstc6semthkaHdwHRMVAJ2pjkD0mBZ",
+    "views": 0
+   },
+   {
+    "id": "f073671a-c69a-48b3-9a02-6c4bdc95c0e8",
+    "mNames": "Malumat Haj",
+    "mImageUrls": "https://lh3.googleusercontent.com/d/1uDNlPppyC9S4O7-e7Rk0oHgn8yd_TOco",
+    "mDescription": "A short Rohingya guide to the Hajj.\nLanguage : Rohingya (Hanifi script)\nPages : 3\nFile Size : 1.8 MB",
+    "mdwnurl": "https://drive.google.com/uc?export=download&id=1zqaoPZie9HFnwS9jHfw78UFAtpZbC-_H",
+    "views": 0
+   },
+   {
+    "id": "cb1597f0-c545-45b8-9bc7-26cbe3475488",
+    "mNames": "Numaz (Prayer)",
+    "mImageUrls": "https://lh3.googleusercontent.com/d/1hw7_c1LvGDzoRW-yZ1iBd3Or6nO1i_XK",
+    "mDescription": "How to perform the Islamic prayer, explained in Rohingya.\nLanguage : Rohingya (Hanifi script)\nPages : 49\nFile Size : 28.5 MB",
+    "mdwnurl": "https://drive.google.com/uc?export=download&id=1DtR8bAS_fGGAGzw8WR-MSl5yyZ5igaSl",
+    "views": 0
+   },
+   {
+    "id": "63ffb64b-f2e6-4d3f-b917-981fa6ba9969",
+    "mNames": "Prayer (Handwritten, 1991)",
+    "mImageUrls": "https://lh3.googleusercontent.com/d/1RpFqKjP5hJdANhgATwH0WtoBQj3D6Qmb",
+    "mDescription": "A handwritten Rohingya prayer book from 1991, scanned.\nYear : 1991\nLanguage : Rohingya (Hanifi script)\nPages : 48\nFile Size : 21.6 MB",
+    "mdwnurl": "https://drive.google.com/uc?export=download&id=1jgPJU61nSrPjfer6r4MdfCp0TdZOzbO-",
+    "views": 0
+   },
+   {
+    "id": "bb0d69c5-8ebe-420b-b305-618a9e177424",
+    "mNames": "Surah Al-Fatiha in Rohingya",
+    "mImageUrls": "https://lh3.googleusercontent.com/d/1hqOn61zIe2bjgw2n0w3k2jsjlziYrOfp",
+    "mDescription": "Surah Al-Fatiha in Rohingya (Latin script) alongside the Arabic and English.\nAuthor : Rohingya Language Foundation\nYear : 2018\nLanguage : Rohingya (Latin script), Arabic, English\nPages : 12\nFile Size : 1.6 MB",
+    "mdwnurl": "https://drive.google.com/uc?export=download&id=1mqWSkHdGZMztMCJJbp90-OQPQvM-uZmJ",
+    "views": 0
+   },
+   {
+    "id": "44884c24-3f68-46ce-bf1e-fb379881b2cc",
+    "mNames": "Tafsir of Surah Al-Asr in Rohingya",
+    "mImageUrls": "https://lh3.googleusercontent.com/d/11O7o6Hin-ndNE4n0QbrCpXRzbFeySB1C",
+    "mDescription": "Commentary on Surah Al-Asr in the Rohingya language.\nLanguage : Rohingya (Hanifi script)\nPages : 8\nFile Size : 3.3 MB",
+    "mdwnurl": "https://drive.google.com/uc?export=download&id=1NpK4T76DZ_0ufMPif22kQXi5z-wBwj5s",
+    "views": 0
+   },
+   {
+    "id": "78ca99de-e523-4052-96dc-5ad0ae7659f6",
+    "mNames": "Tafsir of the Quran (Handwritten, 2001)",
+    "mImageUrls": "https://lh3.googleusercontent.com/d/19QobDwCR2hXmG-5MLyKWRFniXBGoh2oP",
+    "mDescription": "A handwritten Quran commentary in Rohingya from 2001, scanned.\nYear : 2001\nLanguage : Rohingya (Hanifi script)\nPages : 31\nFile Size : 16.6 MB",
+    "mdwnurl": "https://drive.google.com/uc?export=download&id=1EpWVmlUtwPEPYwNw3MCoEcVuxSmfkw6g",
+    "views": 0
+   },
+   {
+    "id": "2671d592-9a8d-4235-b534-bd0601ef3f83",
+    "mNames": "Tafsir of the Quran in Rohingya",
+    "mImageUrls": "https://lh3.googleusercontent.com/d/1ds_W-RndsUEtVS6JAW6LJ28vzk1OSGag",
+    "mDescription": "A Quran commentary written in the Rohingya language.\nLanguage : Rohingya (Hanifi script)\nPages : 31\nFile Size : 20.3 MB",
+    "mdwnurl": "https://drive.google.com/uc?export=download&id=1bS1XOvwFDQ9HuqaWpns2VPfbywJh77J-",
+    "views": 0
+   },
+   {
+    "id": "41b8e738-a596-478b-8312-fb18326f85ae",
+    "mNames": "Talim Islam (Handwritten, 1986)",
+    "mImageUrls": "https://lh3.googleusercontent.com/d/1Y3efXSekm24jy2HIajmmRL6d26ynmV1z",
+    "mDescription": "A handwritten Rohingya book of Islamic teaching from 1986, scanned.\nYear : 1986\nLanguage : Rohingya (Hanifi script)\nPages : 29\nFile Size : 10.5 MB",
+    "mdwnurl": "https://drive.google.com/uc?export=download&id=1GmISAwFPBHEEOYSS6fud4qO-RcBmn--P",
+    "views": 0
+   },
+   {
+    "id": "f4b244de-93f4-4c76-96c1-a51847fbea30",
+    "mNames": "The Pen, the First Creation (Handwritten, 2001)",
+    "mImageUrls": "https://lh3.googleusercontent.com/d/1PKspPJFyDaFvVB8q36lsTXCmVd5bVnDr",
+    "mDescription": "A handwritten Rohingya religious text on the pen as the first creation, 2001, scanned.\nYear : 2001\nLanguage : Rohingya (Hanifi script)\nPages : 28\nFile Size : 13.4 MB",
+    "mdwnurl": "https://drive.google.com/uc?export=download&id=1zRlzJaBq9uiUoWOOEEcJ3rg04uetl4cY",
+    "views": 0
+   },
+   {
+    "id": "905fbb14-5de1-48b9-874d-ec79f97f11cf",
+    "mNames": "The Reward for Good Deeds (Handwritten, 1995)",
+    "mImageUrls": "https://lh3.googleusercontent.com/d/12Wilc0j9iuQ6-6ZPCkbPrTnbaGVfa6mJ",
+    "mDescription": "A handwritten Rohingya book on the rewards of good deeds, 1995, scanned.\nYear : 1995\nLanguage : Rohingya (Hanifi script)\nPages : 24\nFile Size : 10.3 MB",
+    "mdwnurl": "https://drive.google.com/uc?export=download&id=1t5lP-lDAYNT9X-Oo5VpHPWKWZqavb1Pq",
+    "views": 0
+   },
+   {
+    "id": "075d3a69-049c-4f58-9a94-c142e0b16b51",
+    "mNames": "What Is Islam (Handwritten, 1993)",
+    "mImageUrls": "https://lh3.googleusercontent.com/d/1o77F-JFy7xSCod18Bb4ELL5enwg5aysy",
+    "mDescription": "A handwritten introduction to Islam in Rohingya from 1993, scanned.\nYear : 1993\nLanguage : Rohingya (Hanifi script)\nPages : 54\nFile Size : 16.1 MB",
+    "mdwnurl": "https://drive.google.com/uc?export=download&id=1lO4WlFJXJAUmQl0M2XxiaRhi5gbGBU8M",
+    "views": 0
+   }
+  ]
+ },
+ "move": [
+  {
+   "mdwnurl": "https://drive.google.com/uc?export=download&id=1p6Ho7sOhc8YDX60VLcariGuegANaVuAJ",
+   "from": "OtherBooks",
+   "to": "ReportsResearch",
+   "title": "I still don't feel safe to go home"
+  },
+  {
+   "mdwnurl": "https://drive.google.com/uc?export=download&id=19r7pNcshFrdaMSkZMwyJrr5j2AwhW-7U",
+   "from": "OtherBooks",
+   "to": "ReportsResearch",
+   "title": "JRP for Rohingya Humanitarian Crisis 2018"
+  },
+  {
+   "mdwnurl": "https://drive.google.com/uc?export=download&id=1hsRSMGV0A8uu8_8-Kijp7shQj1kV-a3k",
+   "from": "OtherBooks",
+   "to": "ReportsResearch",
+   "title": "Rohingya refugees and contemporary issues in Malaysia"
+  },
+  {
+   "mdwnurl": "https://drive.google.com/uc?export=download&id=16OFd2DgZspGeWcZLYw0oHmhmW8vYTIfA",
+   "from": "OtherBooks",
+   "to": "ReportsResearch",
+   "title": "The Latest Massacre in violance field"
+  },
+  {
+   "mdwnurl": "https://drive.google.com/uc?export=download&id=1Ws5wk2c0f_xM8wdwOYLNNPYe2-Dwjlmd",
+   "from": "OtherBooks",
+   "to": "ReportsResearch",
+   "title": "The persecution of the Rohingya by the Burmese (Myanmar) Government"
+  },
+  {
+   "mdwnurl": "https://drive.google.com/uc?export=download&id=18GdEfCXhu3LBAaswcqpE2p-0oZLAw6in",
+   "from": "OtherBooks",
+   "to": "ReportsResearch",
+   "title": "Suspended in time :The ongoing persecution of Rohingya"
+  },
+  {
+   "mdwnurl": "https://drive.google.com/uc?export=download&id=1hPIawVsqUJSrc5jeUCzHnmJ8UVGY-KLw",
+   "from": "OtherBooks",
+   "to": "ReportsResearch",
+   "title": "The persecution of the Rohingya by the Burmese (Myanmar) Government"
+  },
+  {
+   "mdwnurl": "https://drive.google.com/uc?export=download&id=1iQ0ZYDWkQ13tz5_ZaWPqj-eltEbnd4ki",
+   "from": "OtherBooks",
+   "to": "ReportsResearch",
+   "title": "The Rohingya Muslims in Myanmar Past, Present, and Future"
+  },
+  {
+   "mdwnurl": "https://drive.google.com/uc?export=download&id=1t0QsQDHeVKDSPrHWuk2JLs2oEZR1SaWu",
+   "from": "OtherBooks",
+   "to": "ReportsResearch",
+   "title": "The Rohingya Origin Story Two Narratives, One Conflict"
+  },
+  {
+   "mdwnurl": "https://drive.google.com/uc?export=download&id=1lyzJoxdXC0tQoszU8mAhFx7127wD131s",
+   "from": "OtherBooks",
+   "to": "HistoricalBooks",
+   "title": "သိန်းစိန်ထံရိုဟင်ဂျာတွေရဲ့အိတ်ဖွင့်ပေးစာ"
+  },
+  {
+   "mdwnurl": "https://drive.google.com/uc?export=download&id=1RX39492b6400HFNe5wrkMWUfhV1xmIVj",
+   "from": "OtherBooks",
+   "to": "ReportsResearch",
+   "title": "Report on enviromental impact of Rohingya influx"
+  },
+  {
+   "mdwnurl": "https://drive.google.com/uc?export=download&id=1RAFyT7zyzes3WGx240JMFHHTanrrzcGd",
+   "from": "OtherBooks",
+   "to": "ReportsResearch",
+   "title": "Bob Rae's Final Report on Rohingya"
+  },
+  {
+   "mdwnurl": "https://drive.google.com/uc?export=download&id=1jTMBRhSFfAKcu9UYCMGtSQq_ElF7DPhM",
+   "from": "OtherBooks",
+   "to": "ReportsResearch",
+   "title": "Citizenship Challenges in Myanmar’s Democratic Transition"
+  },
+  {
+   "mdwnurl": "https://drive.google.com/uc?export=download&id=1T2-RcJPsckMdQhWS5eTVllUEYJMo-Rqe",
+   "from": "OtherBooks",
+   "to": "ReportsResearch",
+   "title": "Pahari Gorkhali Rohingya"
+  },
+  {
+   "mdwnurl": "https://drive.google.com/uc?export=download&id=1aWbGNf6uLh4oCF0r1oiPNoXpV2IGkmIU",
+   "from": "OtherBooks",
+   "to": "HistoricalBooks",
+   "title": "Rohingya being the Indigenous"
+  },
+  {
+   "mdwnurl": "https://drive.google.com/uc?export=download&id=1CltoC5CFr1O3ZTRKXWLcaf1Gfj_0F51-",
+   "from": "OtherBooks",
+   "to": "ReportsResearch",
+   "title": "Rohingya crisis response children's consultation report"
+  },
+  {
+   "mdwnurl": "https://drive.google.com/uc?export=download&id=1CltoC5CFr1O3ZTRKXWLcaf1Gfj_0F51-",
+   "from": "OtherBooks",
+   "to": "ReportsResearch",
+   "title": "Rohingya crisis response children's consultation report"
+  },
+  {
+   "mdwnurl": "https://drive.google.com/uc?export=download&id=1a87C6hjYiA23PJrtpgCZ0ynUVZS8Sxpn",
+   "from": "OtherBooks",
+   "to": "ReportsResearch",
+   "title": "Rohingya in France language"
+  },
+  {
+   "mdwnurl": "https://drive.google.com/uc?export=download&id=1JgOjR1twNoOcMRwS9JzN1XDHa0-hirdW",
+   "from": "OtherBooks",
+   "to": "ReportsResearch",
+   "title": "Rohingya nescent to neighbour"
+  },
+  {
+   "mdwnurl": "https://drive.google.com/uc?export=download&id=19f85nON3rNK0P8jr0nBsM1wrJJpkJs-q",
+   "from": "OtherBooks",
+   "to": "ReportsResearch",
+   "title": "Rohingya refugee children face a perilous future"
+  },
+  {
+   "mdwnurl": "https://drive.google.com/uc?export=download&id=1mtGHTZB-5zUtvZMJ5aSAAkyBSa3jNYrD",
+   "from": "OtherBooks",
+   "to": "ReportsResearch",
+   "title": "Rohingya The forgotten People"
+  },
+  {
+   "mdwnurl": "https://drive.google.com/uc?export=download&id=1ZxQepmp00c2PFg9T44MF84CZlJs2Ro99",
+   "from": "OtherBooks",
+   "to": "ReportsResearch",
+   "title": "We are at breaking point(Report by Amnesty International"
+  },
+  {
+   "mdwnurl": "https://drive.google.com/uc?export=download&id=1Tu1lRfGBdxAbWdBg-e1CVAbuBTbwoXxa",
+   "from": "OtherBooks",
+   "to": "ReportsResearch",
+   "title": "ခိုးဝင်ဘင်္ဂလီ(သို့မဟုတ်) Rohingya Genocide"
+  },
+  {
+   "mdwnurl": "https://drive.google.com/uc?export=download&id=1oXmugQdpRsJRSNN4Rpn02uA95X7m82PC",
+   "from": "OtherBooks",
+   "to": "HistoricalBooks",
+   "title": "Rohingya MPs letter to burma human rights commission"
+  },
+  {
+   "mdwnurl": "https://drive.google.com/uc?export=download&id=1QLS0GFMA3wsjrBmpLRQM5NDSjk4DbQl5",
+   "from": "OtherBooks",
+   "to": "ReportsResearch",
+   "title": "Rakhine Rohingya conflict analysis"
+  },
+  {
+   "mdwnurl": "https://drive.google.com/uc?export=download&id=1rHtj9jKiw-YQMdnPKIt_LTshw7YZUcCF",
+   "from": "OtherBooks",
+   "to": "HistoricalBooks",
+   "title": "နစကတပ်စခန်းများ"
+  },
+  {
+   "mdwnurl": "https://drive.google.com/uc?export=download&id=1GYgfBrDgLun-5IZKWfdA8j39ZKqz_sfG",
+   "from": "OtherBooks",
+   "to": "ReportsResearch",
+   "title": "National Verification Cards: A Barrier to Rohingya Repatriation"
+  },
+  {
+   "mdwnurl": "https://drive.google.com/uc?export=download&id=1_7h2oiMU6FcdGYbYkACU0e8SPmr_ByNU",
+   "from": "OtherBooks",
+   "to": "ReportsResearch",
+   "title": "The Rohingya Conflict: An Analysis through the Lens of the Geopolitical Economy of Resources"
+  },
+  {
+   "mdwnurl": "https://drive.google.com/uc?export=download&id=12SLE81Z8xar3BevxlESZGY81XURAf8KY",
+   "from": "OtherBooks",
+   "to": "ReportsResearch",
+   "title": "\"We Will Destroy Everything\": Military Responsibility for Crimes against Humanity in Rakhine State"
+  },
+  {
+   "mdwnurl": "https://drive.google.com/uc?export=download&id=1YV0vnCamxvjF5oiuKQiDrFjSPyFYiTOV",
+   "from": "OtherBooks",
+   "to": "ReportsResearch",
+   "title": "BRAC Annual Report 2017"
+  },
+  {
+   "mdwnurl": "https://drive.google.com/uc?export=download&id=1cxGBq15nJaaTD5jswKOUEcc2cR51S5GU",
+   "from": "OtherBooks",
+   "to": "HistoricalBooks",
+   "title": "Rohingya: Indigenous, Ethnic Cleansing"
+  },
+  {
+   "mdwnurl": "https://drive.google.com/uc?export=download&id=1R9chH38B3mkZ6faE-W8LHe8aFzvRPUcN",
+   "from": "RohingyaBooks",
+   "to": "ReligiousBooks",
+   "title": "Islam Dormo Duyom Class"
+  },
+  {
+   "mdwnurl": "https://drive.google.com/uc?export=download&id=1R0Pc0l9R-uBtELzI6vGlznepuQRe94su",
+   "from": "RohingyaBooks",
+   "to": "ReligiousBooks",
+   "title": "Rosul Or Naam"
+  },
+  {
+   "mdwnurl": "https://drive.google.com/uc?export=download&id=1Lh2m3Jo5g_EDNK3LfdJ54eSeCBKb_3K3",
+   "from": "HistoricalBooks",
+   "to": "ReportsResearch",
+   "title": "Human Rights Abuses and Discrimination on Rohingyas"
+  },
+  {
+   "mdwnurl": "https://drive.google.com/uc?export=download&id=10hj0SlEeuyzDbJMi2QXHDApLGHtByK9K",
+   "from": "HistoricalBooks",
+   "to": "ReportsResearch",
+   "title": "Dignity and the displaced Rohingya in Bangladesh"
+  },
+  {
+   "mdwnurl": "https://drive.google.com/uc?export=download&id=1NdHdB9y3oEXXiadZW2nCiVZZBRgtAAn6",
+   "from": "HistoricalBooks",
+   "to": "OtherBooks",
+   "title": "Defence and security alert magazine"
+  },
+  {
+   "mdwnurl": "https://drive.google.com/uc?export=download&id=1UXlicCZyfR-NnvSGRhz83HJN-r0nOTBW",
+   "from": "HistoricalBooks",
+   "to": "BurmaArchives",
+   "title": "1983 Burma population Census-Book"
+  },
+  {
+   "mdwnurl": "https://drive.google.com/uc?export=download&id=1VGOq4-HIQhpVFjrOUorQfOX9oS1tHZoB",
+   "from": "HistoricalBooks",
+   "to": "ReportsResearch",
+   "title": "A History of Shielding Abusers"
+  },
+  {
+   "mdwnurl": "https://drive.google.com/uc?export=download&id=1Zd4FNd-T0UFUHZ5XMgFqKL5EeQKuhD4A",
+   "from": "HistoricalBooks",
+   "to": "ReportsResearch",
+   "title": "Country Policy and Information Note  Burma: Rohingya"
+  },
+  {
+   "mdwnurl": "https://drive.google.com/uc?export=download&id=1nG5K4TZ_QSJAYmaIB-EnjHLXRMVOFvCi",
+   "from": "HistoricalBooks",
+   "to": "ReportsResearch",
+   "title": "Myanmars armed forces and the rohingya crisis"
+  },
+  {
+   "mdwnurl": "https://drive.google.com/uc?export=download&id=1FedSA-3gaMSjCr1W16JrIzMg-pHuIapB",
+   "from": "HistoricalBooks",
+   "to": "ReportsResearch",
+   "title": "Political Buddhism and the Exclusion of Rohingya in Myanmar"
+  },
+  {
+   "mdwnurl": "https://drive.google.com/uc?export=download&id=1mKOI3EPiKcQDSqtFC3OxrqUEB9mt3ZhA",
+   "from": "HistoricalBooks",
+   "to": "ReportsResearch",
+   "title": "Rohingya Briefing Report"
+  },
+  {
+   "mdwnurl": "https://drive.google.com/uc?export=download&id=1sYlePy25WPXs-rUwG4P4O74Cp52j9SqW",
+   "from": "HistoricalBooks",
+   "to": "ReportsResearch",
+   "title": "Rohingyas in India : Birth of a stateless community"
+  },
+  {
+   "mdwnurl": "https://drive.google.com/uc?export=download&id=1hXhJqRQHiWoRgt5Jrq6EZG-yCFZ72Pi5",
+   "from": "HistoricalBooks",
+   "to": "ReportsResearch",
+   "title": "Special feature Rohingya refugees in Bangladesh the humanitarian response "
+  },
+  {
+   "mdwnurl": "https://drive.google.com/uc?export=download&id=1seCUi8yQS0EMqDdXT6HDGVIefPUhFxL7",
+   "from": "HistoricalBooks",
+   "to": "ReportsResearch",
+   "title": "The Rohingya Crises in Bangladesh and Burma"
+  },
+  {
+   "mdwnurl": "https://drive.google.com/uc?export=download&id=11v02QYlSTun-tpispSXbRlG3_Ck2lovZ",
+   "from": "HistoricalBooks",
+   "to": "ReportsResearch",
+   "title": "Myanmar-the-politics-of-rakhine-state"
+  },
+  {
+   "mdwnurl": "https://drive.google.com/uc?export=download&id=1gTPr3-3aB0KatuCa0cuXr_B5yne3MtjB",
+   "from": "HistoricalBooks",
+   "to": "ReportsResearch",
+   "title": "All you can do is pray"
+  },
+  {
+   "mdwnurl": "https://drive.google.com/uc?export=download&id=1U3JfxaS9bu2R_yB__zSn-ldaVmKefpJB",
+   "from": "HistoricalBooks",
+   "to": "ReportsResearch",
+   "title": "Myanmar's Crime against Humanity"
+  },
+  {
+   "mdwnurl": "https://drive.google.com/uc?export=download&id=1QwCeVS6MkvwKMeEDrE00jd82oqYGvPuK",
+   "from": "HistoricalBooks",
+   "to": "BurmaArchives",
+   "title": "မြန်မာ့စွယ်စုံကျမ်း အတွဲ (၉) အပိုင်း (က)"
+  },
+  {
+   "mdwnurl": "https://drive.google.com/uc?export=download&id=1iZqZ-dhAf6jUaAuAuVgLkIEJMZSFBG2Y",
+   "from": "HistoricalBooks",
+   "to": "ReportsResearch",
+   "title": "The Slow Burning Genocide Of Myanmar's Rohingya"
+  },
+  {
+   "mdwnurl": "https://drive.google.com/uc?export=download&id=16M_K9pdo1bGscGLimtqGLjJN6GqixMQ_",
+   "from": "HistoricalBooks",
+   "to": "ReportsResearch",
+   "title": "PERSECUTION OF THE ROHINGYA MUSLIMS"
+  },
+  {
+   "mdwnurl": "https://drive.google.com/uc?export=download&id=1NKWStb8Rqflb98iY9jdjC46Ewf7jx9H2",
+   "from": "HistoricalBooks",
+   "to": "ReportsResearch",
+   "title": "Everywhere is Trouble"
+  },
+  {
+   "mdwnurl": "https://drive.google.com/uc?export=download&id=14rcQQdJv4UdxwW_4Mclg8QlJtgUyhHs0",
+   "from": "HistoricalBooks",
+   "to": "ReportsResearch",
+   "title": "Genocide of the Rohingya of Myanmar in 2012"
+  },
+  {
+   "mdwnurl": "https://drive.google.com/uc?export=download&id=1Z1J85Yv0CYH3LEijmK41He8SSXyQN24d",
+   "from": "HistoricalBooks",
+   "to": "ReportsResearch",
+   "title": "ဒူချီးရာတန်းအစီရင်ခံစာ"
+  },
+  {
+   "mdwnurl": "https://drive.google.com/uc?export=download&id=1PnFBSoWX456vighFIYKOzdfrKkl6c0S9",
+   "from": "HistoricalBooks",
+   "to": "ReportsResearch",
+   "title": "Rakhine Conflict and Peaceful Co Exitance"
+  },
+  {
+   "mdwnurl": "https://drive.google.com/uc?export=download&id=1UVRtNsXhdKcJUH7g3l2b7hCK-_TsKMOd",
+   "from": "HistoricalBooks",
+   "to": "ReportsResearch",
+   "title": "Rohingya by ABSDF"
+  },
+  {
+   "mdwnurl": "https://drive.google.com/uc?export=download&id=1tbNTQFrIkr6EDCSij2YlNBP_HmcnV8Wc",
+   "from": "HistoricalBooks",
+   "to": "OtherBooks",
+   "title": "Universal Declaration of Human Right in Burmese"
+  },
+  {
+   "mdwnurl": "https://drive.google.com/uc?export=download&id=19ym1_St968WKSbJj6sC07wcYix7VBRtF",
+   "from": "HistoricalBooks",
+   "to": "ReportsResearch",
+   "title": "Rohingya: Stateless People and Nowhere to Go"
+  },
+  {
+   "mdwnurl": "https://drive.google.com/uc?export=download&id=1WRuZH5owAQu1SGWxcaYyCEgAgBp3Fo1O",
+   "from": "HistoricalBooks",
+   "to": "ReportsResearch",
+   "title": "Genocide and Geopolitics of the Rohingya Crisis"
+  },
+  {
+   "mdwnurl": "https://drive.google.com/uc?export=download&id=14Ixw1O2oR2FWHgm__cyEQU5CgTdtkNYW",
+   "from": "HistoricalBooks",
+   "to": "ReportsResearch",
+   "title": "Countdown to Annihilation: Genocide in Myanmar"
+  },
+  {
+   "mdwnurl": "https://drive.google.com/uc?export=download&id=1KgAr8qCof3hspdPSA1rHoLWimXIYeMcn",
+   "from": "HistoricalBooks",
+   "to": "ReportsResearch",
+   "title": "Final Report of Inquiry Commission on Sectarian Violence in Rakhine State"
+  }
+ ],
+ "relink": [
+  {
+   "from": "https://drive.google.com/uc?export=download&id=1eA1p1lzC-EFL-rgW_nqOvpGdKx9mmEIep",
+   "to": "https://drive.google.com/uc?export=download&id=1ZxQepmp00c2PFg9T44MF84CZlJs2Ro99",
+   "title": "We are at breaking point(Report by Amnesty International"
+  }
+ ]
+}
